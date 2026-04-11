@@ -1,0 +1,156 @@
+{
+  "song": "Juicy",
+  "tempo": 95.703125,
+  "dnas": [
+    {
+      "dirs": "DUDU",
+      "count": 183,
+      "avg_jump": 9.0,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "UDUD",
+      "count": 173,
+      "avg_jump": 6.75,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "UDUDU",
+      "count": 115,
+      "avg_jump": 7.8,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "DUDUD",
+      "count": 112,
+      "avg_jump": 7.8,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "DUDUDU",
+      "count": 88,
+      "avg_jump": 8.5,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "UDUDUD",
+      "count": 76,
+      "avg_jump": 7.333333333333333,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "DUDUDUD",
+      "count": 64,
+      "avg_jump": 9.285714285714286,
+      "phrase_len": 7
+    },
+    {
+      "dirs": "UDUDUDU",
+      "count": 60,
+      "avg_jump": 8.428571428571429,
+      "phrase_len": 7
+    },
+    {
+      "dirs": "DUDUDUDU",
+      "count": 51,
+      "avg_jump": 12.375,
+      "phrase_len": 8
+    },
+    {
+      "dirs": "DUUD",
+      "count": 97,
+      "avg_jump": 9.5,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "DUDD",
+      "count": 91,
+      "avg_jump": 8.25,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "UDDU",
+      "count": 90,
+      "avg_jump": 9.0,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "UDUDUDUD",
+      "count": 44,
+      "avg_jump": 9.125,
+      "phrase_len": 8
+    },
+    {
+      "dirs": "DUDUDUDUD",
+      "count": 37,
+      "avg_jump": 13.222222222222221,
+      "phrase_len": 9
+    },
+    {
+      "dirs": "UDUUD",
+      "count": 65,
+      "avg_jump": 9.8,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "UDUU",
+      "count": 77,
+      "avg_jump": 8.25,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "UDUDUDUDU",
+      "count": 34,
+      "avg_jump": 12.222222222222221,
+      "phrase_len": 9
+    },
+    {
+      "dirs": "DUDDU",
+      "count": 60,
+      "avg_jump": 9.4,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "DDUD",
+      "count": 71,
+      "avg_jump": 8.25,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "UDUDD",
+      "count": 56,
+      "avg_jump": 8.2,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "UUDUD",
+      "count": 55,
+      "avg_jump": 8.4,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "UDDUD",
+      "count": 55,
+      "avg_jump": 9.2,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "UDDUDU",
+      "count": 44,
+      "avg_jump": 9.666666666666666,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "DDUDU",
+      "count": 51,
+      "avg_jump": 8.0,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "DUDUUD",
+      "count": 42,
+      "avg_jump": 9.333333333333334,
+      "phrase_len": 6
+    }
+  ]
+}

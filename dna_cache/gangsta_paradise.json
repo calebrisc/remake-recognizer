@@ -1,0 +1,156 @@
+{
+  "song": "Gangsta Paradise",
+  "tempo": 80.74951171875,
+  "dnas": [
+    {
+      "dirs": "DUDU",
+      "count": 251,
+      "avg_jump": 17.0,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "UDUD",
+      "count": 238,
+      "avg_jump": 16.0,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "DUDUD",
+      "count": 170,
+      "avg_jump": 15.6,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "UDUDU",
+      "count": 127,
+      "avg_jump": 11.4,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "DUDUDU",
+      "count": 86,
+      "avg_jump": 32.0,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "DUDUDUD",
+      "count": 72,
+      "avg_jump": 29.142857142857142,
+      "phrase_len": 7
+    },
+    {
+      "dirs": "DUDUDUDU",
+      "count": 59,
+      "avg_jump": 28.5,
+      "phrase_len": 8
+    },
+    {
+      "dirs": "UDUDUD",
+      "count": 69,
+      "avg_jump": 10.666666666666666,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "UDUDUDU",
+      "count": 57,
+      "avg_jump": 31.714285714285715,
+      "phrase_len": 7
+    },
+    {
+      "dirs": "DUDUDUDUD",
+      "count": 44,
+      "avg_jump": 27.333333333333332,
+      "phrase_len": 9
+    },
+    {
+      "dirs": "UDUDUDUD",
+      "count": 45,
+      "avg_jump": 29.25,
+      "phrase_len": 8
+    },
+    {
+      "dirs": "UDUDUDUDU",
+      "count": 40,
+      "avg_jump": 28.666666666666668,
+      "phrase_len": 9
+    },
+    {
+      "dirs": "DUDUDUDUDU",
+      "count": 35,
+      "avg_jump": 22.1,
+      "phrase_len": 10
+    },
+    {
+      "dirs": "UDDU",
+      "count": 86,
+      "avg_jump": 15.75,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "DUUD",
+      "count": 85,
+      "avg_jump": 12.75,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "UDUDUDUDUD",
+      "count": 32,
+      "avg_jump": 27.6,
+      "phrase_len": 10
+    },
+    {
+      "dirs": "DUDDU",
+      "count": 60,
+      "avg_jump": 15.8,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "DDUDU",
+      "count": 60,
+      "avg_jump": 16.8,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "UDUDD",
+      "count": 59,
+      "avg_jump": 15.2,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "UDUDUDUDUDU",
+      "count": 26,
+      "avg_jump": 20.727272727272727,
+      "phrase_len": 11
+    },
+    {
+      "dirs": "DUDUDUDUDUD",
+      "count": 26,
+      "avg_jump": 27.727272727272727,
+      "phrase_len": 11
+    },
+    {
+      "dirs": "DUDD",
+      "count": 71,
+      "avg_jump": 15.0,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "UDUU",
+      "count": 69,
+      "avg_jump": 15.75,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "DUDUDD",
+      "count": 46,
+      "avg_jump": 13.833333333333334,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "DDUD",
+      "count": 68,
+      "avg_jump": 17.25,
+      "phrase_len": 4
+    }
+  ]
+}

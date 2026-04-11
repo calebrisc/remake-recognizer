@@ -1,0 +1,156 @@
+{
+  "song": "Ms Jackson",
+  "tempo": 95.703125,
+  "dnas": [
+    {
+      "dirs": "UDUD",
+      "count": 85,
+      "avg_jump": 1.0,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "UDUDU",
+      "count": 62,
+      "avg_jump": 1.0,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "DUDUD",
+      "count": 57,
+      "avg_jump": 1.0,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "DUDUDU",
+      "count": 44,
+      "avg_jump": 1.0,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "UDUDUD",
+      "count": 38,
+      "avg_jump": 1.0,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "UDUDUDU",
+      "count": 30,
+      "avg_jump": 1.0,
+      "phrase_len": 7
+    },
+    {
+      "dirs": "DUDUDUDU",
+      "count": 24,
+      "avg_jump": 1.0,
+      "phrase_len": 8
+    },
+    {
+      "dirs": "DUDUDUD",
+      "count": 27,
+      "avg_jump": 1.0,
+      "phrase_len": 7
+    },
+    {
+      "dirs": "DUDU",
+      "count": 42,
+      "avg_jump": 4.5,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "UDUDUDUD",
+      "count": 18,
+      "avg_jump": 1.0,
+      "phrase_len": 8
+    },
+    {
+      "dirs": "UDUDUDUDU",
+      "count": 15,
+      "avg_jump": 1.0,
+      "phrase_len": 9
+    },
+    {
+      "dirs": "DUDUDUDUDU",
+      "count": 13,
+      "avg_jump": 1.0,
+      "phrase_len": 10
+    },
+    {
+      "dirs": "DUDUDUDUDUD",
+      "count": 11,
+      "avg_jump": 1.0,
+      "phrase_len": 11
+    },
+    {
+      "dirs": "UDUDUDUDUDU",
+      "count": 11,
+      "avg_jump": 1.0,
+      "phrase_len": 11
+    },
+    {
+      "dirs": "UDUDUDUDUD",
+      "count": 12,
+      "avg_jump": 1.0,
+      "phrase_len": 10
+    },
+    {
+      "dirs": "DDUD",
+      "count": 18,
+      "avg_jump": 4.25,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "DUDUU",
+      "count": 13,
+      "avg_jump": 25.6,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "UDUDUUDUD",
+      "count": 7,
+      "avg_jump": 1.0,
+      "phrase_len": 9
+    },
+    {
+      "dirs": "UDDUD",
+      "count": 12,
+      "avg_jump": 4.8,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "UDDU",
+      "count": 14,
+      "avg_jump": 3.0,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "DUDUDUU",
+      "count": 8,
+      "avg_jump": 1.0,
+      "phrase_len": 7
+    },
+    {
+      "dirs": "UDUDUUD",
+      "count": 8,
+      "avg_jump": 1.0,
+      "phrase_len": 7
+    },
+    {
+      "dirs": "UDUDUUDU",
+      "count": 7,
+      "avg_jump": 1.0,
+      "phrase_len": 8
+    },
+    {
+      "dirs": "DDUDU",
+      "count": 11,
+      "avg_jump": 4.2,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "DUDUUD",
+      "count": 9,
+      "avg_jump": 17.333333333333332,
+      "phrase_len": 6
+    }
+  ]
+}

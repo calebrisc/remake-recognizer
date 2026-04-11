@@ -1,0 +1,156 @@
+{
+  "song": "Beat It",
+  "tempo": 135.99917763157896,
+  "dnas": [
+    {
+      "dirs": "DUDUD",
+      "count": 168,
+      "avg_jump": 9.8,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "UDUDU",
+      "count": 166,
+      "avg_jump": 12.0,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "DUDUDU",
+      "count": 117,
+      "avg_jump": 10.166666666666666,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "UDUDUD",
+      "count": 112,
+      "avg_jump": 11.5,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "DUDUDUD",
+      "count": 76,
+      "avg_jump": 10.0,
+      "phrase_len": 7
+    },
+    {
+      "dirs": "UDUDUDU",
+      "count": 71,
+      "avg_jump": 16.142857142857142,
+      "phrase_len": 7
+    },
+    {
+      "dirs": "DUUD",
+      "count": 84,
+      "avg_jump": 6.25,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "DUDD",
+      "count": 78,
+      "avg_jump": 13.75,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "UDUUD",
+      "count": 58,
+      "avg_jump": 18.0,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "UDUDD",
+      "count": 57,
+      "avg_jump": 15.6,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "DUUDU",
+      "count": 54,
+      "avg_jump": 15.4,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "DDUDUD",
+      "count": 43,
+      "avg_jump": 9.833333333333334,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "UUDU",
+      "count": 62,
+      "avg_jump": 15.25,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "UUDUD",
+      "count": 48,
+      "avg_jump": 15.4,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "DUDDUD",
+      "count": 40,
+      "avg_jump": 8.166666666666666,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "DUDUDUDU",
+      "count": 29,
+      "avg_jump": 23.125,
+      "phrase_len": 8
+    },
+    {
+      "dirs": "DUDUDUDUDU",
+      "count": 23,
+      "avg_jump": 8.6,
+      "phrase_len": 10
+    },
+    {
+      "dirs": "UDUUDU",
+      "count": 38,
+      "avg_jump": 17.666666666666668,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "UDUDUU",
+      "count": 38,
+      "avg_jump": 15.333333333333334,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "UDUUDUD",
+      "count": 32,
+      "avg_jump": 17.428571428571427,
+      "phrase_len": 7
+    },
+    {
+      "dirs": "DUDUUD",
+      "count": 37,
+      "avg_jump": 18.333333333333332,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "DUUDUD",
+      "count": 37,
+      "avg_jump": 15.5,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "DUDUU",
+      "count": 44,
+      "avg_jump": 18.4,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "DUDUUDU",
+      "count": 31,
+      "avg_jump": 18.0,
+      "phrase_len": 7
+    },
+    {
+      "dirs": "DUDUDUU",
+      "count": 30,
+      "avg_jump": 14.857142857142858,
+      "phrase_len": 7
+    }
+  ]
+}

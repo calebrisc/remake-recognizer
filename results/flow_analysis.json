@@ -1,0 +1,57 @@
+{
+  "BiG WaLt FIRE": {
+    "vocal_consistency": 0.803,
+    "vocal_presence": 0.812,
+    "rhythm_alignment": 0.847,
+    "space_score": 0.091,
+    "smoothness": 0.341,
+    "bar_structure": 0.138,
+    "vocal_clarity": 95.2,
+    "pitch_stability": 0.873,
+    "tempo": 96.0
+  },
+  "100kis ALMOST": {
+    "vocal_consistency": 0.799,
+    "vocal_presence": 0.875,
+    "rhythm_alignment": 0.945,
+    "space_score": 0.075,
+    "smoothness": 0.298,
+    "bar_structure": 0.033,
+    "vocal_clarity": 97.2,
+    "pitch_stability": 0.74,
+    "tempo": 96.0
+  },
+  "GARB: freestyle vid": {
+    "vocal_consistency": 0.806,
+    "vocal_presence": 0.704,
+    "rhythm_alignment": 0.897,
+    "space_score": -0.136,
+    "smoothness": 0.432,
+    "bar_structure": 0.163,
+    "vocal_clarity": 96.5,
+    "pitch_stability": 0.828,
+    "tempo": 129.0
+  },
+  "GARB: Marcel Paul": {
+    "vocal_consistency": 0.765,
+    "vocal_presence": 0.63,
+    "rhythm_alignment": 0.927,
+    "space_score": -0.394,
+    "smoothness": 0.598,
+    "bar_structure": 0.26,
+    "vocal_clarity": 97.5,
+    "pitch_stability": 0.235,
+    "tempo": 89.0
+  },
+  "GARB: realG SAURAV": {
+    "vocal_consistency": 0.816,
+    "vocal_presence": 0.715,
+    "rhythm_alignment": 0.93,
+    "space_score": 0.075,
+    "smoothness": 0.437,
+    "bar_structure": 0.178,
+    "vocal_clarity": 97.5,
+    "pitch_stability": 0.827,
+    "tempo": 152.0
+  }
+}

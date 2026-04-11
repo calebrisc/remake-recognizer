@@ -1,0 +1,156 @@
+{
+  "song": "Billie Jean",
+  "tempo": 117.45383522727273,
+  "dnas": [
+    {
+      "dirs": "DUDU",
+      "count": 59,
+      "avg_jump": 4.5,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "UDUD",
+      "count": 52,
+      "avg_jump": 4.75,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "UDUDU",
+      "count": 30,
+      "avg_jump": 4.8,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "DUDUD",
+      "count": 29,
+      "avg_jump": 4.6,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "UDDU",
+      "count": 33,
+      "avg_jump": 5.75,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "UDDUD",
+      "count": 26,
+      "avg_jump": 6.0,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "DUDUDU",
+      "count": 21,
+      "avg_jump": 4.666666666666667,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "UDUUD",
+      "count": 25,
+      "avg_jump": 8.2,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "DUDUU",
+      "count": 22,
+      "avg_jump": 7.0,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "DUDDU",
+      "count": 21,
+      "avg_jump": 6.2,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "DUUD",
+      "count": 25,
+      "avg_jump": 3.75,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "DUDUDUDUDUD",
+      "count": 9,
+      "avg_jump": 1.1818181818181819,
+      "phrase_len": 11
+    },
+    {
+      "dirs": "UUDU",
+      "count": 24,
+      "avg_jump": 4.0,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "UDUDUD",
+      "count": 16,
+      "avg_jump": 4.833333333333333,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "DUUDDU",
+      "count": 16,
+      "avg_jump": 6.666666666666667,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "UDUDUDUDUD",
+      "count": 9,
+      "avg_jump": 1.2,
+      "phrase_len": 10
+    },
+    {
+      "dirs": "UDUU",
+      "count": 22,
+      "avg_jump": 4.0,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "DUDD",
+      "count": 22,
+      "avg_jump": 4.75,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "DUDUUD",
+      "count": 14,
+      "avg_jump": 17.333333333333332,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "UUDDU",
+      "count": 16,
+      "avg_jump": 6.8,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "UDDUDU",
+      "count": 13,
+      "avg_jump": 5.333333333333333,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "DUDUDUD",
+      "count": 11,
+      "avg_jump": 4.714285714285714,
+      "phrase_len": 7
+    },
+    {
+      "dirs": "UDUDUDU",
+      "count": 11,
+      "avg_jump": 4.857142857142857,
+      "phrase_len": 7
+    },
+    {
+      "dirs": "UDUDUDUDUDU",
+      "count": 7,
+      "avg_jump": 1.1818181818181819,
+      "phrase_len": 11
+    },
+    {
+      "dirs": "DUDDUD",
+      "count": 12,
+      "avg_jump": 6.0,
+      "phrase_len": 6
+    }
+  ]
+}

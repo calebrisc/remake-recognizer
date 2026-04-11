@@ -1,0 +1,7 @@
+demucs
+librosa
+soundfile
+numpy
+torch
+torchaudio
+yt-dlp

@@ -1,0 +1,156 @@
+{
+  "song": "Hate It or Love It",
+  "tempo": 99.38401442307692,
+  "dnas": [
+    {
+      "dirs": "DUDU",
+      "count": 67,
+      "avg_jump": 11.0,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "UDUDU",
+      "count": 49,
+      "avg_jump": 11.8,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "UDUD",
+      "count": 60,
+      "avg_jump": 11.0,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "DUDUD",
+      "count": 41,
+      "avg_jump": 10.2,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "UDUDUD",
+      "count": 28,
+      "avg_jump": 11.0,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "UDUDUDU",
+      "count": 20,
+      "avg_jump": 10.857142857142858,
+      "phrase_len": 7
+    },
+    {
+      "dirs": "DUDUDU",
+      "count": 22,
+      "avg_jump": 10.166666666666666,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "DUDDU",
+      "count": 19,
+      "avg_jump": 8.6,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "DUUDU",
+      "count": 18,
+      "avg_jump": 12.6,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "UUDUD",
+      "count": 18,
+      "avg_jump": 12.6,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "UDDU",
+      "count": 22,
+      "avg_jump": 7.75,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "DUDUU",
+      "count": 16,
+      "avg_jump": 8.0,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "UDUDUDUD",
+      "count": 10,
+      "avg_jump": 10.75,
+      "phrase_len": 8
+    },
+    {
+      "dirs": "DUDUDUD",
+      "count": 11,
+      "avg_jump": 10.142857142857142,
+      "phrase_len": 7
+    },
+    {
+      "dirs": "UDUU",
+      "count": 19,
+      "avg_jump": 12.0,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "UDDUD",
+      "count": 15,
+      "avg_jump": 9.0,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "DDUDU",
+      "count": 13,
+      "avg_jump": 8.2,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "DUUD",
+      "count": 16,
+      "avg_jump": 14.0,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "UUDU",
+      "count": 16,
+      "avg_jump": 14.0,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "UDUUD",
+      "count": 12,
+      "avg_jump": 12.6,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "UUDUDU",
+      "count": 10,
+      "avg_jump": 13.0,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "DUDUUD",
+      "count": 10,
+      "avg_jump": 13.333333333333334,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "UDUDUU",
+      "count": 10,
+      "avg_jump": 8.0,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "DDUD",
+      "count": 14,
+      "avg_jump": 14.0,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "UUDUDUDU",
+      "count": 7,
+      "avg_jump": 11.875,
+      "phrase_len": 8
+    }
+  ]
+}

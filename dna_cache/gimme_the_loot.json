@@ -1,0 +1,156 @@
+{
+  "song": "Gimme the Loot",
+  "tempo": 95.703125,
+  "dnas": [
+    {
+      "dirs": "UDUDU",
+      "count": 40,
+      "avg_jump": 34.2,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "UDUD",
+      "count": 45,
+      "avg_jump": 12.5,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "DUDUD",
+      "count": 36,
+      "avg_jump": 30.2,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "DUDU",
+      "count": 30,
+      "avg_jump": 6.25,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "UDDU",
+      "count": 25,
+      "avg_jump": 17.75,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "UDUDUD",
+      "count": 16,
+      "avg_jump": 35.0,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "DUUDU",
+      "count": 18,
+      "avg_jump": 18.4,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "DUDUDU",
+      "count": 15,
+      "avg_jump": 31.666666666666668,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "DUDD",
+      "count": 20,
+      "avg_jump": 17.5,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "DDDU",
+      "count": 20,
+      "avg_jump": 1.5,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "DUUD",
+      "count": 20,
+      "avg_jump": 20.75,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "DUDDU",
+      "count": 14,
+      "avg_jump": 18.4,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "UDUUDU",
+      "count": 11,
+      "avg_jump": 27.0,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "UUDUD",
+      "count": 13,
+      "avg_jump": 12.4,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "UDUDD",
+      "count": 13,
+      "avg_jump": 10.2,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "UUDU",
+      "count": 16,
+      "avg_jump": 21.0,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "UDUU",
+      "count": 15,
+      "avg_jump": 6.5,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "DDDUU",
+      "count": 12,
+      "avg_jump": 1.2,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "DUDUU",
+      "count": 11,
+      "avg_jump": 6.0,
+      "phrase_len": 5
+    },
+    {
+      "dirs": "DUDUDUD",
+      "count": 7,
+      "avg_jump": 32.714285714285715,
+      "phrase_len": 7
+    },
+    {
+      "dirs": "UDDD",
+      "count": 12,
+      "avg_jump": 3.0,
+      "phrase_len": 4
+    },
+    {
+      "dirs": "DUDUDD",
+      "count": 8,
+      "avg_jump": 33.0,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "UDUDUU",
+      "count": 8,
+      "avg_jump": 11.5,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "DUUDUD",
+      "count": 8,
+      "avg_jump": 18.666666666666668,
+      "phrase_len": 6
+    },
+    {
+      "dirs": "DUUDD",
+      "count": 9,
+      "avg_jump": 6.2,
+      "phrase_len": 5
+    }
+  ]
+}
