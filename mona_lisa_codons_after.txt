@@ -1,0 +1,87 @@
+MONA LISA - Lil Wayne ft Kendrick Lamar
+EVENT-BASED CODONS (AFTER)
+1548 codons across 331s (4.7 codons/sec)
+
+Key change from time-based: 4th char is now event TRIGGER
+  D = drum hit | V = vocal onset | I = instrumental change
+
+============================================================
+
+0:04  _..I _..I _..I _..I V~|V V~|V V~|V V~|V V~|I v~|I V~|V V~|V v~|I v~|I _..V _..I _..I v~|V V~|V V~|V
+0:13  v~|I v~|V v~|I v~|V _..I _..D _..I _..D _..I _..D _..V V~|V v~|V V~|V v~|V V~|V _..V V<|V V+|D v~|V
+0:23  V~|V V<|V _..D V+|V _..D _..V V~|V v+|V v+|V V~|V v~|V v~|V V~|V _..V V+|D V~|V V<|V V>|D V<|V V+|D
+0:27  V+|V X~|V _..V _..D V~|V v+|V v+|D V~|V v~|V V~|V _..V V<|V V>|V V<|V V+|D V~|V v+|D V>|V V~|V V~|V
+0:31  V~|I V~|V V~|V V~|V V<|V V+|D V~|V V~|V v~|V X~|I V~|V V~|V V~|V V~|V V~|V V~|V V~|V X~|V V+|V V+:V
+0:35  v+|I _..V V~|V V~|V v<|V V+|D v~|V V~|V V~|V V~|V V~|V v~|V _..V V+|D V+|V V+|D v>|D V~|V V+|V _..D
+0:40  _..V V~|V V+|V V+|D V~|V V~|V V~|V V~|V v+|V V+|V V>|V V<|V V+|V V<|V V+|D V~|V V+|V v+|D _..V v~|V
+0:44  V~|V v+|V V+|D v~|I V~|V V~|V V~|V V~|V V+|D V+|D V~|V V<|V V+|D V+|V v>|D V+|V _..V V~|V X~|I V~|V
+0:48  V~|V V~|I V<|V V+|D V~|V X~|V V~|V V~|V V~|V V~|V V~|V V~|V X>|D V+|V V<|V V+|D V+|V V+|V V~|V V~|V
+0:52  V~|V V~|D V~|V V~|V X~|V V~|V X~|V V~|V V~|D V~|V _..V X~|V V~|V V~|V V~|V V~|V V~|V v~|V V~|V V~|V
+0:57  V~|V X~|V v~|V v~|V X~|V X~|V X~|V V~|D V~|V X~|V v~|V X~|V V~|V V~|V V~|V V~|V V~|D v~|V V~|V V~|V
+1:01  V~|V v~|V X~|V V~|V V+|D V~|V V~|V V~|V V~|V V~|V V~|V V~|V V~|V V~|V V~|V V~|V V~|V X~|V V~|I X~|V
+1:05  V~|V X~|V X~|V V~|V V~|V V~|V X~|V V~|V V~|V X+|V V+|D X~|V V~|V V~|V V~|V v~|V v~|V X~|I V~|I X+|V
+1:10  V+|D V+|V V~|V X~|V v~|I V~|V X~|V V~|V V~|V V~|V V<|V X+|D V~|I V~|V X~|V X~|V V~|V X~|V V~|V X~|V
+1:14  V~|V V~|D V~|V X~|V V~|V X~|V X~|V X~|V X~|V V+|V X+|D X~|V V~|V V~|V X~|V X~|V X~|D X~|V V<|V X+|V
+1:18  V~|V X~|V V~|I V~|V X~|D X~|I V~|V V~|V V~|I v~|V V>|D V+|D X~|V V~|I X~|V X~|V X~|V V~|V X~|V V~|V
+1:21  V~=V V~=V V~|V V~=V V~|V X~:V V~:V V~:V X+|V V+|I v~|V X+|V X+|D v>|V V<|V V+|I X+|V X~|V v~|V V+|V
+1:25  X>|D V+|D v+|V v>|V X+|V V+|D X~|V V~|V V<|V V+|D _..V X+|V X~|V X~|I V~|V V<|V V+|V V+|D V+|V v>|V
+1:30  X~|V X~|V V+|I X~|V X~|V V~|I V<|V V+|D V+|V V>|V V~|V X+|V V>|D V~|V V<|V V+|D V+|V v+|D v>|V X~|V
+1:34  X~|V V~|I V+|V V>|D V~|V V~|V V~|V V~|V V+|V V+|D V+|V X+|D X~|V X~|V V~|V V~|V V~|V V~|V V~|V V~|V
+1:38  V~|V V~|V X<|V V+|I _..V V+|V v+|V v+|D v+|D V~|V _..V V+|V V+|D V+|V _..V V+|D v>|V V+|V _..I _..V
+1:43  V~|V v<|V v+|V V>|D v+|V v~|V V~|V _..V V+|D V~|V V<|V V>|D V<|V V+|D V>|V X~|V _..V _..V _..V V+|D
+1:47  V~|V V<|V V+|D v~|V _..V V+|V V~|V V~|V v~|V _..V V+|I V+|D V<|V V>|D V+|V V+|D X~|V V~|I v<|V _..D
+1:50  _..V V~|V V~|V V+|V V+|D V>|D V+|D V+|V V~|V V~|I V~|V V~|V V~|V V~|V V~|V V~|V X~|V V+|V _..D _..V
+1:55  X~|V v>|V v+:D V+|V v+:V _..V _..V _..V V+:V X+|V V<|I X+|D X>|D X~|V V<:V V+|I V~|V V~|V X~|V V~|V
+1:59  V<|V V+|D v+|V V+|V V+|V V~:V X~|V X~|V V<|V V+|V V+|V X<|V X+|D V>|D V~|V V<|V V>|V V~|V V~|V V<|V
+2:03  V+|D v~|I v~|V X+|I v+|D V+|V V~|V X~|V V<|V V>|D X+|V V<|V X+|D v+|D v>|V V+|V V+|V V+|V X~|V V<|V
+2:07  V+|D X+|V X~|I V~|V v+|V V>|D X+|V V~|V V~|V v~|V V~|V _..I _..V V~|V V~|V X~|V V+|V V+|D v>|D V~|V
+2:12  X~|V V~|I V~|V V+|V V+|V V>|I V~|V V~|V V~|V v~|V v~|V V~|V V~|V V>|V V+|D v~|D V~|V V~|V V~|V V~|I
+2:16  V~|V X~|V V~|V V~|V V~|V V~|I V~|I X~|V V~|V V~|V V~|V V~|V X~|V V+|V X+|D v~|V v~|D V~|V X~|V V~|V
+2:20  V~|I V~|V V~|V V~|V V+|V V+|D v<|V v>|D V~|V V~|I V~|V X~|V v~|V V~|V V~|V X~|V V<|V V+|D v>|D V~|V
+2:23  V~|V V~|D V~|V V~|I V~|V V~|I V~|V X~|V V~|I V~|V V~|V v~|I X~|V X~|I V~|V X~|I V~|I X~|I v~|V v~|V
+2:26  V~|D X+|V V+|D V+|V _..D v~|V X~|V V~|I V~|V V~|V X~|V V~|V V~|D V~|V V+|D V+|D V+|V V~|V X+|V V>|D
+2:29  V~|V V~|V V~|I v~|V V~|V V+|V V+|D v>|I v~|V V~|V V~|D V~|V V~|V V~|V V<|V V>|D V~|I V+|V X+|D v~|I
+2:33  V~|V X~|V V~|V X~|V v~|V V~|V X~|D V+|I V+|V _..I v~|V V~|V V~|V X~|V V+|V V+|D V+|I V+|V X>|D V~|D
+2:37  V~|V V~|V V~|V V~|V V~=V v~:V V~=V V~=V v~:V v~:V V~:V V~=V V+|V V+:I V~=V V<=V X>|D X~|V V~|V X~|V
+2:42  X~|I V+|V X+|D V+|V V+|D X~|V V~|V V~|V V~|V V+|V V>|D V>|V X~|V V<|D X+|D v+|I V>|V X~|V X~|V V+|V
+2:45  V+|D V~|V V~|V V~|D X+|V V+|D V+|D V+|V _..I _..D v+|V V>|V V~|V V~|I V~|V V+|V V+|V X>|V V+|D X>|D
+2:48  V>|D V+|D X+|V V<|V V+|D V~|V V~|D V~|V X~|D X+|V V+|D _..D v+|V V+|V V~|V V~|V V~|V V~|I V<|V V+|D
+2:52  V~|I X+|V V+|D _..I v>|D X~|V V~|I X+|V V+|D V~|V V~|V V~|V V~|V X~|V V~|V V~|V V~|V X~|V X~|V V~|V
+2:56  V~|V X~|V X~|V V~|V X~|V v~|I X~|I X~|V V~|V V~|V V~|V V<|V V+|D X~|V V~|V X~|V V~|V V~|V V~|V V~|V
+2:59  X~|V V~|V V~|V V<|V V+|D V~|V X~|V V~|V V~|V V~|V V~|V X~|V V~|V X~|V V~|D V~:V V~|V X~|V V~|V X~|V
+3:03  V~|V X~|V V<|V V+|D V~:V V~|I V~|V X~|V V~|V V~|V X~|V V~|V V~|V X<|V X+|D X+|V X~|V X~|V V~|V V~|V
+3:07  V~|V X~|V X~|V V~|V V~|V X~|V X~|V X~|V V~|V _..I v~|V X~|I X~|V X~|V X~|V V~|V X~|D V~|V X~|V X~|V
+3:11  X~|V X~|V X~|I X~|V V~|V V~|I X~|V V~|V X~|I X~|V X~|V v~|I _..V V+|I V~|V V~|V V~|I V<|V V+|D V<|V
+3:14  V+|D V~|V V~|V V<|V V+|D V~|V V<|V X+|D V+|V V+|V X~|V V~|V V~|V X~=V X~=V V~=V V~=V V~:V V~=V X~=V
+3:18  X~:V V~:V X~=V V~:V V~:V X~=V V~:V X~=V X~:V V~=V V~=V V~:V V~=V X~|D X+|V X+|D V+|V V+|D V~|V v~|V
+3:23  X+|V V+|D X+|V X+|D X+|D X~|I V~|V _..V V+|V X~|V X~|V V~|V V<|V X+|D X+|D X+:V X~|D X~|I X<|V X+|D
+3:28  X~:V X~|D V<|V v>|D X~|V _..I v~=V V~|V V~|V X~|V V~|I V~|V V~|V V~|V V~|V V~|V V~|V V~|V V~|V V~|V
+3:34  X~|V V~|V V~|V V~|V V~|V V~|V V~|V V~|V V~|I V~|V V~|V V~|V X~|V V~|V V~|V X~|V X~|V X~|V V~|V X~|I
+3:38  V~|V X~|V V~|V X~|V V~|I X~|V V~|I V~|V V~|V V~|V V~|V X~|V X~|V V~|V V~|V V~|V X~|V V~|V V~|V V~|V
+3:41  V~|V X~|V V+|V X~|V X~|V V~|V V~|V V~|V V~|V V~|V V~|V v~|V X~|V V~|V X~|V V~|V X~|I V~|V V~|V _..V
+3:44  X~|I X~|V X~|V X~|V X~|V X~|I X~|V X~|V V~|V X~|V X~|V X~|V X~|I X~|V X~|I X~|V X~|V _..V _..I _..V
+3:49  V~|V v~|V v~|V v~|V V~|V _..I v~|V V~|V X~|V X~|V X~|V X~|V X~|V X~|V V~|I V~|V X~|V X~|V X~=V X~=V
+3:53  X~|V X~|I V~|V X~:V X~:V X~=V X~:V X~|I X~|V X~:I X~=V X~=V X~|I X~|V V~:V X~|V v~|I X~|V X~|V V~:V
+3:57  X~|V X~|V V~|V X~:V X~|V X~|V X~:V X~|V X~|V X~|V X~|V X~|V X~|V V~|V X~|V X~|V V~|V X~|V V~|V V~|V
+4:01  V~|V V~|V V~|V X~|V X~|V v~|I V~|V V~|V X~|V V~|V X~:V V~|I X~|V X~|V X~:V V~:V V~:V V~:V V+|V V+:D
+4:05  X~:V V~|V X~|V V~|I V~|V X~|I V~|V V~|V X~|V X+|V X+|D V~|V X~|V V~|D X~|V X~|D V~|D X~|V V+|V X>|V
+4:09  V<|V X+|D X~|V v~|I X~|V X~|D V~|D V~|V X~|V V~|V V~|V v~|D X~|V V+|V V+|D v+|V V+|V v~|I V~|V V~|D
+4:12  V~|V v<|V V+|I V+|V V>|V V+|V V+|V v+|D V~|V v~|I V~|V V~|V V~|V v~|D V~|I V~|V v~|I X~|V V<|I v>|D
+4:15  V~|V V~|I V~|V v~|D V~|V v~|I V~=V v~:I v~:V V~:V V~=I X~:V X~=V X~=V X~:V X~=V V~=V V~|V X~=V V~=V
+4:18  V~=V X~=V V~=V V~:V V~:V V~:V V~:V v~:V X+:V v+|D V+|V V+|D V+|V V<|V V+|D V~|V V+|V V+|D V+|V X+|V
+4:21  V+|D V+|V X~|V V~|V V~|I X~|V V<|D X+|D V+|D V+|V V+|D X+|V X>|I V~|V V~|I V~|V X+|V X+|V X+|V X~|V
+4:24  V~|V V~|V V~|V X+|V X+|D V~|I V+|I X+|V v>|D V~|V V~|V V>|V V+|D X+|V V+|D V+|V X+|V X+|V v>|D V~|D
+4:27  V~|V X~|V X~|V V~|V V~|V V~|V V~|V X~|V V~|I V~|V X~|V X~|V X~|I X~|V V~|I V~|V V~|V X~|V X~|V X~|V
+4:31  V~|I X~=V V~|V V~:I V~|I v~=I V~=V V~|I V~|V v~|I v~|V v~=V v~=I v~|I _..I v~:I X~=V X~=V X~=V X~=V
+4:35  X~:V V+|D V~|V X~|V V~|V V~|V X+|V X+|D v~|V _..V v+|D _..V v~|V X~|V X~|V V<|V X+|D V~|V V+|V X+|D
+4:39  X+|V V+|V X~|V X~|D X<|V X+|I X~|V X~|V X~|V V<|V X+|D X+|I X~:I V<|V X+|D V>|V X~|V X~|V X<|V X+|D
+4:42  V~|V V<|V X+|D X+|V V+|V X+|V X~|V V+|V X+|D X~|V X~|V X<|V X+|D X<|V X+|D X~|I X+|V X+|D X>|V X<|V
+4:46  X+|D X>|V X>|V X~|V X~|V V<|V X+|D X~|V V~|I X~|V X~|V X<|V X+|D X<|V X+|D X+|V X~|V X~|V X~|I X~=I
+4:49  X~:V V~|V X~|I X~|V X~|V X~|V X~|V X~|V X~|V X~|V X~|V V~|V X+|I X~|V X~|V X<|V X+|D X~:V X+|I X+|D
+4:53  X>|V X~|V X~|V X~|V V<|V X+|D X~|V V+|V X+|D X>:V X+|V X~|V X~|V X<|V X+|D X~|V V~|V X~|V X<|V X+|D
+4:56  X>|V X<:V X+|D X~|V X~|V X~|V V~|V X<|V X+|D V~|V V<|V X+|D V+|V V>|V X~|V V+|V V+|D V+|V X~|V X~|V
+5:00  X~|V X~|V X~|V V<|V X+|D X~|V X~|V V+|V X+|D V>|V V~|V X~|V X~|V V<|V X+|D V>|V X~|V X<|V X+|D X+|V
+5:02  X+|D X+|V X~|V V+|V X+|D X+|V X~|V X~|D X~|V V+|V X+|D X<|V X+|D X~|V X~|I X~|V V~|V X~|V X~|V X~|V
+5:05  X~|V X~|V V~|V X~=V X~|V X+=V v>|D V+|V V+|V X+|D V+|V X+|D V~|V X+|V X+|D V+|D v+|D _..D v+|D V+|D
+5:11  X~|V X+|V X+|D X~|V X+|I X>|V X+|D V+|V V~|V X+|V X+|D X~|D V~|V V+|V V+|D _..D V+|V V+|V V~|V v+|V
+5:20  V+|D V~|I X+|V V~|V X~|V X+|V V+|D X~|V

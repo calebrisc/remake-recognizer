@@ -1,0 +1,281 @@
+SONG-FLOW DNA — Full Codons
+============================
+Character 1: Who LEADS (V=vocals D=drums M=melody B=bass _=silence)
+Character 2: Who SUPPORTS (lowercase, _=nobody)
+Character 3: Together? (+ yes  ~ somewhat  - apart)
+Character 4: Energy (^ rising  v falling  - steady)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+LEFT LONELY - Hotboii — 353 codons, 60s (5.9/sec)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+0:00  Md~^ Md+- Md-- Md-- Md-^ Md-- Vm-- Mv-^ Vm-- Vm-- Mv-- Vm-- Vm~- Vm-- Vm~- Vm-- Vm-- Vm-^ Vm-- Vm-- Vm-- Vm~- Vm~- Vm-- Vm+-
+0:04  Vm+- Vm~v Vm-^ Vm+- Vm~v Vm-- Vm~^ Vm~- Vm-v Md-- Md-- Md+- Md+- Md-^ Md~- Md+- Md+- Dm-v Md~- Md~- Md~- Md+- Md~- Md+- Dm~v
+0:08  Dm-- Dm~- Dm~- Dm-- Dm+- Dm-- Dm+- Dm+v Md-^ M_~- M_~^ M_~v M_~- M_-- M_-- M_-^ M_+v M_~- M_-- M_-- M_~- M_~- M_~- M_~^ M_~v
+0:12  M_~- M_-- M_-- M_-^ M_+v M_~- M_~- M_~- M_-- Mv~^ Vm~- Mv+- Mv-v Vm~^ Mv+- Vm~- Mv+- Vm~- Mv-^ Mv+v Mv~- Mv-- M_-- M_-- M_~-
+0:16  M_~- M_~- M_~- M_~- M_~- M_~- M_~- M_~- M_-^ M_+v M_~- M_~- M_~- Mv-- Mv+^ Vm-- Mv+- Vm-v Vm~- Vm-- Mv+- Vm-v Mv-- Vm+- Mv-^
+0:21  Mv~- Mv~- Mv+- Mv-- Mv+- Mv~- Mv~- Mv-- Mv-^ Mv-v Mv~- M_+- M_-- M_~^ M_~v M_~- M_~- M_~- M_~v Mv-^ Vm-- Vm+^ Vm~- Mv~- Mv+v
+0:25  Mv-- Mv-^ Mv+v Vm~^ Vm+- Mv-v Md-- Md-- Dm+^ Md+v Md-^ Md+v Md~- Md+- Vm~^ Vd-- Dv~^ Vm~v Vm+- Mv~v Mv-- Dv~^ Vd-- Vm+v Vm+^
+0:29  Vm~v Vm+- Md+v Md+- Md-^ Md+v Dm-^ Dv-v Md-- Md+v Md+- Mv-- Vm~^ Vd+- Dv+^ Vm~v Vm-v Vd~- Vm-- Vd~^ Dv-- Vm~v Vm-v Vm~^ Vm-v
+0:33  Vm~^ Vm+v Md+v Mv+^ Md~v Dv-^ Md-- Md+v Dm~- Mv-- Vd~^ Vd~v Dm-^ Vm-v Vd+- Vm-- Dv+^ Vm-v Vm+v Mv~^ Vm-v Vm+^ Vm-v Mv-- Md--
+0:38  Dv~^ Vd-v Mv~- Vm+v Md~- Vm~^ Vd-- Dv-^ Vm~v Vd+- Vm~- Dv+- Mv~v Vm-- Vm-^ Vm-v Vb~^ Bv-^ Bv~- Bv-- Bv~^ Bm-v Bv~^ Bv+- Bm+-
+0:42  Bv-- Bm~v Bv-- Bv+v Dv-- Bv-- Bv-^ Bv-v Bv+- Vb-v Vm+- Vm-v Bv-^ Bv~- Bv-- Bm-- Bm-- Bv~^ Bd-- Bv+v Bm+- Bv-- Bv-- Bv~v Bv+-
+0:46  Dv~^ Vm-v Bv-^ Bv-- Bd+^ Bv+v Bv-- Bv+- Bv+v Bv-^ Bv~v Bm-- Bm-- Bv-^ Bv+- Bv+- Bv-v Bv+- Dv~^ Mv~v Bv-^ Bv-- Bm+- Bd+^ Bm-v
+0:50  Bv-^ Bv~- Bm-- Bv~- Bv+v Bv+^ Bv~- Bv+v Bm~v Bv-^ Bv+v Bm+v Vm~v Mv-v Vm~- Vm+- Vm-^ Vm+v Mv+- Vm+- Mv+v Vm+- Mv~- Bv~^ Bv+-
+0:55  Bm~- Bm-v Bv~^ Bd-- Bv+- Bm+v Bd-- Bd~^ Bv+v Dv~^ Vm~v Bv~^ Bm+- Bd-- Dv-v Mv-v Vm-- Vm+v Bv+^ Bv~- Bv~- Bm-- Bv~- Bv~- Bv+-
+0:59  Bm+v Bv+^ Bd~^
+
+  Leaders: M=140 V=98 B=86 D=29 
+  Top pairs: Vm=85(24%) Bv=59(17%) Mv=50(14%) M_=49(14%) Md=41(12%) 
+  Leadership handoffs: 97 (27% of codons)
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+THUGGIN UNDER GOD — 1069 codons, 210s (5.1/sec)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+0:00  V_-- V_~- V_+- V_~- V_~- V_~- V_~- V_~- V_~- V_~- V_~- V_~- V_~^ V_~- V_~- V_~- V_~- V_~- V_~- V_~- V_-- Vd-- V_-- V_~- V_~-
+0:04  Vm-- Vm-- Vm-- V_~^ V_~- V_~- V_~- V_~v V_-- V_-- Vm-- Vm+v Vm-- Vm~- Vm~^ V_~- V_~v V_~^ V_~- V_~v V_~^ V_~v V_~- V_~- V_~-
+0:09  V_~- V_~- V_~- V_-- V_~- V_+- V_~- V_~- V_~- V_-- V_~- V_~- V_~- V_~- V_-- M_-^ Md-- M_-- Md-- M_+v M_~- M_-^ Mv+^ Mv-v Mv~-
+0:14  Vm+v Vm+v Mv~^ Mv-- Mv-- Mv~- Mv-- Mv~v Mv~- Mv+- Mv-- Mv+v Vm~v Vm-^ Mv+- M_-- Mv-^ Mv~- Mv+- Mv-v Vm-- Mv~^ Mv-- Mv~^ Vm+v
+0:19  Vm-- Vm~^ Mv-- Mv-v Md+- Mv-- Mv-^ Vm-v Mv-v Md~^ Md~v Md+- Md-- Md-- Md-- Md~- Mv~- Mv-^ Mv-v Mv~- Mv+^ Md-v Md+- Md~- Md--
+0:24  Md~v Mv-- Mv~^ Md-v Md~- Md-- Md+- Mv~- Mv+- Mv-- Md-- Mv-- Mv-- Mv-- Mv+- Md-v Md-- Md-- Md-- Mv-v Md-- Md~^ Md-- Mv-^ Md-v
+0:29  Md-- Md~- Mv~- Mv-^ Mv~- Mv~- Md~- Md-v Md~- Md-- Md-- Dv-v Vm+^ Mv-^ Mv+- Mv-- Mv~v Md+- Md-- Md+v Mv~- Mv+^ Mv-^ Mv-v Md~-
+0:34  Md-- Mv+- Md-- Md-- Md+- Md-v Dm+^ Dm-^ Md-v Md-- Dm-^ Vm~- Mv-v Mv-- Vm+- Mv+v Vm+^ Mv-- Vm~- Mv+v Vm+- Vm-- Vm+^ Vm+^ Mv~-
+0:39  Bm+^ Bm~v Bv-- Bv~v Bv~^ Bm-- Bm-- Mb-^ Mv+- Dm-- Mv+- Mb-v Mv-^ Bv-v Bv-^ Bv~^ Bm+v Bm+- Bm+- Bm+v Bv-- Bv~- Vb-- Vm+- Vb--
+0:44  Vm-- Vm~v Vm~- Vm-- Mv+- Vm~- Vm-- Mv+v Bv+^ Bm+- Bv~v Bv+- Bm-^ Bm-v Vb~^ Vb~- Mb-- Mb+- Vd-^ Bd~v Vb-- Mv-- Vm~v Vm+^ Dv-v
+0:49  Bv~^ Dm-v Mv~v Mv+^ Bm+^ Vm+v Vm-- Vm-- Vm-- Bv-^ Bm+- Bv-^ Bm+v Bv+v Bv~v Bm-^ Bv+- Bv-- Bm-v Bv~^ Bv-v Bv+- Mv+v Mv-- Bm-^
+0:54  Bm-- Bv-^ Bm~- Bm+- Bd~^ Bm+v Bm+- Bm-- Bv-- Vm+v Bv-^ Bv-^ Bm+- Vm+v Bm+^ Bm+- Bm~v Bm~^ Bv-- Bm+- Bv~^ Vm+v Mv-v Dv~^ Bv+^
+0:59  Bv~v Bv-v Bv~v Bv-^ Bm~^ Bm+- Bm~- Bm+v Bv~^ Bm+v Bm+v Vm-v Vm-- Bv-^ Bv+- Bv-- Bm+v Bd~^ Bv~- Bd-v Bv-- Bv-^ Bv+v Bd-- Bv~^
+1:03  Bv+- Md-v Md-- Bm+^ Bv~- Mv+v Mv-- Bv-^ Bm~- Bv~^ Bv-v Bv-- Bm+- Bm~- Bm~- Bm~v Bm~^ Bm+v Vb-v Bv~^ Bm+^ Bm+- Bm~^ Bm~- Bd--
+1:08  Bv~- Bm+- Bd~^ Bm+v Vm+v Vd-- Bd-^ Bv~- Bv+^ Bm+v Vm~v Mv+v Bm+^ Bm+- Bm~- Bm~- Mv-v Mv~v Mv-v Dv~^ Bm+^ Bv~v Bv+- Bv-- Bm+^
+1:13  Bm~- Bm~- Bm-- Bd~^ Bm+v Bm+- Vm~v Bm-^ Bm-- Bm-- Bd~^ Bd-v Bv+v Bv-- Bd~- Bd~- Bm~v Bv~v Bd~^ Bd-v Bv~- Bm+^ Mv-v Mv-- Bm-^
+1:18  Mv+v Mv-v Vm~^ Mv-v Mv-- Bm~^ Bm+^ Bm-- Bm+- Bm-- Bv~v Bv-- Bv-^ Bm+^ Bm~- Bm+v Bm-^ Bm-v Bm+- Mv-v Mv~v Mv~- Mv~^ Bm-^ Bm~v
+1:23  Bm~^ Bm-- Bv~- Bm+- Bm+- Bm+- Bm+- Vm-v Bm+^ Bv-^ Bm-^ Bm-- Bm+- Mv~v Bm-^ Bv+^ Bm~- Bm+- Bm-v Bm~v Bm-- Bv~- Vm-v Vm~v Mv-v
+1:28  Mv~^ Bm+^ Bm-v Bv~- Bv-v Bm+^ Bm~- Bm~- Bm+v Bm~^ Bm+- Bm~- Vb~v Vm~v Vm+^ Vb-- V_~v V_~- V_-- Vb+^ Dm-^ Md-- Vm-v Mv+- Md-^
+1:33  Mv+v Mv-- Mv-- Mv~- Mv-- Dv~^ Mv-v Mv-v Vm-- Mv-- Vm~^ Mv-- Mv-- Mv-- Mv-- Bm+^ Bm+v Bv-v Bm~^ Mb-- Mb~- Dm~^ Mb+v Dm~^ Mb+v
+1:38  Mv~- Dm-^ Vm~v Bv-- Db~^ Bv+- Bm-- Vb-^ Bm+v Bm-- Bm-- Mb+v Mb+- Mb-- Mb+- Mv-- Mb+v Vb-- Vm~- Vm+- Vm~- Bm+^ Bv-- Bv-- Bm+^
+1:43  Bm-v Bm~v Mb-- Mb+v Mb+v Bm~v Bm+^ Mb+v Mb-- Bm-^ Mv-v Vm-v Vm-- Mv-v Bv-^ Bv-- Bv-- Bv~- Bv+- Bv-- Bv+^ Bv-- Bm+v Bm-- Bm+-
+1:48  Mv-v Mv~v Mv~^ Bm~^ Bm~- Bm-- Bv-- Bv-- Bm+- Bm+- Bm+- Bm+- Vm+v Vb+- Bv-^ Bv-^ Bm-v Mv+v Bm-^ Bv-- Bm+- Bm+- Bv-- Vm~v Vm+v
+1:53  Vm+- Bv-^ Bv-- Bv-- Bv+- Bm-^ Bv-- Bm+- Bm-- Bm+- Vm-v Vm-- Bm-^ Bm+v Vb+v V_~v Vm~- Vm+- Vm+- Vm+- Bv~^ Md-v Mv~v Mv+^ Bm+^
+1:58  Vm-v Vm~- Vm-- Bm+^ Bm+- Bv+v Bv-- Bv+- Bv-- Bv-^ Bv~^ Bv-v Vb-v Vm~v Bm+^ Bm~- Bm+^ Bv-^ Bd-v Bm+- Bm+- Vm~v Vm+- Bv-^ Bv-^
+2:03  Bm+v Mv+v Vm~v Bm+^ Bm+- Bm+- Mv-v Dv~^ Bv+- Bv-v Bv~v Bv-^ Bm-^ Bm+- Bm~- Bd~^ Bv-v Vm-v Bv-^ Bv~^ Bv+v Bv-- Vb+v V_+v V_~-
+2:07  Vb~- Vd~^ Mv-v Mv+- Md-^ Mv+v Mv+- Mv-- Mv-- Mv~- Mv-- Mv-- Vm-v Mv-- Mv-^ Bm+^ Bm+v Bv-v Bm-^ Mb-- Mb~v Mb+^ Dm-- Dm~- Mv-v
+2:12  Mb-v Dm~^ Mv-v Bv~- Bv-- Bm+- Bv~^ Bm~v Bm~- Bm~- Bm~- Mb~- Mb+- Mb-v Mb-- Mb+v Vb+v Vm~- Mv~- Mv~v Mv-- Mv-- Vm~^ Bm+- Bm+-
+2:17  Bv-v Bv-- Mb+^ Bm-v Mb+- Mb~- Mb+- Mv~- Mv+- Vb~v Vb+v Bv~^ Mb~- Mv-v Bm-^ Mv+v Mv~v Mv~- Mv~- Mv-^ Bm+^ Bm-- Bm+- Bm-- Bv~-
+2:22  Bv~v Bv-- Bm~^ Bm-- Bm+- Bm-- Bm-v Bm~- Bm+v Bm-^ Bm+v Vm+v Mv~v Bm~^ Bm~v Bm-^ Bm~v Bm+^ Bm-v Bm+- Vm+v Bm+^ Bm~^ Bm-^ Bm-v
+2:27  Mv~v Bm~^ Bm+- Bm~- Bm~- Bm-- Bm~- Mb~v Mv+v Mv+v Mv~^ Bm-^ Bm~- Bv~- Bv+v Bv-- Bm+^ Bm+- Bm-- Bm+- Bm+^ Bm+v Bv+v Vm~v Mv~-
+2:32  Bv-^ Bm~^ Bm+- Bv+- Bv-v Vb+v Vb~v V_~- Vb~^ Bd-^ Mv~v Mv+v Bd-^ Bm~v Mv~v Mv-- Bm~^ Bm~- Bm+^ Bm+- Bv-v Bm+^ Bm~- Bm+- Bm+v
+2:37  Vd~v V_~v Mb~^ Bm+^ Bm+^ Bm+- Bm+- Bd-- Bm+v Bm-- Bv+- Bm+v Vd-v Bd-^ Bv~^ Bm+- Bm+v Md-v Bm+^ Bm+- Bm~- Bm+- Mv+v Bm+^ Bv-v
+2:42  Bm~- Bm-^ Bm-- Bm~- Bm+- Bm+v Vm+v Bm-^ Bm+- Bd-- Bm+- Bm+- Bv+- Bv-v Bd-^ Bv-v Bm-^ Mv-v Mv+- Bm-^ Mv-v Mv~v Vm-- Vm-- Mv-v
+2:47  Bv-^ Bv-- Bv-- Bv-- Bm-- Bv~- Bv-- Bv~^ Bv~- Bm~v Bm-- Bm+- Mv-v Mv-v Vm~^ Bm~^ Bm+- Bm+- Bv+- Bv+- Bm~- Bm-- Bm+- Bm+- Bv-v
+2:52  Vb+v Bv-^ Bv~^ Bm-v Mv-v Bm-^ Bm+- Bm-- Bv~- Bv-- Vm+v Vm~- Bv-^ Bv+- Bv+- Bv+- Bm-- Bv-- Bm+v Bm-- Bm+- Vm-v Vm-v Vm-- Bm-^
+2:57  Bm+- Bv-^ Bv~- Bv~- Bm+- Bv-- Bm-v Bv+^ Bv-- Bv-- Bv~v Bv+^ Mv+v Mv+- Mv+- Bm+^ Vm+v Vm-v Vm-- Vm-- Bv-^ Bm~v Bm+^ Bm-- Bv+v
+3:02  Bv-- Bm-^ Bv-- Bv~- Bv-- Bm+v Bv~^ Bv-v Bv+- Vm+v Mv-- Bm-^ Bm+v Bm+^ Bm-- Bv-- Bm+- Bm~- Bv-- Vm-v Bv-^ Bv-^ Bm-- Vm+v Bm~^
+3:07  Bv-^ Bm~v Bv~^ Bv-- Bm+- Bv~^ Vm+v Mv-v Bv+^ Bv-- Bv-v Bv-v Bv~- Bv~^ Bm-^ Bm+- Bm+- Bm+v Bv~^ Bm+- Vm~v Vm-v Bv-^ Vb-v V_~v
+3:11  V_~^ V_~- V_~- V_~- Vb+- Vd~^ Md-v Md-v Dm-^ Md~v Md-- M_+- Md-- Md-- Md-^ Md-- Md-v Md~^ Bm+^ Bm+v Bm~v Mb+^ Dm-^ Mb+v Mb+-
+3:16  Mb-- Bm-v Bd-^ Bm-- Bm~- Bm+- Mb-- Mb+- Mb~- Mb+- Mb-v Mb~- Bm~^ Bm+v Bm-- Mb+^ Mb-- Mb+- Bm~v Bm+^ Md+v Mb-^ Bm-^ Md+v Md-v
+3:21  Md~- Mb+^ Bm-^ Bm-- Bm-- Bm+- Bm-v Bm-- Bm-^ Bm-- Bm+- Bm+- Bm-- Md-v Mb-- Bm~^ Bm-- Bm-- Bm~- Bm-- Bm+- Bm-- Bm+v Mb-v Bm-^
+3:26  Bm+- Mb-v Bm-^ Bm~- Bm+- Bm~- Bm-- Md-v Mb~- Bm-- Bm+- Bm~- Bm-- Bm+- Bm~- Bm~- Bm+- __+- __+-
+
+  Leaders: B=546 M=294 V=206 D=21 _=2 
+  Top pairs: Bm=333(31%) Bv=189(18%) Mv=165(15%) Vm=105(10%) V_=69(6%) 
+  Leadership handoffs: 269 (25% of codons)
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+FOREVER BALLIN — 393 codons, 60s (6.5/sec)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+0:00  Md-^ Mv-v Mv-- Mv~- Vm-- Mv-- Mv~v Mv-- Mv-- Vm-^ Mv~- Mv+^ Vm+v Vm+v Mv-^ Mv-^ Mv-- Mv+- Mv+- Mv-- Mv~^ Mv-- Mv-- Mv+- Mv+v
+0:03  Vm-- Vm~- Mv+- Vm-- Vm-^ Vm~- Vm+- Mv+v Vm~^ Vm-- Vm+- Vm-v Mv~- Mv-^ Mv+- Vm~- Vm-- Vm~- Vm+- Vm~- Vm-- Mv-- Mv+^ Mv~^ Mv+v
+0:07  Mv-^ Mv+- Mv~v Mv~^ Mv+v Mb-v Mb-^ Mv+- Mv+v Vm-- Vm-- Vm-^ Mv+v Md~- Vm-- Vm-^ Vm-- Mv-- Vb-^ Bv-v Bv~^ Bv-v Bv~- Bv-- Bv-^
+0:11  Bv+v Bm+v Vb~^ Bv-^ Bm-- Bm~^ Bv~v Bm-v Bv-- Bv~^ Bv-- Bm~^ Bv~- Bm+v Vb+^ Bv-v Vb-^ Bm+^ Bv~^ Bv-v Bv-v Bv-v Bv+^ Bv+- Bv--
+0:15  Bv~- Bv-- Bv+- Bv-- Bv-- Bv~- Bv~^ Bv-- Bv~- Bv-v Bv~^ Bd~^ Bv-v Bv~- Bv~^ Bv~- Bv~- Bm-v Bv-- Bv-- Bv-v Bv+^ Bv+- Bv-v Vb+^
+0:19  Bm+v Bv-^ Bm-- Bm~- Bm~v Bv-v Bv-^ Bm+- Bv~^ Bm+- Bm~^ Bm+v Vb~^ Bv+v Bv~v Bv-^ Bv-- Bv-v Bv-v Bv-^ Bv~- Bv-- Bm+v Bv-^ Bv+-
+0:22  Bv-v Bv-^ Bv~^ Bv-v Bv-- Bv-- Bv-- Vb+v V_~- V_~- V_~v Vb+^ Vb-^ Bv-v Bv-v Vb~^ Bv-v Bv-v Vb~^ Bv-v Vb~- Bm+v Vb~^ Vb~^ Bv~-
+0:26  Bv-- Bv~- Bd-- Bv-- Bv+^ Bv-v Bv-^ Bv-v Bv-- Bv+v Vb-v Bv-^ Bv~v Bv-- Bv-- Bd-^ Bv~- Bv-^ Bv~v Bd-^ Bv-v Bv+- Bd~v Bv-v Bv+^
+0:30  Bv~- Bv-- Bv~v Bv~- Bv~- Bv~^ Bv~- Bv+v Bv~- Vb-- Bv-v Bv-- Bv-^ Bv-v Bv+^ Bv~- Bv+- Bv-- Vb-^ Vb+v Bv-^ Bm~^ Bm-v Bv-- Bd--
+0:34  Bv~- Bv~^ Bv-- Bv-^ Bm+v Vb+- Vb~v Bd~^ Bv~- Bm-v Vb~^ Vb~- Bv-- Bv~- Bv~v Bv~^ Bv-v Bv+^ Bv~- Bv~- Bv-- Bv-^ Bv-- Bv-- Bv~^
+0:38  Bv~- Bv-- Vb-^ Bv~- Bv-v Bv-- Bv~^ Bv+v Bv~^ Vb-v Bv-^ Bm~- Bm+- Bv-- Bv+v Bv-^ Bv~- Bm+^ Bm+v Bv-- Bv+- Bv-v Bv-^ Bv-v Bv~^
+0:41  Bv-- Bd-- Bv~- Bv+^ Bv-v Bv-v Bv+^ Bv-- Bv-- Bv~- Bv-^ Bv-- Bv-v Bv-^ Bv-- Bv~v Bv-- Bm~^ Bm+v Bv~- Bv+^ Bv-v Bv~- Bv-- Bv+v
+0:45  Bv-- Vb-^ Vb+v Vb-v Bm+^ Bm~- Vb+v V_~v V_~v V_~- V_~^ V_~- Vb+- Bv-^ Bv+- Bv~v Bv~v Bv~- Bv~v Bv-- Bv~- Bv+- Bv-v Bv-- Bv~-
+0:49  Bd~v Bv-- Bv-- Bv-- Bv-- Bv-- Bv~- Bv-^ Bv+v Bv~- Bv-- Bv~^ Bm-v Bv+- Bv-^ Bm+v Bv-- Bv~v Bv-- Bv-- Vb+v Bv-^ Bv+v Bv+^ Bv-^
+0:53  Bv-^ Bm+v Bv-^ Bv~v Bv+^ Bm-- Bm-v Bv+- Bv+v Bv+^ Bv-v Bv-- Bv~v Bv-^ Bv-- Bv~^ Bv+v Bv-- Bv~- Bv~- Bv~- Bv-^ Bv-- Bv+v Bv-^
+0:57  Bv-- Bv+v Bv~^ Bv~v Bv~^ Bm-- Bv~^ Bv~v Bv-- Bv~^ Bv+v Vb+^ Bv-- Bv~- Bv+^ Bv+- Bv-- Bv+v
+
+  Leaders: B=286 V=65 M=42 
+  Top pairs: Bv=241(61%) Mv=38(10%) Bm=36(9%) Vb=31(8%) Vm=26(7%) 
+  Leadership handoffs: 62 (16% of codons)
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SOUTHSIDE DUMMY — 292 codons, 60s (4.9/sec)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+0:00  M_~- M_~- M_~- M_~- M_~- M_~- M_~- Mv-- Mv-^ Vm-v Vm~^ Vm~- Vm-- Mv~- Mv-- Mv-v Mv~^ Mv+- Mv~- Mv-- Vm-- Mv-- Mv-- Mv-^ Vm--
+0:05  Mv-- Mv~- Mv+- Mv~^ Mv+- Mv~v M_-^ Mv~v Mv-- Mv-^ Mv-- Mv-^ Mv-- Mv~- Mv+- Mv~- Mv~- Vm+- Vm-^ Mv-- Mv+- Mv~v M_+- Mv-- Mv--
+0:10  Mv-- Mv+- Mv-- Mv-v Mv-^ Mv-v Mv-- Mv-- Mv-- Mv-^ Mv~^ Vm~v Vm-- Mv~v Vm-^ Mv-- Mv+- Vm-v Mv-v Mv+^ Vm+v Mv+^ Mv+- Mv-- Vm-^
+0:15  Mv-v Mv~^ Mv+v Dm+- Mv~- Vm-^ Vm~^ Vm~v Vm-- Vm-v Vm~^ Mv+- Mv~^ Vm+- Vm+- Mv-v Mv-- Vm~- Vm-- Vm-- Vm~- Mv+v Vm-- Vm-- Vm-^
+0:20  Mv~- Mv-- Vm+^ Mv+- Vm-v Mv-v Vm-^ Mv-- Mv+- Vm~- Vm-^ Mv-v Mv+v Vm~^ Mv+- Mv-^ Vm-^ Mv+v Mv-v Vm+- Mv+- Mv~v Vm+^ Mv~- Mv--
+0:25  Vm+- Mv+v Mv+^ Dv+v Vm+^ Vm+^ Vm+- Vm+- Mv-v Md~v Mv-- Vm-^ Mv~v Vm-^ Vm~- Mv-v Mv-- Vm-- Mv~v Vm~^ Vm~- Mv~- Vm-^ Mv-- Mv-v
+0:30  Vm+v V_~v V_~- Vd~^ Bv-^ Bv-^ Bm+v Vm~- Mb+v Vb~^ Bv-^ Bm+^ Bm-- Bm~v Bm+- Vb~^ Vb+- Bv-v Bv~^ Bv~^ Bv-^ Bm~v Bm-- Vb~^ Bv--
+0:35  Mb+- Mb+^ Mb-v Bm-- Bv-v Vb~^ Bv+- Bv~- Vb+- Mb+v Mv+v Vm+^ Mv-- Bv-^ Bm-v Vb~- Vb+v Vb+- Vb~^ Bv-v Vb~- Bv~v Vd~^ Bm+- Mb~^
+0:41  Bm~v Vb+- Bm~v Bm-- Bm~- Vb~- Bv-^ Bm-v Vb+^ Bm-v Bm+- Vb-^ Vm-v Mb~- Mb~- Vb~^ Bm-- Mb+v Bm+v Bm~- Vb+^ Bv-v Mb+v Vm~^ Vm-v
+0:46  Mv~v Mv+^ Vm-^ Mv+v Vm-^ Vm-- Mv-v Md+- Vm~- Vm~^ Vm-- Mv-v Vm-^ Mv-- Mv-v Mv-^ Mv-^ Mv~v Mv~^ Mv-- Mv+- Mv-v Vm-- Mv-v Vm~^
+0:51  Vm-- Vm-- Mv-^ Mv-- Mv+v Mv~- Bv-^ Bv+- Bm-v Bv-^ Bv+- Bv-v Bv+- Vb-- Vb+- Mb-v Vm~- Vb-^ Bv~- Bv+- Bm-- Bm+v Vb-^ Mv~^ Vm--
+0:56  Vb~^ Bv~- Vb~^ Bv~- Vb+^ Vb~v Bv-- Bm-- Bv+- Vm+- Bm+v Bm~^ Bv+- Bv~^ Bv+- Bv~- Vb~-
+
+  Leaders: M=132 V=100 B=58 D=2 
+  Top pairs: Mv=110(38%) Vm=70(24%) Bv=32(11%) Bm=26(9%) Vb=26(9%) 
+  Leadership handoffs: 131 (45% of codons)
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+PATIENCE — 282 codons, 60s (4.7/sec)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+0:00  M_~^ M_-- Vm~^ Vm~- Mv~^ Vm-v M_~- Vm+- Vm-- Vm~- Vm+- Vm-- Vm~- Mv+- Vm+v Vm-^ V_~- V_-^ Vm~- Vm+- Vm+v Vm+- V_~^ V_+- V_--
+0:05  Vd~^ Vm-- Mv-v Vm+- Dm~- Dv+- Dv-- Vd+- Vd-^ Vd+v Dm+- Dv-^ Vd~^ Vm-v Vd-^ Dv~v Dv-- Dv+v Md-^ Md+- Vm+- Dm~- Dm-- Dv~v Vd-^
+0:10  Vd-- Dv+- Dv-^ Vd-- Dv~^ Vd+v Dv+- Dv-^ Vd~v Dv+v Dv-^ Dv+v Bd-^ Bm+v Vb~v Dm-- Dv+v Vd+- Bv-^ Bd+- Bv+v Bd-- Db+- Dv+v Vd-^
+0:15  Vm-v Vd+^ Bv+^ Bv~v Bv+v Bd~- Bd+v Bd~^ Bd-- Bm+v Bv+v Dv~v Vd~^ Bv+^ Bv-v Vb+v Vd-v Vd-v Vd-^ Bv+^ Bv~v Bv+^ Bv+v Bv~^ Bv+-
+0:21  Bv+v Vm+v Vd~- Dv-^ Vd~v Vb-- Bv~^ Bv~v Bv~v Bv+- Dv+v Dv~- Vm-- Vm+- Bv~^ Bv+v Bv~- Bv+v Bv+v Bd-^ Bv+- Bv-v Bv+v Vd+v Vd-^
+0:26  Vd~v Vb~^ Bv-^ Bv+v Dv-v Dv~- Vm+v Vd-^ Bd-^ Bm-v Bv~- Bv~v Bv~^ Bv~v Bv-^ Bv~v Vb+v Md-v Vd-^ Vd+v Bv~^ Bd+v Bv+v Bv+- Vd+-
+0:31  Mv+^ Mv~v Bd-^ Bm~v Bm~^ Bm+v Bd+v Bv-v Bd-^ Bm+v Bv+v Dv~^ Dv+v Vd+- Bd-^ Bv-- Bv-v Vb-- Vd+v Dv~- Vm-v Vm~^ Vd-- Bv~^ Bv-v
+0:37  Bv-^ Bv~v Bv+^ Bv-v Vm+v Vd-- Vd-- Vb-v Bv-^ Bv+v Bv~v Bd-- Dv+v Mv+^ Bm+^ Bm+v Bv+- Bv+v Bv+^ Bv+v Vb-v Dv-^ Vd+v Vb+^ Bv-^
+0:42  Bv+v Dv~v Vb-v Vd+- Vd~^ Bv-^ Bv+v Bv+^ Bv+- Bv+^ Vb+v Mv-v Vm-- Vm-^ Vb+- Bv+^ Bv-v Bv+- Vb+v Mv-^ Mv+- Bm-^ Bv~- Bv+v Bv--
+0:47  Bv+^ Bv+v Bv+v Vb-- Vd+- Vb-- Bv+^ Bv~v Vb+v V_+v Vb-^ Bv-^ Bv~^ Bv+v Bv+^ Bv-v Vm+v Vm-v Vm+- Vb-- Bv-^ Bv-- Bv+v Vb-v Vm+-
+0:53  Mv+^ Vm+- Bv+^ Bv-- Bv+v Bv+v Bv~^ Bv+v Vb+v Vm+- V_~v Bv~^ Bv~^ Vb+v V_~v V_~- Vb-^ Bv+^ Bv+v Bv+^ Bv~- Bv+^ Bm+v Vm+v Vd-v
+0:58  Vd-- Dv~- Vb+- Bv-^ Bv+v Bv+v Bv-v
+
+  Leaders: B=124 V=106 D=36 M=16 
+  Top pairs: Bv=98(35%) Vd=38(13%) Vm=36(13%) Dv=30(11%) Vb=23(8%) 
+  Leadership handoffs: 101 (36% of codons)
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+NO SCRUBS — 395 codons, 60s (6.6/sec)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+0:00  M_~^ M_~^ M_~v M_~- M_~- Mv-- Mv~- Mv+- Mv+^ Mv+- Mv-- Mv+- Vm-- Mv-- Mv+- Mv-- Mv-- Mv-- Mv+- Mv+- Mv~- Mv+- Mv+^ Mv~- Mv+-
+0:03  Mv~- Vm+- Mv+^ Mv+- Mv~v Mv+- Mv+- Mv+- Mv-- Mv-- Mv~- Mv+- Mv-- Mv~v Vm-- Vm+- Vm+- Mv+- Vm+- Mv~- Bm~^ Bm-^ Mb+- Mb-v Mv-^
+0:07  Vm+- Vm-v Vb-- Vb-^ Vm-v Vm~^ Vm-^ Mv-v Vm-^ Vm+- Vm+v Vm-v Vd-^ Vd~v Vb+^ Vm-- Mv-^ Vm+v Vm-v Bv~^ Vb-- Vb+v Vb+v Vm~^ Vm--
+0:11  Mv~- Vm~- Vm~v Vm-v Vm+- Vm-- Bv+^ Bm~v Mv-- Mv+- Vm+- Vb+v Bv+^ Vm-v Vm~- Vm~^ Mv~- Vm~^ Vm+v Vd+v Vd+- Vb~^ Vm+- Vm+- Vm+v
+0:15  Vb+- Bv-^ Bv-^ Vb-- Vm-v Mv-- Vm-- Vm+v Mv~v Vm+- Vm-- Bv+^ Mv~v Mv~^ Vm~^ Vm+v Vb+- Bv~^ Vb-v Vm-v Vm~- Vm~- Mv-^ Vm+v Vm~v
+0:18  Vd+v Vd-^ Vb-^ Mv-- Vm-v Vm+- Vm+v Vm+^ Bv-^ Bv~v Vb-^ Vb+v Vm~- Vm-- Vm-v Vd+^ Vm+v Vm-- Vm-- Bv~^ Bm~v Mv-^ Mv-^ Vm-- Vm+v
+0:22  Vm~v Bv+^ Vb-v Vm-- Vm+^ Vm+- Mv~- Vm+- Vm~v Vd~^ Vd+v Vb~^ Bv+^ Vm+- Vm~- Mv-v Vm~- Vm+v Vb+- Bv+^ Mv-^ Vm-v Mv~v Vm-v Vm~v
+0:26  Vm+- V_~v Vd+^ Vb+^ Vm-- Mv-v Mv-v Mv-- Vm+- Vm~v Vb+^ Vm-v Vm+^ Dv-^ Vm+v Vm~- Vd-- Vm+v Vd~- Vd~^ Dv-^ Vd-- Vm~v Vm+- Vm+^
+0:30  Vm+v Vd+- Dv-^ Bv-v Vb~- Vb+- Vm~^ Vm-- Vm-- Vm+- Vm+v Vm+v Vm~v Vm-v Vd~^ Vd-^ Vm-v Vm-v Mv-v Vm+- Vm~v Vb+^ Vm+v Vm~^ Vd~^
+0:34  Dv~^ Vm+v Mv+^ Vd-v Vm+v Vd~- Vd-- Dv-^ Dv~^ Vd-v Vm-v Mv-v Vm+- Vm~v Vd~- Vd+^ Mb~^ Vm-v Vm+^ Mv~- Mv+v Mv-^ Vm~^ Vm+- Vm+v
+0:37  Vm~v Dv~^ Bd-^ Mb+v Mv-v Vm-^ Vd-- Vm+v Vb-^ Vb-^ Vm-v Mv~^ Vd~^ Dv-- Mv-v Mv~- Vd+^ Vm~v Vd-- Vd~v Vd~^ Vd-^ Dm-v Vm+- Vm-v
+0:41  Mv~v Vm~^ Vm+v Vd+v Vb-^ Vb~v Vb+- Vb+- Mv~- Vm~^ Mv-- Mv~- Vm~- Vm+v Vm-- Vm~- Vm-- Vd+^ Mb-v Mv~- Mv-v Mv-^ Vm+- Vm+v Vb+-
+0:45  Bv+^ Vm-v Mv~- Vm~^ Dv~^ Mv-v Mv~- Vd~^ Vm-v Vd+- Vd+^ Dv~- Vd-v Vm+- Mv+- Vm+- Vm+v Vd~^ Dv-^ Vb+- Mv-^ Vm-v Mv-- Vm~- Mv-v
+0:49  Vm-- Mv~- Mv+- Mv~v Vm-- Vm~- Vd+^ Mb-v Mv+- Mv-v Mv~- Vm+- Vb+- Bv+^ Vb~v Vm-v Vm~^ Vd~^ Mv-v Mv+- Vd+v Vm-v Vd~- Vd~- Dv~^
+0:53  Dv-^ Vm~v Mv+v Vm-- Vm+- Vm-v Dv~^ Bv~v Vb~^ Vb~v Vm~^ Vm-- Mv+- Vm~v Vm+v Vd+^ Mb~v Mv-- Vm-^ Vm-- Vm+v Vm~v Bv+^ Vb-v Vm~-
+0:56  Vm-^ Mv-^ Mv-v Vd-- Vm+v Vd~- Dv-^ Dv~- Vd-- Mv-- Mv-v Vm~^ Vm+v Vd~- Dv~^ Vb-- Mv-^ Vm-v Mv-- Vm+-
+
+  Leaders: V=245 M=109 B=23 D=18 
+  Top pairs: Vm=159(40%) Mv=97(25%) Vd=48(12%) Vb=37(9%) Bv=18(5%) 
+  Leadership handoffs: 153 (39% of codons)
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MONA LISA — 1564 codons, 331s (4.7/sec)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+0:00  M_~^ M_~- M_~- M_+- Mv-^ Mv-- Vm-- Vm-- Mv~- Vm-- Vm~- Vm-- Vm+- Mv~- Mv-- M_~- M_~- Mv-- Mv-- Mv~- Mv-- Mv-- Mv-- Mv-- M_~v
+0:05  M_+- M_-- M_-- M_~- Bd~^ Bm~v Bv-^ Bm-v Bm-- Mb+- Mv+- Mb+v Dm-^ Bv-^ Bm-v Bv-^ Db~^ Bd-v Bv+- Bd+- Bm~v Bv-^ Bm+v Bm+- Vb~-
+0:10  Mb+v Mb-- Mv+^ Mb-v Bv-^ Bv-v Bv+- Bv~- Bv~^ Bd+- Bv-v Bv-- Bm+v Bm-^ Bm~- Bm+v Bm~- Mv-- Mb-v Mv+- Mv~v Mv+^ Bm-^ Bv~- Bv~-
+0:15  Bv~v Bm~- Bm-v Bv-^ Bv-- Bv-- Bm-- Bm~- Bm~- Bv+- Bm+- Bm+v Mb+- Mb~v Vm-^ Mv-- Mv-v Mv~- Vm-- Mv~- Mv-- Mv-- Vm-^ Mv-- Bm-^
+0:21  Bm-v Bm-- Bm+^ Bm+- Bm~- Mb+- Mb-v Mv-- Mv~v Mv-- Mv+- Mv+v Mb-- Bd-^ Bv-v Bm-- Bd-- Bm~- Bv+- Bd-- Bm-v Bv~^ Bv+- Bv+- Vb+-
+0:26  Vm+v Vm-- Mv+v Mb-- Bv~^ Bv+v Bm+- Bm-^ Bv-- Bv+- Bv-- Bv~^ Bm-^ Bm-v Bm~- Bm+^ Bm-- Bm-- Mb-v Mv-^ Mv~v Mv+- Mv+- Bm-^ Bm--
+0:31  Bm-v Bm-- Bv~- Bv~- Bv+- Bv-v Bm-^ Bv+- Bv~- Bm+- Bv-^ Bm~- Bv~- Bm-- Mb+v Vb~- Vm~v Mv+^ Mv+- Mv+- Mv-- Mv-- Mv-- Mv-- Mv~-
+0:37  Mv~- Mv~- Mv~- Mv+- Mv-v Mv+- Mv+- Mv~- Mv-- Mv+- Vm-- Vm~- Vm-- Mv-- Vm~- Vm~- Mv-v Vm+^ Vm~v Vm-^ Vm-- Vm~- Vm+- Mv-v Vm-^
+0:42  Vm-- Vm~- Vm+^ Mv-v Mv-- Vm-^ Vm~- Vm-- Vm-- Vm+- Vm+- Mv~v Mv+^ Mv+v Mv-- Mv~- Mv-- Mv-- Mv~- Mv-^ Mv-- Mv~- Mv-v Vm+^ Mv--
+0:47  Vm-- Mv-- Vm+v Vm+- Vm+- Mv-^ Mv-- Vm+- Vm~- Vm-- Vm-- Vm-- Vm-- Vm-- Vm+- Vm~- Vm-- Vm~- Vm+- Vm-v Vm+- Vm-- Vm+^ Vm~- Mv+-
+0:52  Vm-- Mv-- Vm-- Mv~- Mv-- Vm+- Mv-v Mv+- Vm~^ Vm~- Vm-- Vm-- Mv~v Mv~- Vm-^ Mv~v Mv+^ Vm+- Vm~v Vm+- Vm-- Vm-- Vm-^ Vm~v Vm+-
+0:58  Vm-- Vm-- Vm-- Vm+- Vm~- Vm+- Mv+- Vm+- Vm+- Vm-^ Vm-- Mv+^ Vm-v Vm-- Vm+- Mv+- Mv+- Vm-- Mv+- Mv~- Vm~^ Vm-- Vm~- Vm+- Mv+-
+1:03  Vm+^ Vm+v Vm-- Mv~v Vm~- Vm+^ Mv-^ Mv-v Mv+- Mv~v Mv~- Vm~- Vm~- Vm-- Mv~- Vm~- Vm-- Vm-- Vm+v Vm-- Vm-- Vm+- Vm-- Vm+- Vm~-
+1:08  Vm-- Vm+- Vm~- Vm-- Bv~^ Bm-- Bm-v Bv+^ Vb+- Bm+v Bv~- Bd~^ Bv-v Bv+- Bm+v Bv~^ Bv-- Bv+- Db~^ Bm-v Vb~^ Bd~^ Bv-v Vb+- Bv~v
+1:14  Bv+- Bv+- Bm-v Bv-^ Bv-v Bv~^ Bv+v Bv-- Bv~^ Bv-- Db-^ Bm+v Vb+^ Vb-- Bm-^ Bv~- Bv~- Bv~- Bv+- Bv+- Bv-v Bv-^ Bv-- Bv~- Bv~^
+1:19  Bv-v Bv~^ Bv~- Bd~^ Db-v Bm-v Bv+^ Vb+- Bv~- Bv-- Bv-^ Bv-v Bv-- Bv-- Bv-- Bv~- Bd~^ Bv+v Vd+- Vb+v Vb+v V_~v Vm-- Vm~- Vm~-
+1:24  Vm-- Vm~- Vm-- Vm+- Vm-^ Bd+^ Bm+v Bm+^ Bm-v Bm-- Bm-- Bm-- Bm+v Bm-^ Bv~^ Bv~v Bm-v Bv-^ Bd~- Bv~v Bm~^ Bm-v Bv+^ Bm+v Bm--
+1:29  Bm-^ Bm~v Bm-v Bv-^ Bm-v Bv-^ Bv-v Bv-- Bv-- Db~^ Db+- Bv~v Vb+- Bm-v Bm-^ Bm+v Bm+^ Bv-- Bm-- Bm-- Bm~v Bm~- Bm-^ Bv-v Bm~-
+1:35  Bm+v Bm~v Bv~^ Bv+^ Bv-v Bv~- Bm~- Bv+- Bd+- Vb~- Bv+v Bv-- Bd+^ Bm~v Bv+^ Bv~- Bv+- Bv+- Bv+- Db~^ Vb+v Vm-- Vm~- Vm+- Vm+-
+1:40  Vm~- Vm-- Mv+- Mv-- Mv+- Mv-- Bd~^ Bm-v Bm+v Bv+^ Bm+v Bm-v Bv+^ Bm~v Bm-- Bm+- Bm+- Bv+^ Bv~v Bv~- Bv-^ Bv-- Vb+v Bm~- Bv-^
+1:45  Bv-v Bv-- Bv+- Bv~- Bv+- Bv+- Bm-v Bv+^ Bv-v Bv-- Bv+^ Bv-- Bv-- Bv+^ Bv-v Bv+^ Bv-^ Bd+- Bv+v Bv-- Bv-^ Bv-v Bv+- Bv+- Bv+-
+1:51  Bm~v Bm~- Vb-^ Bd+^ Bv+v Bv~- Bv+- Bm-v Bd+^ Bv-v Bv-v Bv-^ Db+^ Bd~v Bv+- Bv-- Bv-^ Bv+- Bv+- Bv~^ Vb-v Vb~- Bm~v Bm+- Dv-^
+1:56  Vm-v Vm+v Vm+- Mv-v Vm-^ M_~- Mv~^ Mv+^ Mv-- Mv+- Mv~- Mv-- Mv-v Mv+^ Vm+- Mv+v Vm+- Vm+- Vm+^ Vm~v Vm~- Vm-- Vm+- Mv-v Mv--
+2:01  Vm+^ Vm-- Vm-- Vm-^ Mv-v Vm-^ Vm+- Vm-- Vm+- Vm-v Vm+^ Vm+- Vm-- Vm-- Vm-- Vm-- Vm+- Vm-- Mv-- Mv+^ Mv-v Vm+^ Mv-- Vm-^ Mv~v
+2:06  Mv-- Mv~^ Mv+- Mv-- Mv~- Mv-- Vm+- Vm+- Vm~- Vm~- Mv~v Mv-- Vm~- Vm~- Vm+- Vm-- Mv+- Mv~^ Mv-- Vm+- Vm+- Mv~- Mv-v Mv+- Vm~-
+2:12  Vm-- Vm-- Vm+- Vm~v Vm-- Vm+- Vm+^ Vm+- Vm+- Vm~- Mv~- Vm~^ Vm~^ Vm-v Vm-^ Mv~^ Mv-^ Mv+v Mv-v Mv+^ Vm+- Dm-^ Mv+v Mb~v Mv--
+2:17  Vm-^ Vm-v Vm~- Vm+- Vm+- Vm~- Vm~- Vm-- Vm-^ Vd~^ Vm+v Vm~- Vm+- Vm+- Mv-- Vm-^ Vm+- Mv+v Vm+^ Vm-- Vm+^ Mv~v Mv+- Vm+- Vm+-
+2:22  Vm-- Vm~- Vm-- Vm-- Vm~- Vm+- Vm+^ Vm~^ Mv-v Vm+- Vm-- Vm+- Vm+^ Mv+v Vm-^ Vm+- Vm+- Vm~- Mb~v Mv+- Vm+^ Vm-- Vm+^ Vm-v Vm+-
+2:28  Vm+v Vm+- Vm-- Vm~- Mv+^ Mv-v Mv~- Vm+v V_~v V_~v V_~^ V_~- V_~v V_~- V_~^ V_~- Vd+- Vd+- V_~- Vb-^ Bv-^ Bv-v Bv-- Bv-- Bv~-
+2:33  Bv+- Vb~- Vb-- Bv~- Bv-- Bv~- Bv~- Bv-- Bv-^ Bd+- Bv~v Vb~- Bv-- Bv-^ Db-^ Bm+v Vb-- Vb+- Vb-- Bv+^ Bv~- Bv-- Bv-- Bv-- Bv+-
+2:38  Bd~^ Bv~v Bm+v Bm~- Bm-- Bv~^ Bv-v Bv-- Bv~- Bv~- Bd+^ Bv-v Bv-- Bv-^ Bd-- Bm~v Vb-- Bv~^ Bv~- Bv~- Bm~- Bv~- Bv~- Bv+- Bv+-
+2:43  Bm~v Bm-- Bv~^ Bv-v Bv-- Bv+- Bv~- Bv-- Bv~^ Bv~v Bv~- Bv-- Bd~- Bd+- Bv~- Bv+- Vb-- Bd+^ Bv-v Bv-- Bv+- Bv~- Vb-- Bm-v Vb+-
+2:49  Vb+- Vm-- Vm-v Vm-- Vm-- Vm+^ Vm-- Mv~- Mv-^ Mv~v Mv~^ Mv-- Mv~- Mv+- Mv~- Mv+- Mv-- Mv-- Mv-- Mv-- Vm+- Mv~- Mv+- Vm+- Vm--
+2:54  Vm-- Vm~- Vm-- Mv-- Vm~- Vm+- Vm~- Mv-- Mv-- Vm+- Vm-- Vm-- Vm-^ Mv-v Vm-- Vm+- Vm-^ Vm-v Vm-- Vm+- Vm~- Vm-- Vm-- Vm~- Mv~-
+2:59  Vm+- Vm~^ Vm-v Mv-- Mv~^ Mv-- Mv~- Vm-- Vm+- Vm-- Vm~- Vm-- Mv-- Mv-- Mv~- Vm-^ Vm+- Mv-- Mv-- Vm~- Vm+- Vm+- Vm~v Mb~v Mv~^
+3:05  Mv-^ Mv-- Vm+v Vm-- Mv-v Vm-- Mv-- Vm-- Vm-- Vm-- Vm~- Vm~- Vm+- Vm-- Vm~- Vm+- Vm-- Vm~^ Vm-- Vm~- Mv-v Mb~- Bm-^ Bm-- Bm~-
+3:10  Bm+- Bm+- Bm-- Bv-- Bv~- Bv~- Bv~- Bv-- Bv~^ Bv+v Bv+- Bv-- Db-^ Bv+v Vb~- Bm-v Bm+- Vb~v V_~- V_~- V_~- V_~- V_~- V_~- V_~-
+3:15  V_~- V_~- V_~- V_~- V_~- V_~- V_~- V_~- V_~- V_~- V_~- Vb-^ Bv-^ Bv~- Vb-- Bv~^ Bv-- Bv~v Bm-- Bv-^ Bv~- Bv-v Bv~^ Bv+- Bv+v
+3:21  Bm-v Bm-- Bv-^ Bv-v Bv-- Bv-- Bv+- Vb~- Dv-^ Vm-v Vm~- Vm~v Vm-- Vm+- Vm-- Vm~- Vm~- Mv+- Vm~^ Mv+v V_+- Vm~^ Vm-- Vm~- Vm~-
+3:26  Vm-- Vm+- Vm~- Vm+- Vm-- Vm+- Vm+- Vm+- Vm+- Vm+^ Vm+v Vm-- Vm~- Vm+- Vm+- Vm+- Vm+- Vm-- Vm+- Vm~- Vm-- Vm+^ Vm+v Vm~- Vm~-
+3:31  Vm~- Vm-- Vm~- Vm~^ Vm-v Vm-- Vm-v Vm-^ Vm~- Vm-- Vm+- Vm+- Vm-- Vm-- Vm~- Vm-^ Vm+v Vm+- Vm~- Vm-- Vm+^ Vm+v Vm-- Vm~- Vm+-
+3:36  Vm~- Vm-- Vm~- Vm+- Vm+- Vm~- Vm~- Vm~- Mv~^ Vm+v Vm~- Vm-^ Vm~- Vm-- Vm-- Vm-^ Vm+v Vm-- Mv+v Vm-^ Vm+- Vm-- Vm+- Vm-- Vm+-
+3:42  Vm+v Vm-- Vm+- Vm+- Vm+- Vm+- Vm+- Vm+- Vm-^ Vm-- Vm+- Mv-v M_~^ M_-- Mv+^ Mv+v Mv~- Mv-- Mv-- Mv-v Mv-- Mv-^ Vm+- Vm+- Vm~-
+3:47  Vm~- Vm+- Vm-- Vm+- Vm-- Vm-- Vm+- V_~- V_~- Vm-^ Vm+- Vm+v V_~- V_~- V_~- Vm-- Vm~^ Vm~v V_-- V_~- Vm-- Vm+^ Vm+v V_-- Vm-^
+3:52  Mv+- Mv-^ Mv-v Mv~- Mv+- Mv~v Mv-- Mv-^ Mv+- Mv+^ Mv-- Mv-- Mv+- Mv-v Mv-- Mv-- Mv+- Mv~- Mv-- Mv-- Mv-- Mv-- Mv-- Mv+- Mv--
+3:58  Mv-- Mv-- Mv-^ Mv~- Mv-v Mv-^ Mv-- Mv-- Mv+- Mv-- Mv~v Mv~- Vm+- Mv+- Mv-^ Mv+v Mv-- Mv-- Mv~^ Mv~v Mv-- Mv-- Mv~- Mv~v Mv~-
+4:03  Mv-- Mv-- Mv-^ Mv-- Mv-- Mv~- Mv-v Mv-- Mv~v Mv-^ Mv-- Mv~- Mv+- Mv-v Mv~^ Mv-- Mv-- Mv~- Mv~v Vm-^ Mv-v Mv~- Mv-- Mv~- Mv--
+4:08  Mv~- Mv~- Mv-- Mv-- Md~- Mv+v Mv-- Mv-- Mv-^ Mv~- Mv+- Mv-- Mv-^ Mv+- Mv+- Mv+- Mv-- Mv+^ Mv~v Mv~- Mv-- Mv-- Mv~- Mv+- Mv+-
+4:13  Mv-- Mv~- Mv-^ Mv+v Mv-- Mv-- Mv+- Mv-^ Mv~- Mv+- Mv-v Vm+v V_~v V_~- V_~- V_~- V_~^ V_~v V_~- V_~- V_~- V_~- V_~- V_~- V_~-
+4:19  V_~- V_~^ V_~v Vb~^ Bv-^ Bv-v Bv+- Bm+- Bv-^ Bm-v Bm-- Bm-- Bm~- Bv+^ Mv-v Bv-^ Bm-- Bv-^ Bm-v Vb~^ Bm~v Bm~- Bv~- Bm~- Bm~^
+4:24  Bv-- Bm-- Bd~^ Bm-v Bv+- Vm+v Bv+^ Bv+v Bv-^ Bv-- Bv-v Bv+- Bv~^ Bv-v Bv-- Bv+- Bv+- Bv-- Vb-- Vm-- Bv+^ Bm-- Bv-^ Bm+v Bm--
+4:29  Bv-^ Bv-- Bv+- Vb-v Bd~- Bv+v Bv~^ Bv~- Bm-v Bv+- Bm~- Bv+^ Bv~- Bv~v Bv+- Bv+- Vb~v Vm-- Vm-- Vm-- Vm~- Vm~- Vm-- Vm+^ Bv+-
+4:35  Bv-- Bv~v Vm-v Vm-- Vm-- Vm~- Mv-- Vm-^ Vm-v Vm-- Vm+v Mv~- Mv~^ Mv~- Mv-- Mv~- Mv-v Mv-- Mv-- Mv-- Mv+- Mv-- V_~- V_~- V_~-
+4:40  V_~- Vb-- Bm-^ Bm~- Bv-- Bm+- Mb+- Vm~^ Vm-- Mb+v Mb+- Dm~^ Mb-v Mb-v Vm+^ Vm+v Vm+- Dv+^ Mv-v Vm-- Vm-- Dv-^ Mv-v Vm-- Vm--
+4:45  Vm+- Bv~^ Bv-v Bv+- Bv-- Bv+- Vb+- Vb-v Vb~- Vb+- Dv+^ Vm-v Vm-- Vm+- Vd-- Dv+^ Vm-v Vm~- Vd~^ Vm~v Dv-^ Vd+v Vm-v Vm-- Bv-^
+4:50  Bv-- Bv-- Bv+- Vb-- Vm-- Vm-^ Vm~v Vm+- Dv+^ Vm-v Vm+v Vm+^ Dv-^ Vm-v Vm~- Vm~v Vd-- Vm-^ Mv-v Mv-- Vm-^ Vm~- Vm~^ Vm-- Vm+-
+4:56  Dv~^ Vm-v Vm+v Vm+- Vm~^ Vm-- Vm-v Vm~- Vm~^ Vm-^ Vm~v Vm-- Vm+- Vm-v Vm-- Vm~^ Vm-v Vm+- Bv~^ Bv-v Vb-- Vb~- Vb+^ Vb-- Vm~-
+5:01  Vb-- Dv+^ Vm~v Vm-^ Vm+- Vm~v Mv+^ Vd+^ Vm-v Vm+- Vm~- Dv-^ Vm-v Vm~- Vm-v Vm~^ Bv-^ Bv-v Bv~- Bv~- Bv+- Vb-^ Vb~v Vb+- Dv+^
+5:06  Vb~v Vm-- Vm+- Vm-v Vd-^ Dv+^ Vm-v Vd-- Vm+^ Dv-^ Vd~v Vm-- Vm~- Bd~^ Bm-- Bv-- Bm+- Vb-- Bm~v Bv~- Bm-- Vb-- Vm~v Vb~- Md+^
+5:12  Dm-^ Mv+v Mv-- Vm~- Vm-v Mv-- Dv+^ Mv~v Mv~- Mv+- Vm+^ Vm-- Dv~^ Vm+v Vm+v Vm+- Vd~^ Mv+v Mv~- Vm~- Vm-- Mv-- Mv-^ Mv-- Md-^
+5:17  Mv-v Mv~- Mv~- Mv-- Vm+- Vm-- Vm+- Vm-- Vm-- Vm-v V_-- V_~v Vd-^ Dv+- Mb-^ Mb+- Vm~- Bm-- Vb-^ Bm~v Bv~^ Vb-- Bv-- Bm-- Bm--
+5:22  Bm-- Bm-- Bv~^ Vb-- Bv-^ Vb~- Vb-- Bv-v Bv-- Vb-^ Vb~v Bm-^ Bv+- Bv-- Bm+- Bv-- Vb-- Bv-- Bm-- Bm~- Bv~- Bv-- Bm-- Bm~- Bm--
+5:27  Bv-^ Bv~^ Bv~v Bm+- Bm-- Bv-^ Bm~- Bv-- Bv-- Bv-v Vb-- Vm-- Mv-v Vm--
+
+  Leaders: V=653 B=495 M=384 D=32 
+  Top pairs: Vm=513(33%) Mv=342(22%) Bv=304(19%) Bm=161(10%) Vb=67(4%) 
+  Leadership handoffs: 331 (21% of codons)
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SOLDIER WALK — 406 codons, 60s (6.8/sec)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+0:00  Bm+^ Bm+v Bv~^ Bm+^ Bm+v Vm+- Vm-v Vm+^ Bv+^ Bv-^ Bv+v Bv+- Bv+- Bv+- Vm~v Vm+v Vm+- Mv~^ Mv+- Mb-v Bv+^ Bv~^ Bv~- Bv-- Bv--
+0:03  Bv-^ Bv+- Bv+v Bv+- Vb~^ Bv+- Bd+v Vm+^ Mv+v Vm+^ Mv~^ Vm+v Bv+^ Bv~^ Bv-- Bd-^ Bv~- Vb-v Vb+- Dv~^ Bv~v Dv-v Vm+- Dv~^ Bd~^
+0:07  Bv~v Vd~v Bv+^ Db~^ Db-- Dm-v Dv+^ Bm-- Dv+v Dv+^ Bv-v Vb+v Vb-^ Bv~v Bv+v Dm~^ Bd-- Dm-v Vm-- Mv+v Vm~^ Vm-^ Vm+v Vd~^ Bv~v
+0:11  Dv~^ Dv~^ Vb+- Db-v Dv+^ Bv-v Bv+v Vd~- Dv+^ Bm~v Bv-- Dv-^ Vd-^ Dv-v Mv-- Mv+v Vm-^ Vm+v Mv-^ Mv~v Mv-v Dv~^ Bv~v Bv-v Dv+^
+0:14  Dv-v Db-v Dv+^ Bv~v Vd+- Dv+^ Bv~v Bv+v Dv+^ Vb~- Dv-v Vm+- Vm-v Vm+^ Vm+v Vm-^ Vm~v Mv~v Dv~^ Vb-^ Bv-v Dv~^ Db~v Db~- Dv+^
+0:18  Bv~- Vd-v Vd~^ Dv+- Bv+v Dm+^ Dm+- Dm+v Vm+- Vd+v Dv~^ Vb+- Mb+v Dv+^ Bv+- Bv~v Dv-^ Bv+v Dm-v Dv+^ Bm+v Bd-v Dv+^ Bm-- Vd+v
+0:22  Dv~^ Bv-v Bd-v Dv-^ Bv-- Vb~v Vd-v Vm+- Mv-v Vm+- Vm+^ Vm+v Vm~^ Mv-v Dv-^ Bv~- Bv-v Vd~^ Vd~^ Vb+v Db-v Db-^ Vd-v Dv~^ Bd~-
+0:25  Bv~v Bd-v Dm-^ Bm+- Dv-v Vm~^ Md+v Vm-^ Vm~v Mv-^ Vm+v Mv-v Dv~^ Db~^ Bv-v Bv-v Dv-^ Db~v Db-- Dv+^ Bv~v Vb-v Dv-^ Bv-v Bm+v
+0:29  Dv+^ Bd-- Dv-v Vm~^ Md~v Vm-- Vm+^ Vm+v Vm-^ Vm+v Mv-v Dv+^ Bv~v Bv-v Vd-^ Bd-v Db~v Bd-- Dv+^ Bv~v Dm+v Dv+^ Vb-- Bv~v Bd-v
+0:33  Dv+^ Vd-- Dv-v Vm+- Mv~v Dv+^ Bv~v Vd-v Dv~^ Vb+^ Bv+v Dv~^ Bv-v Bd~v Dv+- Dv~^ Bv-v Db-v Dv+^ Bv-- Bv~v Vd+v Dv+^ Bv+v Bv+v
+0:36  Dv+^ Bv-- Dv-v Vm+v Vm+- Mv-^ Vm+v Mv-v Bv~^ Vd-^ Bd~- Db-- Bd~- Db-^ Bv~v Dv+^ Bv-v Bv+v Dv~^ Bv+v Dm-v Vm+^ Vm~v Vm+^ Vm~^
+0:40  Mv+- Vm+v Db~^ Bv+v Dv~^ Bd-- Bm+v Db-^ Bv+- Bv~v Dv~^ Bv+- Bv-v Vb+^ Bv+v Mv-v Vm+v Vm~^ Mv-^ Vm+v Mv~v Dv+^ Bv-^ Bd-^ Bd-v
+0:44  Bv-^ Bm+v Bv-v Bv-^ Bv-v Dv~^ Bv+v Vm-- Vm~v Vm-^ Vm+v Vm-^ Vm+v Mv-v Bd-^ Bv~v Dv+^ Bv~v Bm+v Vd+^ Bv-v Vb-v Dv~^ Bv~v Bv-v
+0:48  Bv~^ Bv+- Bv-v Vm-- Vm-v Vm+- Mv-^ Vm~v Mv-v Dv~^ Bv-- Bv-v Dv+^ Bd-v Db-- Dv+^ Bv~- Bv+v Dv~^ Bd~- Bv~v Bv-v Vd~^ Db~^ Bm~-
+0:51  Vb-v Mv-v Vm-v Vm+^ Mv-^ Mv+v Mv-v Db-^ Bv~- Bv-v Dv-^ Bv-v Bm-v Dv+^ Bv-- Bv+v Vd-^ Bv~v Bv-v Dv+^ Bv~- Bv-v Mv-- Vm+v Vm~^
+0:55  Vm~v Mv-^ Mv+v Mv-v Dv~^ Dv-^ Bv~- Vb-v Dv~^ Bd-v Db-v Dv~^ Bv+- Bv~v Dv+^ Bv+v Bv-v Dv-^ Bm~- Bm+v Mv-- Vm+v Vm-^ Vm+v Mv-^
+0:59  Mv~v Mv-v Vb-^ Vb-v Dv-^ Bd-v
+
+  Leaders: B=149 V=109 D=106 M=42 
+  Top pairs: Bv=109(27%) Dv=75(18%) Vm=68(17%) Mv=38(9%) Bd=23(6%) 
+  Leadership handoffs: 251 (62% of codons)
+
+

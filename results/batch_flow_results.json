@@ -1,0 +1,110 @@
+{
+  "187 - Soldier Kidd": {
+    "song": "187 - Soldier Kidd",
+    "vocal_consistency": 0.848,
+    "vocal_presence": 0.776,
+    "rhythm_alignment": 0.888,
+    "space_score": -0.298,
+    "smoothness": 0.522,
+    "bar_structure": 0.098,
+    "vocal_clarity": 94.4,
+    "pitch_stability": 0.807,
+    "tempo": 117.0
+  },
+  "Forever Ballin - Soldier Kidd": {
+    "song": "Forever Ballin - Soldier Kidd",
+    "vocal_consistency": 0.818,
+    "vocal_presence": 0.791,
+    "rhythm_alignment": 0.759,
+    "space_score": -0.079,
+    "smoothness": 0.52,
+    "bar_structure": -0.008,
+    "vocal_clarity": 96.6,
+    "pitch_stability": 0.539,
+    "tempo": 99.0
+  },
+  "Soldier Walk - Soldier Kidd": {
+    "song": "Soldier Walk - Soldier Kidd",
+    "vocal_consistency": 0.825,
+    "vocal_presence": 0.692,
+    "rhythm_alignment": 0.757,
+    "space_score": -0.166,
+    "smoothness": 0.453,
+    "bar_structure": 0.468,
+    "vocal_clarity": 94.7,
+    "pitch_stability": 0.671,
+    "tempo": 161.0
+  },
+  "Pressed - Soldier Kidd": {
+    "song": "Pressed - Soldier Kidd",
+    "vocal_consistency": 0.833,
+    "vocal_presence": 0.789,
+    "rhythm_alignment": 0.813,
+    "space_score": 0.014,
+    "smoothness": 0.51,
+    "bar_structure": 0.141,
+    "vocal_clarity": 93.8,
+    "pitch_stability": 0.769,
+    "tempo": 99.0
+  },
+  "No Scrubs - Soldier Kidd": {
+    "song": "No Scrubs - Soldier Kidd",
+    "vocal_consistency": 0.805,
+    "vocal_presence": 0.843,
+    "rhythm_alignment": 0.889,
+    "space_score": -0.323,
+    "smoothness": 0.529,
+    "bar_structure": 0.427,
+    "vocal_clarity": 96.2,
+    "pitch_stability": 0.57,
+    "tempo": 96.0
+  },
+  "Hellraiser - Yung Tray": {
+    "song": "Hellraiser - Yung Tray",
+    "vocal_consistency": 0.835,
+    "vocal_presence": 0.679,
+    "rhythm_alignment": 0.797,
+    "space_score": 0.177,
+    "smoothness": 0.599,
+    "bar_structure": -0.083,
+    "vocal_clarity": 97.1,
+    "pitch_stability": 0.653,
+    "tempo": 112.0
+  },
+  "Frisby - Yung Tray": {
+    "song": "Frisby - Yung Tray",
+    "vocal_consistency": 0.854,
+    "vocal_presence": 0.882,
+    "rhythm_alignment": 0.964,
+    "space_score": -0.277,
+    "smoothness": 0.629,
+    "bar_structure": 0.462,
+    "vocal_clarity": 93.9,
+    "pitch_stability": 0.846,
+    "tempo": 112.0
+  },
+  "Rockstar - Soldier Kidd": {
+    "song": "Rockstar - Soldier Kidd",
+    "vocal_consistency": 0.82,
+    "vocal_presence": 0.739,
+    "rhythm_alignment": 0.947,
+    "space_score": -0.016,
+    "smoothness": 0.528,
+    "bar_structure": 0.222,
+    "vocal_clarity": 96.8,
+    "pitch_stability": 0.691,
+    "tempo": 57.0
+  },
+  "Southside Dummy - Soldier Kidd": {
+    "song": "Southside Dummy - Soldier Kidd",
+    "vocal_consistency": 0.815,
+    "vocal_presence": 0.756,
+    "rhythm_alignment": 0.849,
+    "space_score": -0.17,
+    "smoothness": 0.478,
+    "bar_structure": 0.356,
+    "vocal_clarity": 94.0,
+    "pitch_stability": 0.774,
+    "tempo": 123.0
+  }
+}

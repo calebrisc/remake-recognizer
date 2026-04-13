@@ -543,7 +543,7 @@ def cmd_flow(audio_path_or_url, song_name=None):
     # Download if URL
     if audio_path_or_url.startswith("http"):
         print(f"Downloading {song_name or audio_path_or_url}...")
-        clip_path = download_audio(audio_path_or_url, sname, 60)
+        clip_path = download_audio(audio_path_or_url, sname, None)
         if not clip_path:
             print("   FAILED: download error")
             return

@@ -1,0 +1,150 @@
+BRAIN RESPONSE — ALL TRACKS
+============================
+
+Confirm = expected moment (groove)
+Reward  = surprise that resolves (dopamine)
+Tension = surprise that doesnt resolve
+
+Track                                           Conf%  Rew%  Ten% RewStr TenStr
+----------------------------------------------- ----- ----- ----- ------ ------
+righteous minds - joey badass                    21.1  70.1   8.8    4.9    6.1
+ms - trippie redd                                19.3  68.1  12.6    5.0    6.0
+all falls down - kanye west                      22.9  65.8  11.3    5.0    8.0
+signs - snoop dogg                               19.8  65.1  15.0    4.8    6.5
+snakes - joey badass                             24.1  65.1  10.8    4.9    7.2
+flashing lights - kanye west                     26.2  64.7   9.1    4.9    8.9
+sundress - asap rocky                            24.0  64.4  11.6    4.7    6.7
+waves - joey badass                              23.2  64.4  12.4    5.0    6.5
+forever - drake kanye lil wayne eminem           27.0  62.1  10.9    5.1    7.0
+a lot - 21 savage ft j cole                      27.1  62.0  10.9    4.8    6.4
+soldier walk - soldier kidd                      26.8  60.6  12.7    4.9    8.1
+devastated - joey badass                         28.1  59.8  12.1    5.1    6.9
+mind playing tricks on me - geto boys            20.6  59.8  19.6    5.1    6.2
+all the love - kanye west ft andre troutman      27.0  59.4  13.6    5.3    6.2
+nuthin but a g thang - dr dre snoop dogg         31.6  59.2   9.2    4.5    5.8
+show me - joey badass                            28.2  59.2  12.6    5.0    6.2
+mrs officer - lil wayne                          28.0  58.8  13.2    5.0    7.4
+who am i - snoop dogg                            29.0  58.7  12.3    5.0    6.4
+patience - yung tray                             30.4  58.1  11.5    5.2    6.8
+lady of namek - tory lanez                       28.6  57.9  13.5    4.8    6.2
+are we still friends - tyler                     24.6  57.8  17.6    5.2    6.4
+love is only a feeling - joey badass             21.9  57.8  20.3    5.5    7.3
+real feel - trippie redd                         31.2  57.7  11.2    5.6    8.2
+she will - lil wayne ft drake                    28.5  57.4  14.1    5.0    6.7
+trance - metro boomin ft travis scott young t    26.6  57.3  16.1    5.1    7.2
+327 - joey badass ft tyler                       29.6  57.2  13.2    4.9    8.1
+runaway - kanye west                             25.4  56.5  18.0    5.8    7.2
+bust down deux - trippie redd                    22.8  56.2  20.9    5.3    7.8
+live and learn - jackboy                         26.6  56.1  17.3    6.8    8.6
+stronger - kanye west                            32.4  56.0  11.6    5.1    8.0
+paper trails - joey badass                       23.6  55.5  20.9    5.2    7.6
+in for it - tory lanez                           25.6  55.4  19.0    5.4    7.9
+creepin - metro boomin ft weeknd 21 savage       26.5  55.2  18.3    5.1    8.0
+glock in my lap - 21 savage                      23.7  55.1  21.2    5.1    5.9
+ring ring ring - tyler the creator               26.9  55.0  18.1    5.3    6.5
+sweat - snoop dogg david guetta                  34.1  54.9  10.9    4.9    9.2
+wasted - juice wrld ft lil uzi vert              27.9  54.9  17.1    5.3    6.7
+young wild and free - snoop dogg wiz khalifa     34.7  54.9  10.4    5.0    6.1
+only want you - soldier kidd                     22.7  54.8  22.5    5.3    7.1
+til the end of time - trippie redd               32.4  54.8  12.8    4.8    7.8
+too many nights - metro boomin ft don toliver    25.6  54.5  19.9    5.1    7.3
+icy - logic ft gucci mane                        28.3  54.2  17.5    5.0    7.6
+father - kanye west ft travis scott              36.2  53.8  10.0    5.0    7.3
+temptation - joey badass                         30.6  53.8  15.6    5.2    7.5
+hurts me - tory lanez                            29.3  53.6  17.1    5.1    6.6
+like that - metro boomin ft future kendrick      30.4  53.6  16.0    5.4    7.1
+hours in silence - drake 21 savage               29.8  53.0  17.2    5.4    7.5
+lavender sunflower - tory lanez                  36.2  52.9  10.9    5.0    6.4
+new magic wand - tyler the creator               29.0  52.9  18.1    5.5    7.0
+twinz - big pun ft fat joe                       27.0  52.8  20.2    5.4    6.7
+crazy rap - afroman                              35.4  52.6  12.1    4.9    6.8
+frat rules - asap mob                            30.2  52.6  17.3    5.0    7.1
+am i dreaming - metro boomin ft asap rocky       34.0  52.2  13.8    5.1    7.1
+sugar on my tongue - tyler                       36.2  52.2  11.6    5.0    6.2
+the color violet - tory lanez                    39.9  52.2   8.0    5.0    6.3
+love me - lil wayne ft drake future              28.1  52.0  19.9    5.2    6.8
+can you rap like me pt 2 - trippie redd          32.5  51.6  15.9    5.1    6.4
+mirror - lil wayne ft bruno mars                 36.0  51.2  12.8    4.9    5.8
+be like me - lil pump ft lil wayne               32.7  51.1  16.2    4.7    7.6
+gin and juice - snoop dogg                       31.9  50.9  17.3    4.8    6.0
+forever ballin - soldier kidd                    28.1  50.7  21.2    5.4    7.0
+beautiful - snoop dogg                           33.3  50.6  16.1    4.9    6.8
+superhero - metro boomin ft future               25.1  50.4  24.5    5.5    7.2
+dealing - soldier kidd                           26.2  49.8  24.0    5.4    7.3
+rmp - trippie redd                               27.5  49.8  22.6    5.0    6.4
+pressed - soldier kidd                           27.7  49.7  22.6    5.0    8.4
+i wanna love you - snoop dogg akon               29.9  49.6  20.5    5.5    5.9
+she - tyler the creator                          27.7  49.6  22.8    5.4    6.9
+gucci gang - lil pump                            29.8  49.1  21.1    5.2    7.5
+heartless - kanye west                           36.8  48.8  14.4    5.7    8.0
+stolo - lpb poody                                32.1  48.7  19.2    4.8    6.5
+oouuh - fredo bang                               38.7  48.5  12.8    4.9    7.5
+broke in a minute - tory lanez                   39.5  48.1  12.5    4.9    9.6
+homecoming - kanye west                          37.8  48.0  14.2    5.3    7.9
+runnin metro - metro boomin ft 21 savage         38.1  47.8  14.2    5.2    8.3
+around me - metro boomin ft don toliver          32.0  47.7  20.3    5.8    6.3
+let it all work out - lil wayne                  33.0  47.7  19.3    5.2    7.4
+no scrubs - soldier kidd                         33.8  47.5  18.6    5.0    9.5
+norf norf - vince staples                        29.6  47.4  23.0    5.4    8.0
+sucker for pain - lil wayne wiz khalifa          39.7  47.4  12.9    5.1    6.7
+spin bout u - drake 21 savage                    34.3  47.3  18.4    5.5    6.6
+runnin - 21 savage                               37.4  47.2  15.4    5.1    8.0
+type shit - metro boomin ft future travis sco    31.9  47.2  20.9    5.3    7.9
+whats poppin remix - jack harlow ft dababy to    31.7  47.1  21.2    5.3    8.6
+topanga - trippie redd                           33.4  47.0  19.6    5.1    6.9
+187 - soldier kidd                               34.3  46.9  18.8    4.9    6.4
+wavybone - asap rocky ft pimp c                  34.5  46.8  18.7    5.2    7.2
+hate me - juice wrld                             38.0  46.6  15.4    4.8    8.6
+the grinch - trippie redd                        35.6  46.6  17.8    5.5    7.2
+lean wit me - juice wrld                         36.2  46.5  17.3    5.0    7.9
+wishing well - juice wrld                        39.9  46.3  13.8    5.2    8.2
+jimmy cooks - drake ft 21 savage                 38.1  46.1  15.8    5.0    6.7
+luv - tory lanez                                 38.6  46.1  15.3    4.9    5.9
+love sick - trippie redd                         36.7  45.2  18.1    5.7    8.0
+st chroma - tyler ft daniel caesar               38.6  45.1  16.3    5.3    5.9
+redrum - 21 savage                               40.6  45.0  14.4    5.0    7.3
+all girls are the same - juice wrld              32.7  44.6  22.7    5.6    7.5
+calling my spirit - kodak black                  37.9  44.5  17.6    4.8   11.1
+rockstar - soldier kidd                          40.6  44.0  15.4    5.1    9.3
+lucid dreams - juice wrld                        33.6  43.8  22.6    5.1    6.4
+frisby - yung tray                               39.4  43.7  16.9    5.2   11.8
+let me know - juice wrld                         39.6  43.4  16.9    5.6    7.5
+bandit - juice wrld ft youngboy                  33.7  43.1  23.2    5.3    6.0
+wish i never met you - tory lanez                35.5  43.1  21.4    5.4    7.7
+like him - tyler ft lola young                   40.8  42.9  16.3    5.3    6.9
+ball w o you - 21 savage                         28.1  42.8  29.1    5.0    5.3
+cant tell me nothing - kanye west                28.1  42.4  29.5    4.9    7.1
+ric flair drip - metro boomin ft offset          36.4  42.4  21.3    5.1    6.1
+a milli - lil wayne                              40.5  42.3  17.2    5.4    7.7
+bang - trippie redd                              45.1  42.3  12.6    5.3    7.4
+thuggin under god - soldier kidd                 36.5  42.1  21.5    5.3   10.0
+victoria s shooter freestyle - soldier kidd      39.3  42.1  18.6    4.9    7.4
+mona lisa - lil wayne ft kendrick lamar          39.9  41.8  18.3    5.9    7.0
+come and go - juice wrld ft marshmello           45.6  41.6  12.8    5.1    6.6
+left lonely - hotboii                            38.1  41.5  20.4    5.0    7.5
+say it - tory lanez                              39.8  41.4  18.8    5.5    7.2
+hellraiser - yung tray                           39.5  40.8  19.7    5.5    8.1
+hate me - trippie redd                           41.5  40.6  17.9    5.1   11.0
+sticky - lil wayne ft glorilla sexyy red         41.4  40.6  18.0    5.4    8.6
+6 kiss - trippie redd                            45.8  40.4  13.8    5.3    7.8
+racks on racks - lil pump                        36.3  40.4  23.3    5.5    7.1
+the jungle book - trippie redd                   32.6  40.4  26.9    4.9    6.4
+all for me - trippie redd                        41.9  40.2  17.9    5.3    7.5
+rich flex - drake 21 savage                      41.7  40.0  18.3    4.7    7.2
+i wonder - kanye west                            48.2  39.9  11.8    4.7    5.6
+southside dummy - soldier kidd                   40.7  39.5  19.8    4.7    6.9
+love me more - trippie redd                      34.5  38.9  26.5    5.8    8.7
+survival tactics - joey badass                   51.9  37.8  10.3    4.7    7.3
+earfquake - tyler the creator                    49.2  37.4  13.5    5.5    7.1
+4 inda morning - bo billy                        41.7  37.0  21.4    5.2    5.6
+drowning in pints - teejay3k                     40.9  36.7  22.4    5.2    7.8
+see you again - tyler ft kali uchis              46.9  35.9  17.2    5.0    7.2
+judy - soldier kidd                              49.2  34.7  16.1    4.8   11.1
+lollipop - lil wayne                             50.1  33.8  16.1    4.7    5.9
+real me - hurricane wisdom                       47.2  32.5  20.2    5.6   10.8
+robbery - juice wrld                             49.0  32.4  18.6    6.0    7.6
+drop it like its hot - snoop dogg                66.6  23.8   9.5    4.6    6.0
+leray - trippie redd                             74.3  16.0   9.7    5.1    9.4
+
+RewStr = avg surprise intensity of reward moments (higher = bigger dopamine hits)
+TenStr = avg surprise intensity of tension moments (higher = bigger unresolved moments)

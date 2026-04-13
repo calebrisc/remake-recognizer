@@ -1,0 +1,44 @@
+QUALITY DNA — CODON KEY
+========================
+Each codon = 1 second of the song
+Character 1 — Vocal energy:    _ silent | v soft | V mid | X full blast
+Character 2 — Beat relation:   . silent | + locked | < ahead | > behind | ~ floating
+Character 3 — Freq blend:      . silent | = blended | : nearby | | separate
+Character 4 — Energy direction: - steady | ^ building | v dropping
+
+
+============================================================
+THUGGIN UNDER GOD — 210 seconds (3:30)
+============================================================
+
+0:00  _..- _..- _..- _..- _..- _..- _..- _..- _..- _..- _..- _..- _..^ v+=^ v<=- _..v v+=^ V<=^ V~=- _..v
+0:20  V~:^ V+=^ V~=v v~:v X~=^ V>=v X+=^ v>:v V+=^ v>:v V>:^ v+:v V>:^ v<:v _..v _..- v+:- v~=^ _..v _..-
+0:40  _..^ _..- _..- V>|^ V~|^ v+|v V>|^ V~|- V+|^ V>|v v>|v v<|- _..v v+|^ V~|^ _..v _..^ v+|^ V+:v v~=-
+1:00  _..- _..v X>|^ X+|v X<:- X<|- X+|- X>|- X+|- X>|^ X+|v X<:- X>|v X+|^ X+|- X+|^ X<|v X+|- X>|- X+:v
+1:20  X+:^ X<=- X+:v V>|^ X<|- X<|- X<|v X+|- X+|- X+|^ V+|v X<|- X<|^ V<|v X+|^ X+|v X<|^ V+|- X>|v X+|^
+1:40  X+|v V>:- X>=v X<=v X+|^ X<|- V>|v X+|v V<|^ X+|- X<|^ X<|v X~|^ X+|- v~|v V+|^ X>|- X<|^ X+|- X~|-
+2:00  X<|- X+|- X>|- X+=- X<|v X<=^ X~|^ X+|- X<|^ X<|- X>|v X>|- X+|- X+|- X>|- X+=v X<|^ X<|^ X>|v V+|v
+2:20  V<|^ X+|v V>|^ V>|v X~|^ V<|- X>|- X+|^ V>|v V<|- X+|^ V~|v V+|- V+|^ X+:v V+:v X>:v X<=- V~|^ V+|v
+2:40  V<|- V+|- V<|v V+|^ V<|- V+|- V>|- X>|^ V+|v X+|^ X+|- X<|- X+|^ X~:v X<|- X+|- X<|^ X+=v X>=v X<|^
+3:00  X>|- X+|- X>|- X~:- X<|- X+|- X>:v X>=- X~:v X<=^ _..v _..- _..- _..- _..v _..^ _..- _..- _..- _..^
+3:20  _..v _..^ _..v _..- _..v _..v _..v _..v _..- _..-
+
+
+============================================================
+FOREVER BALLIN — 60 seconds (1:00)
+============================================================
+
+0:00  v<|- V<|^ V+|^ V+|v V>|v V>|^ V~|- V~|- v~|- V~|^ X~|- v~|v V>|^ X>|^ X+|^ X+|- X<|v X+|v X>|- X+|-
+0:20  X+|^ X<|v X+|- X+|v X>|^ X+=v X+|^ X>|- X+|- X<|v X>|- X>|^ X+|- X<|^ X+|^ X>|v X+|v X+|- X>|^ X+|-
+0:40  X<|^ X>|v X+|v X>|^ X+|^ X>|- X~:v X>=v X+=^ X>:v X>:^ X~|^ X<|v X+|^ X~|^ X<|v X+|- X~|^ X~|^ X>|-
+
+
+============================================================
+SOUTHSIDE DUMMY — 60 seconds (1:00)
+============================================================
+
+0:00  _..- _..- _..- _..- _..- _..- _..- _..- _..- _..^ _..^ X+|^ V~|- v+|v v~|- v~|- v~|- v>|v v+|- v~|^
+0:20  _..- v>|- _..- v+|- X+|^ X+|^ V<|v V+|^ X+|- X+|^ X<|v X+|^ X<|- X<|^ V<|v X+|- X+|^ X>|^ X+|v V>|v
+0:40  X+:^ X~|- V+|v V+|^ X+|- X+|^ X<:v X<|^ X>|- V>|- X+|- X<|v X+|^ X+|v X+|v X>:v X~|^ X<|- X>|^ X+|v
+
+

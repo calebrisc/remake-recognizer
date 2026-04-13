@@ -1,0 +1,1420 @@
+SONG FLOW DNA v2 — FULL PLAYLIST
+==================================
+
+Each codon = 9 characters describing one sonic event
+
+Position 1:    Event gap     . instant : very fast - fast = moderate ~ slow _ gap
+Position 2-3:  Vocals        [energy 1-5 or _][freq zone L l m M h H T or _]
+Position 4-5:  Drums         [energy 1-5 or _][freq zone]
+Position 6-7:  Melody        [energy 1-5 or _][freq zone]
+Position 8-9:  Bass          [energy 1-5 or _][freq zone]
+
+Freq zones: L=sub(<100Hz) l=low(<250) m=mid(<500) M=hi-mid(<1k) h=high(<2k) H=bright(<4k) T=top(>4k)
+
+
++================================================================================+
+  Victorias Shooter Freestyle - Soldier Kidd
+  433 codons | 1:00 | 7.2 codons/sec
++================================================================================+
+
+0:00  =____4H__ -____3h__ =____3H__ -____3H__ =____3H__ -2T__3h__ -2h__2h__ -2H__2h__ -2h__3H__ =1h__3H__
+0:02  :____2h__ -____3H__ =____3H__ =____4H__ -2H__3h__ -1H__3h__ -2h__3H__ -2T__3H__ :2h__2h__ :1h__3H__
+0:03  -2h__3H__ =1M__2h__ -1M__1h__ -____2h__ -____3H__ =____3H__ -____4H__ =____3H__ =____4H__ -____3h__
+0:05  =____3H__ -____3H__ =____3H__ =____2h__ -____3H__ =____3H__ -____4H__ -____4H__ -____4H__ =____4H__
+0:08  -____3h__ =____3H__ -____3H__ -____3H__ -__1T3H__ :__1H2h__ -____2h__ -____2h__ -____3H__ :__1H4h__
+0:09  -____3H__ -____4H__ -2H__3H__ =3H__3H__ =____4H__ :____3h__ :____2h__ :____3H__ :2T1H3H__ -3T__2h__
+0:11  :4T__2h__ :3H__2h__ :3T__3H__ :2H__3H__ :2T__3H__ :3H1T2H__ :2H1H2H__ -3H__2h__ -3T__2h__ -3H__3h__
+0:12  -2H__3H__ -3H1H3h__ =3T__2h__ =3T__3h__ -1T__3h__ =____3H__ -____3h__ -____3H__ -2H1H2H__ -3T__2h__
+0:14  :3T__2H__ :3H__2H__ :3H__2H__ -3H__2H__ =3T__2h__ -2T__2h__ -2T__2h__ -2H1T2h__ :3H1H2h__ =2T1H2h__
+0:15  -2T__3h__ -3T__3h__ -1T__3H__ =3T__3h__ =2T__2h__ -1T__3H__ =2T1H2h__ :1T__2H__ :3T__2h__ -3T__3h__
+0:17  -2T__2h__ -2T1H2h__ :2T__2h__ -2T__2h__ -2T__2h__ -1H1T3H__ :2H1H3H__ :3H1H2h__ -3T__2h__ -2T__3H__
+0:18  =3T__2h__ =1T__3h__ -____3h__ -____3H__ =2T1H2h__ :2T__2H__ :3H__2h__ :3H__2H__ =3H__2h__ -2T1T2h__
+0:20  :2T__2h__ :2T__2h__ :3H__2h__ -3T__3h__ -3T1H3h__ :3T1T3h__ -3T1H3h__ -1T__3h__ :2T1H3h__ =3T__3h__
+0:21  =3T__4h__ -____3h__ -____3H__ =__1H3h__ :1T__3H__ :2T__3h__ :3T__3h__ -3T__3h__ -2T1T3h__ -1T__2h__
+0:22  -1T__2h__ -____3H__ :__1H3h__ :1T__3H__ :2T1H3h__ :3T1H3h__ :2T__3h__ :1T__3h__ -3T__3h__ =3T__3h__
+0:24  -3T__3h__ -3T__3h__ -1T__3h__ -1T__3H__ -2T1H2h__ -2T__3h__ -3T__2h__ =3T__2h__ -2T__2h__ -1T__2h__
+0:25  -____3H__ :__1H3h__ :2H__3H__ =4T1T2h__ :3T__3h__ =3T__3h__ =3T__4h__ -1T__3h__ -1T__3H__ =2T1H3h__
+0:27  -2T__3h__ :3T__3h__ :2T__3h__ -2T__3h__ =2T__2h__ -____3h__ :__1H3h__ :2H1H3H__ -3H1H3h__ :3T__3h__
+0:28  :3T__3h__ :3T__3h__ :2T__4h__ :3T__3h__ -3T__4h__ -3T__4h__ -2T__4h__ =4H__3h__ :2T__3H__ -3T1H3h__
+0:30  :3T__2h__ :3T__2h__ -3T__3h__ -2T__3h__ :2T__3h__ =3T__2h__ -3T__2h__ :3H__2h__ -2T__3H__ :1H1H3h__
+0:31  :3T1T3H__ :2T1H4h__ :3T__4h__ -3T__3h__ -2T__4H__ :2T__3H__ :4T1T3H__ -3T4H3h__ =2H2T3h__ -2T4h2h__
+0:32  :3T2H2h__ :2T__3h__ :2T1T2H__ -3T1H2h__ :4T__2h__ -2T__2h__ :3T1T2H__ :3T__3H__ :2T__3h__ :2T__3h__
+0:33  :4T__3h__ =2T1T2h__ -1T__2h__ -3T__3h__ -5T1T3H__ -3T1T2h__ -2T__2H__ :3T__2h__ -2T__3h__ -4T1T3H__
+0:34  -2T4h2h__ -2T1H3h__ -3T4M2h__ -2T1T2H__ =3H1T2H__ -3T__2h__ -3T__2h__ :3H__2h__ -4T1T2H__ :3T1T2H__
+0:36  :2T__2h__ -2T__2H__ -3H__2H__ =3H1T2H__ :2H1H2h__ :3H__2H__ :3T__2H__ :4T__2H__ -3T__3h__ -4T1T3H__
+0:37  -2T4h3h__ -2T1H3h__ -2T4M2h__ -3T1T2h__ -2T1H1H__ :2H1T1H__ :4T__2h__ :3T__2H__ :3T__2h__ :3H__2H__
+0:38  :3T__2h__ :3T1T2H__ :3T1H2H__ :2T__1H__ -2T__1h__ -3T__2H__ :2H1T3H__ :2H__3H__ -3T1H2H__ :2T1T2H__
+0:39  :2H__2H__ :3H1T2H__ :3H__2H__ -3H1T2H__ =2T4h3H__ :2T__3h__ :3T2H2h__ -2T5m2h__ :2T3h2h__ -3T1H2h__
+0:40  -3T4h1H__ -3T__1H__ -4T__2h__ -4T__2H__ -3T1T2H__ -2T__2h__ -4H__3h__ :2H1T3h__ :2H1T3H__ -3H1H3h__
+0:42  -3T__3h__ -2T1T3h__ :3T__3h__ -2H1T2h__ -2T5M2h__ :2T3H3h__ -3T1H3h__ -2T5m2h__ -3T1T3h__ -2T1H3h__
+0:43  :3T__3h__ -3H__3h__ :4T1T3H__ -3T__3h__ -4T__3h__ =3T1T2h__ -2T__2h__ -3H__2h__ -2H1T3H__ :2T__3H__
+0:44  -2T1H3h__ -3T__3h__ -2T__3h__ :2T__3h__ :2H__2H__ :4H2H2h__ -3T4h2h__ -3T1H2h__ -2T5M2h__ :4T3h2h__
+0:45  -3T__3h__ -2T1H2h__ :2T__2h__ :2T__3h__ -3T__2h__ :3T__2h__ :4T__2h__ :4T__2h__ =3T1T1H__ -2T__2h__
+0:47  -3T__2h__ :2T1T3H__ :3T1T3H__ -2H1H2h__ :2T__2H__ :2T__3h__ :3T__4h__ -3T__4h__ -3H__3h__ -2T4M3h__
+0:48  -2T1T4h__ :4T2H3h__ -2T4h3h__ :2T__3h__ :3T3H3h__ :2T5h2h__ :2T3H3h__ -3T__3h__ -3T__3h__ :3T__3h__
+0:49  -3T__3h__ =3T1T2h__ -1T__2h__ -__1T3h__ :1H1H3h__ :3H1T3H__ -3T1T3h__ =4T__3h__ -3T__3h__ -3H1T3h__
+0:50  -3T4h3h__ -1T1H3h__ :__5M2h__ :__3H2h__ :1T__3H__ -2T4h2h__ :3T4h2h__ -3T1T2h__ -2T__3h__ :2T__3H__
+0:51  -2H__2h__ -3T1T2h__ :3T__1H__ -3H__1H__ -3H______ -3T______ =3T______ -3T______ -3T______ -2T______
+0:53  =2T2T3h4l -__3H2h4l :2H__3h5L :3H1T2h5L -2H1T1H4L :3T__2H4L -3T__2H4L -3T__3h3l -3T__2H2l :2T1T2H__
+0:54  :2T__2h__ -2T__2h__ -3T__2h4m :4T1T2H4l :4T1T3h4l -3T1H2H2l :3T__2H1M :3T__2H__ :3H1T2H4m -2T__3h5l
+0:55  :3T__3h5l -4T1H2h5l -2T3h2h4l -2T1T2h5l -2T3h2h4l -3T__3h5l -2T1H2H5L :2T__2H4L :2T__2h4L :3T__2H4L
+0:57  -3T__2h3l -3T__2h2l =2T1T2H__ -2T__2h__ =3T__2H5l :3T1T3H5l :2T1T2H5l -3T1T2H5l -4T__2h4l -3T__2h5l
+0:58  :3T__3H5l -2T1T3H5l -2T3h3h4l -2T1T2h5l :2T3M1H4l :2T2H2H5l :2T__2h5L :3T__3h5L -2T1H2H5L :2T__1H4L
+0:59  -2T__2h4L :4H1T2H3L -3T__2H3L
+
+
++================================================================================+
+  Smoking Os - Soldier Kidd
+  401 codons | 1:00 | 6.7 codons/sec
++================================================================================+
+
+0:00  -____3h__ -____3M__ -____3M__ -____3M__ =____2M__ =____1h__ :2T__1h__ =2h__1h__ :2H__1h__ =2h__1h__
+0:02  =____2h__ -____2h__ -____1h__ :____4h__ :____3h__ :1H__1h__ :3H__1h__ =3H__2h__ =4H__2h__ ~3H__1h__
+0:04  =4H__1h__ =2H__1h__ =3H__1h__ :2T__2h__ :4H__2M__ -3H__2M__ -2H__2M__ :____3h__ =____3M__ =____3M__
+0:05  :1T__2M__ =1H__2h__ =2T__2h__ =1H__1h__ =1H__1h__ =2H__1h__ =2H__2h__ =1H__1h__ -____2h__ :____1h__
+0:08  =____2h__ -1H__1h__ =3H__2h__ =3T__1h__ =3T__2h__ =3T__2h__ =2H__2M__ =2T3h3M__ -2T__2M__ -2H1T3M__
+0:11  -2H4M2h__ =1T__3h__ -1H1H1h__ -2H3M1h__ -2H__1h__ -2H__2h__ -1H1H1h__ =1H3h1h__ :____1h__ =__2H3h__
+0:12  :__5l1h__ :1h1h2h__ -1H__3h__ :1H__1h__ :3T3h1h__ -3H4m3h__ -4H__2M__ :4H__2h__ -3H1H2h__ -1H5l1h__
+0:13  -4H1h2h__ -2H__1h__ :4H3M2h__ -3H3M2h__ -2T1H1h__ :3H__1h__ -2H__1h__ -4H__1h__ -3H4M2h__ -4H1H1h__
+0:15  =3H1h1h__ :2T5l____ ~3H1h1h__ :1T5l3M__ -1H2m3M__ -____4M__ :1T__4M__ :1H2H3h__ -1H4M2h__ =3H1H2h__
+0:16  -3H3M2h__ -3H__1h__ :1H__4h__ :1H__3h__ -1H1H1h__ -1H4M3h__ -2H__1h__ =4H1h1h__ -3H3M1h__ =3H1H2h__
+0:18  :1H5l3M__ -1H2M2M__ :1H__2M__ :3H__2M__ -3H1H2M__ -2T4M1h__ -1H__2h__ :1H__1h__ :3H3M1h__ -3H3M1h__
+0:19  -3H__1h__ -1T__2h__ -3T1H1h__ -3T3M2h__ -3T__1h__ -3T1h2h__ -2T3M1h__ =3T__2M__ -3T3M2h4l -3T1H3M5l
+0:21  -3T3h2h5l -3T__2h5l -3H3h2h5l =3H1T1H5l -3H3h1h5l :2T1T1H5l :4T__1H4l -4H__1h2l -4T__1H__ -4T__2h__
+0:23  -3T1T1H__ -3T1T2H__ :2T__1h__ :5H__1h__ -4H__2h__ -3h__1h__ -4H__3h__ -4H__1h__ -3H__1h__ -2T1T1h__
+0:24  -4H1T2h__ :3H__1h__ :4H__1h__ -4H__2h__ -3T__1h__ -4H__2h__ -4H__1h__ -4H__2h__ -3H1T1h__ =3T1T1H__
+0:26  :4T______ =3H1T____ -3T3h2h3l -3H1T2M3l -3T3h3h3l :3T1H2h4l -2T1T2h4l -3H3H2h3l :3T1H2h4l -4T1H1h3l
+0:27  -4H3h1h3l -2H__1H3l =4H__2h2m -3T__1H__ -3H__2h__ -3T1T1H__ :3T2H2H__ :2T__1h__ :2T__1H__ :4T__1H__
+0:28  -3H__2h__ -2H__1h__ -4H__3h__ -2T__2h__ =3T__2h__ -2T1T1h__ -4T1T2h__ -5H__1h__ =4T__2h__ -2H1H1h__
+0:30  :4H__1H__ -4T__2h__ -4H__1h__ -3H__2h__ -4H__1h__ =4H1T2H__ -5H__1H__ =4H__1h__ =3T__2h5l -3T1H2h5l
+0:32  -2H1T2h5l -2T1H2h5l :1T__1h5l :2T1H1h5l :2T2h2h5l :3T1H1H5l :2H1H1H5l :3T1h1h5l -3T2h2h5l -3T1H1H5l
+0:33  -2T1H2h5l :3T1T1H5l -3H__1h5l -3T2H2H5l -3H__1h5l -3T1H2h5l -4H__1h5l =3T1H2h5l -3T__1h5l -2T1H2h5l
+0:34  -3H1T1h5l :3T2H2h5l :3H1T1h5l :3H__1h5l :3T__2h4l -3T__2h2l -1H1H1h__ :1h2H1h__ :1h2H2h__ :1H2H2h__
+0:35  :3T2H2h__ =4T1H2h__ -4T1T1H__ :3T2H3H__ :2T__2H__ :3T__1H__ :4H__1H__ =4T____1H -3T2M2h4l -3T__2h4l
+0:37  =2T2H2h4l -2H1T2h3l -2T2H2h4l :3H1T1h4l -2T__1h4l -2T2H2h4l =1T1H1h4l :__2h5h4l :1T1H5h4l -1H1H3h3l
+0:38  :3T1H2h4l -3T2H3h4l -2T__2h4l =3T2H1H4l :3T__1h3l :3H1H1h4l -3T2h1h4l -3T__1H4l -3H2M2h4l -4H__1h4l
+0:39  :4H1H1h4l -2H2H2h4l -3H__1h4l =3H1H1H4l :3H__1h3l :3T__2h3l -3T__2h2m -2H1H1h__ :4T__1H__ -3T__1h__
+0:41  :2H1T1H__ :3T__1h__ :4T__3h__ :4H__2h__ :3T__1H__ :4T1T1H__ =4T1T2H__ :4T__1h__ -3T__2h__ -4H1T1h__
+0:42  =4T2M1h4l -3T1h2h5l -3H2h2h4l -3H__2h5l =3T__2h3l :4H__1h__ :4T__1h__ -2T__1h__ -2T__1H__ =4T__2h__
+0:43  :3T1H1H__ :4H__1h__ -4H__1h__ :3T__1H__ :4H1H2h__ -4T__2h__ :4H__1h__ :4T__2h__ -2T__3h__ -2H__1h__
+0:44  :4H3M2h1M -3T2M2h5l :3T__1h5l :4H3M1h3l :3H3m2h3m :4H1h1h5l :4H__1h5l :4T__1h4l -4T__2h2l -5H__1h__
+0:45  :5T__2h__ -4H__2h__ :2H1H1h__ :4H__1h__ -3H__2h__ :3H__1h__ :4H__2h__ :4H__3h__ -4T__1h__ -3H__2h__
+0:47  -3T__1h__ :4H__1h__ :4H__1h__ -3T______ :4H1h1h3m -3H1M1h4l -4h__2M4L -3H1h2h5l :3T__2h4l -3H__2h4L
+0:48  =3T__2h2l -4T__1h__ -4T__2h__ -3T__1h__ :4H__2h__ -4T__2h__ -4H1H1h__ :4T__1h__ -4T__2h__ :4H__1h__
+0:49  :5H__1h__ -4H__1h__ -5H__1h__ -4T__2h__ -4T__1h__ =3H1h1h4l :4H__1h4l -3H__2h5l -4T__1h3l -4T__2h2l
+0:50  -5T__1h__ -4T__2h__ -4T__1H__ -4T__2h__ :4T__1h__ -4H__1h__ -4T__2h__ -4T__1h__ -3T__3h__ =4H__1h__
+0:52  =4H__2M__ -3H1h2M4l =4H__3M5l :3T1h2M5l :3T1m2h5l :3T__2M5l -3T__2h5l -3T1M2h5l -3H__1h5l =3T1M1h5l
+0:54  :2T__1h5l :3T__1h5l -4H__2h5l -4H__1h5l -3T2m2h5l :3H1M1h5l -3H__1h5l -3T1M1h5l -2T__1h5l :3T__1h5l
+0:55  -3T__2h5l -4H__1h5l -3T1M2h5l -3H__1h5l =3H1M2h5l -4T__1h5l -3T1M2h5l -4H__1h5l :4H__2h5l -3T__2h3l
+0:56  -4T__1h__ -3T__2h__ =4T__1h__ -4H__2h__ =4H__2h__ :3T__2h__ -4T__2M__ -4H__2M__ :3H__1h__ =4H1h2M4l
+0:58  -3H2m2h4l -3T__2h4l :3T1h2h5l -3T1M2h4l :3T__1h3L :3H1H1h4l -3T1M2h4l -2H__1h3L -3H1M1h4l -4T__1h4l
+0:59  -3H2m2h4l
+
+
++================================================================================+
+  Ride With Me - Soldier Kidd
+  353 codons | 1:00 | 5.9 codons/sec
++================================================================================+
+
+0:00  _____3M__ -____3M__ -____3M__ =____3M__ ~____3M__ =____3M__ =____5M__ ~____3M__ _____2M__ =____3M__
+0:04  =____3M__ ~____3M__ =____3M__ =____4M__ -2H__3M__ -____3M__ :2H__3h__ -3h__3M__ -3h__3M__ =3h__2M__
+0:07  =2h__2M__ =1h__3M__ =____3M__ =____3M__ =____4M__ =____3M__ =____4M__ =____4M__ =1H__3M__ :2H__3M__
+0:09  -3T__3h__ =4T__3M__ -3T__3M__ ~2H__2M__ =1H__3M__ =1h__3M__ =____3M__ =____4M__ :____3M__ -____3M__
+0:12  =____3M__ =____4M__ =____3M__ =1H__3h__ -3T1T2h4l :2T2T2h4l -3H1H2h4L -3H2T1H3l :4H1T1H3l -3H__2h4l
+0:13  =3H2T2H4l -3H2T2h3l -3T1T2h4l =2T1T2h4L -2H1T3h3L :3H1T3h3l =4H2T2H2l -4H1T2h2l =3H1T2h1l -4H4H2H1m
+0:15  :4H1T3h1m -2T1T3h__ =3T__2h1H :2H1T2h5l :2H1T2h5l :2H__1h5l -4H1T1H4l =4H1T2H4L -3T2T1H3L :4H1T1H3l
+0:16  -2H1T1h4l :3H3H2H4l :3H3H2H4l :2H1T2h3L :1T2T2H3l -3T2T2H3l -3T1T1H4l -3H1H1H4L =4H1T2h3L -2h2H2h2L
+0:18  -3T1T2H2l :3H1T2h2l -2T1T2h4l =3H2T2h4l -2T1T2h5l =3H2T2H4L =2H2T2h3l -3T1T2h4l -2H2H2h4L =4H2T1H3l
+0:20  -2H1T1H4l -3H4H2H4l :3H1T2h3L -2H2T2h3l :3H2T2h4l -3T1T1H4L :3T1T2H4L -3H1T2h4L -3H1T2h3L :2H3T2H3l
+0:21  -2H1T2h2L -4H1T2h2l :4H1T3h2l :3H2T3h2l -2H1T3h2l -4H3T3h1l -3H1T2h1l -3T__2h2l -3H1T1h5l :2H__1h5L
+0:22  :3H1T1H5l -3H1T2h4l -2H1T2h3l -3H2T1H2l -3H1T1H3l -2T1T1H4l :3H2T1H4l -2H3H2h3l :2H1T2h3l :3H2T2h2l
+0:23  :3H2T2h2l =3T1T2h4l -3H1T2h3l =4H1T2h2l =2T2T2h2l -4h2T2h1l =4H1T2h4l -3T2H2h4l -2T2T2H4l :2T2H2H4l
+0:25  =3H1T2h4l -3H2T2H4l =3H1T2h4l =1H2T2h3L -4H2T2H3l :3H1T1H3l -2T1H2h4l =3T2H2H3l -2H2T2h3l =3H2T2h4l
+0:27  -1H1T2h4L =3H1T3h3l :1H3T2h2l :2H1H2h2L =3H1T2h2l -2T1T3h1l =3T3T3h1m -2H1T3h__ -4H__2h1H :2T1T2h4l
+0:28  :2T1T2H5l :2T__2h5l :4H1T1H5l :3H__1h5l :3T1T2h4L =3T1T2H4L :3H2T1H3l -3h2T1h3l -4H1T1h5l -4H4H1H4l
+0:30  -3T1T1h3L -3H2T2h3l =3H1H2h4l -1T2T2h4L :3H1T2H3L :3H1T3h3L -3H1T2h3l -3T2T2h2l :3H2T2h2l -3H1T2h2l
+0:31  -3T1T2h4l -3T3H2h4l -3T__2h4l :4H2T2H4L -3H2T2H4L -2T2H2h3L :2T1T2h4m -3H1H2h4l -3H2T1H4L =3T2T1H3l
+0:32  -3H2H1H4l =3H3T2h4L =3H2T2h3l =3H1T2h4l -2H1T2h4L -3H1T3h3L =4H2T2h2l :3H2T2h2l :3T__2h2l -3T1T3h2l
+0:34  =3H3T3h1l -2T1T2h1l -4H__2h2l :3H1T2h5l :3H1T2h5l :3H__1h5L :4H1T1H5l -3T1T2h4l :2T1T2h3l :3T1T2h3l
+0:35  =3H2T1H3l -2T1H1h5l -4H4H1H3l :2T1T2h3l :3H2T2h2l :3h2T2h2l =3H1T2h4l -2T2T2h3l :3T1T3h3l :3H__3h2l
+0:37  :4H3T2h2l -2T2T2h2l -3H2T2h1l =2T1T2h4l -4H3H2h4l :4H2T2H4l :4H2H2H4l -4H2T2H4l -2H1H2h3l =1T2T2h4l
+0:38  -3H1h2h2M -4H__2h__ :3T__2h__ -3H__1h__ -3H__2h__ :2H__2h__ -4H__2h__ -3T__2h__ :3T__2h__ =3T__2h__
+0:40  :3T__2h__ -2H__4M__ =3H__2h__ =4H__2h__ -3H__2h__ -5H__2h__ =4H__3M__ =3T__2h__ :4H__2h__ =3H1T2h4l
+0:42  -1H1T2h4L =4H2T1H3l -4H1T1H4l =4H2T1H3l :3H2T2h3l :3H2T2h3l =3H1T1H4l -2H2H2h4L =3H1T2H3l -2H1T2h2l
+0:43  -4H1T2H2l :5H1T2H3l -2H__2h5l :3H2H2H4l =4H2T2h4l -3H1T1h5l -3T2T2H4L -1H2H2h3L :3H1T2h3l =3H1T2h4l
+0:45  -2H2H2h4L =5H2T1H3l :2T1H1H5l :3H1H1H4L =4H2T2H4L -1H2T2h3l =3T1T2h5l :1T1T2h4L -3T1T2h3L -3H1T3h3L
+0:46  :__2H2h2L :2H__2h2L =4H1T2h2l :4H2T3h2l -3H1T3h2l =4H2T2h1l -3H__2h1l -3T__2h2l :3H1T1h5l :3H1T1H5l
+0:48  :2H__1h5l =5H1T1h4l -3H1T1h3l =3T1T2H2l -2T__1h5l :3T3T1H4l -4H3H1H3l =2H2T2h2l -3T1T1h5l :4H2T1H4l
+0:49  -2H2H2h3l =4T__2h1H -3T__2h__ -3T__2h__ -3T__2h__ :1T__2h__ =3T__2h__ :3H__2h__ -3T__3h__ =3H__2h__
+0:51  :2H__2h1H =4H1T2h4l :1H3T2h4l -2H1T2h3L -4H1T1H3l :5H1T1H3l -4H1T1h4l =4H2T2H3l :3H2T2H3l -3H2T2h3l
+0:52  =3H1T2h4l -2H1T2h4L =3H1T2h3L =2H2T1h2l -4T1T2H2l :4H1T2H1l -2H1T2h1l =4H3T3h1l =3H1T3h__ -3T__2h2H
+0:54  -2H1T2h5l -3H1T2h5l =3H1T2h4l :2H1T2h4L -3H1T1h3L =5H2T1H3l -3T1T2H5l =4H2T1H4L :2H2T2H3l :1H2T2h3l
+0:55  =3T1T2h4l :1T2H2H4L -3T1T2h3L -3H1T2h3L -1H2H2h2L =5H1T2H2l -3H1T1H4l =5H2T2h4l :3H1T1h5l -4H1T1H4L
+0:57  -4H2T1H4L -3H1T2h3L =5H1T2h4l =3H2T2h4L =3T2T1H3l -2T1T1H5L =3H3T2H4L -2H2T2h3l -4T1T1h4l -3H1T2h4L
+0:59  :4H2T2h3L -4H1T2h3L =2T2T2h2L
+
+
++================================================================================+
+  Thug Paradise 3 - Soldier Kidd
+  336 codons | 1:00 | 5.6 codons/sec
++================================================================================+
+
+0:02  =____1M__ -____3M__ -____2M__ ~________ -1H______ =2H______ =2H__1M__ :2T__2h__ =2H__3M__ =____2M__
+0:04  =____1M__ -____2M__ :1H__3h__ =2H__1h__ :3T______ =2H______ -3H__1h__ -3H__1h__ -2H__1h__ -2H__1h__
+0:06  =2H__2M__ -2T__2M__ -2T__2M__ =2H__2M__ -____2M__ =____2M__ _________ :3h__1M__ =2T__1m__ =3T__2M__
+0:09  ~1H__1m__ :2h__2m__ =2H__1m__ :1T__1m__ :2H__2M__ =2H__2M__ =____1h__ =____1h__ -1T__1H__ =3T__1h__
+0:11  -3H__1M__ -2T__1M__ =3T__3M__ =4T__2M__ :2H1M1M__ -4H1M1M1M =2T__2M3l -1T__3M3l -1T__2M2l =3T__1h2l
+0:13  =3T____2l ~2H__1h2l =1H__1M2l =3T__3M2l -3H__3M2l -4H__1M1l -3T__2M3l -1H__2M3l -3H__2M3l ~3H__1h2l
+0:16  :3T____2l -2T__1h2l -3T__1h2l :4H__1h2l =2H__1h1l -____1h1l -1H__1h1l =3T__2h1l :3T__2M1l -3T__2M1l
+0:17  -4H__2M1l =2T__2M2l =3H__2M2l =3T__1M2l =2H____2l ~3H__1h1l =____1M1l =1H__2M1l =3H__1M1l -__1h1h1l
+0:20  ~4H__1M2l -4H__2M2l =4T__1h2l =4H__1h1l :4H__1h1l =2H__1h1l =1H__1M3l :4H__1M3l =3T__3M3l :3T__2M3l
+0:23  =3T__1M3l :4T3H1h2l -3H5h1h2l :2T3H1h3l :3T2h1h3l -3T1T3M2l :3H1T2M2l -2H1T2M1l -3H3H1h__ :2H1T____
+0:24  :2T1T____ :4T1T__1h -3H1H__5l -2T1H1h4l :3H1T__3l -2H1T__2l -1H1T1h1m -4T1T1h__ -4T1T1h__ -2T2H4M__
+0:25  -2H1T2h__ :3T1T2M__ :3T1T3M__ :3T1T2M__ :2T1T1h__ :4T1H1h2h -3H3h1h4l -3T1T1h3l -3T1T2M2l -1T1T1h4l
+0:26  -2H2T1h3l :2T1T__2l :4T____2l -3H2H1h4l :1T1T1h4l :3T1T1H3l -3H1T1h2l -1H1H1h__ :3H1T1H__ -4H1T____
+0:27  -3T1T____ -2T2H2h__ -2T1T1h4m :3T1T1h4l -3H1T2h4l =3H1T1M2l -3H__1M4l -1H1T2M5l -2T1T2M3l -1H1T2M2l
+0:29  -3H2H1h1m :3H1T1h__ -3H1T__1h -3H1T__5l -1H____5L =3H1T__3l :2T1H__2l :4H1T__2l -3H____5l -3T1T1h4l
+0:30  -2T2H1h3l :2T1T2h3l :2T1T1M2l :3T1T1h2l :4H1T1h1m :3H1T1h__ -2H1T1h__ =3H1T1h4l -2H1T1h4l -2T1T1h3l
+0:31  -1H1T1h5l :2H3H1h4l -3H1T1h4l -3H____3l -3H1T1h5l :1H1H1h5l :3H1T1h4l -3T1T1h3l -2T1H1h2l :4T__1H3m
+0:33  -3H____4l -2T1T__2l =2T2H2h1h -3T__1h4l -3T1T1h4l -2T1T1h3l -4T__1h4l -3T1T1h4l -3T1H2M2l -3T1T1h1M
+0:34  -2T2H____ =3H1T__1H -3T____5l -3T1T__4l -3H1T__2l -3T1T__1M -4H1T1h__ -3H1T1h__ =3H2T3M__ -2T1T2h__
+0:36  -3T1T2M__ =2H1T1h1H -4H__1h4l -2H1T1h4l =2T1T1h2l -1T__1h5l =3H2T1h3l -2H1T__2l -3H1T__4l =3T1T__4l
+0:38  -3H1T1h2l -2H1H1h__ =3T1T____ -3T1T1H__ -2T2T2h1H -2T__1h4l -3H1T2h4l -2H1T1h2l -4H1T1M4l -2H1T1M4l
+0:39  -3T1T2M3l -1T1T2M2l -2H3H1h1m :2H1T1h__ -2H1T__1h -3H____5l -2H1T__5L =3T1T__3l :2T1H__2l :1H1T__3l
+0:41  -1H1T1h5l :1H1T1M5L :4H2T1h4l -3H2T2M3l -3T1T1h2l -3H1T1M1m =2T1T1h1H -4H1T1h4l -3H1T1h4L -3H1T1h3l
+0:42  -2H1T1h5l -3H2T1h4l -3H1T__3l -3H1T__5l -3H1T__4L -2T1T1h3l -2H1T1h2l -1H____5m -2H1T__3l :3T2T1h1m
+0:44  -3T2T2h1h -3T__1h4l -2T__1h4l :3T1T1h3l -2T__1h3l :4H__1M2l =3T__1M1h :2H__1M__ -1H__3m__ :2H__2M__
+0:45  -1H__2M__ ~2H______ =4H______ =3T__1M__ -4T__2M__ =3H__4M__ =3T__2M__ =3H__1M__ =3T__1M__ -3H__2M__
+0:47  -3H__2h__ =2H__1h__ =1H______ -4H______ -3H__1h__ =3T______ -3H______ :4H__2h__ -3T__2h__ -3T__2M__
+0:49  :3H__2M__ =3T__2M__ :3T__2M__ =3H__2m__ :2H__2m__ :1T__2m__ :3H__2m__ -3H__2M__ =2H__1M__ -1H______
+0:51  -2H______ =4H______ -3T__1M__ -3H__1m__ :5H__2M__ -4H__2m__ -3T__2M__ :2H__1M__ =3H__1m__ =4H__1m__
+0:52  -2H__1m__ =3H__1m__ -3H__2M__ =3H__1M__ -3H______ =3H______ -1H__1H__ =3T__1h__ -3H__1M__ -2H__1M__
+0:54  =3T__3M__ =3T__2M__ :4H2h1h1h -2H2H1h5l :1T__1h4l :2T1T2h4l -__1T3M2l -1T1T2M1m -2T2T1H__ :2T1T____
+0:56  :4T____2H -2T____5l :3T____4l :4H1T__3l -2H1T__2l -__1T1h1m -__1T1M__ -1H1T1h__ =3T2T3M__ -3T1T2h__
+0:57  -3H1T3M__ -4H2H1h__ -2T4M1h3m -1H1T1h4l -3H1T2M2l -3H1H1h4l :3H2H1h3l :2T1T__3l :2H1T__2l :3T3h__1l
+0:59  -2T4h1h3l :3T1T1h4l :4H1T1h3l -3H1T1h2l -1H1T1h__ -__1T1h__
+
+
++================================================================================+
+  Railroads - Soldier Kidd 9lokknine
+  375 codons | 1:00 | 6.2 codons/sec
++================================================================================+
+
+0:00  =1H__3H__ =1H__2h__ =2H__1h__ :2T__3h__ =2H__3h__ -4h__2h__ =2H__2h__ :2T__3h__ -3H__2h__ ~3H__2h__
+0:02  =3H__2h__ -3H__2h__ =3H__2h__ -2T__2h__ :3H__2h__ -2h__3h__ -3H__3h__ :2T__3h__ -2T__3h__ -2H__2h__
+0:03  =3H__1h__ -2H__1h__ =3H__1h__ -3H__3h__ =3h__2h__ :2H__1h__ -3h__2h__ ~3H__2h__ ~2h__2H__ :2h__3H__
+0:05  -3H__3H__ =4h__2h__ =4h__2h__ :5h__2h__ =3h__1h__ -3h__1h__ =2h______ -3h______ :4h__1h__ -4h__2h__
+0:07  -3h__3h__ :4h__2h__ -4h__3h__ -4H__2h__ =2H__4h__ -2T__4h__ -3h__2H__ :3h__2H__ =2H__3H__ -3H__3H__
+0:09  :3H__3h__ -3H__3h__ =3H__2h__ -3H__2h__ -2T__2h__ -2H__1h__ -3H__1h__ -3h__1h__ -3H__2h__ -2h__3h__
+0:10  -3h__2h__ ~1H__2h__ ~____3h__ =____3h__ =1H1T2H5l :4h1T2h4L -3H1T2h4L -2T1T1h3L :4h3T1H2l :2H4H1H2l
+0:13  :2H1T3h1M -2T1T3h1H -3H1T1h5l -2H1T1h5L :4h1T1h5L -3h1T2h4L -3h1T2h3L =3h1T1h5l -1h1T2h5L -__3H1h4L
+0:14  -1h1T2h3L =2h1T2h2l -1h1T1h5l :3h1T1h5l -2h1T2h5l -1h1T2h5L :3h1T2h5L =2h1T2h4L -__1H1h5l :__4H1h5L
+0:16  :2h1H1h5L =2H1T1h4L -3h1T1h5l -2h1T2h5L -1h1T1h4L -1h1T1h3L :2h__2h3L -4h1T1h5l :2h1T1h5l -2h1T1h5L
+0:17  =3h2T2H4l -2h1T2H5l :2h1T2H5l -1h1T2H4L :2H1T2H3L -2T__2H3l -2H1T1h5l =3h1T1h5L -3T1T1H4L :3H1T1H4L
+0:19  -3H1T1h3L :4H3T1H2l -3H2T1h1m -2H1T____ :3H1T1H4l -3H__1h5l -2H__2h5L -2H__2h4L -2H__2h3L -2h__2H2l
+0:20  ~2h__2H__ :2h__2H__ =2h__3H__ =2h__3H__ =2h1T2h5l -1h1T2h5L =1h1T2h4L -1h1T2h5l :1h4H1h5l -__1T1h5L
+0:22  -1M1T1h4L =2h1T1h5l -2h1T2h4L =1h1T1h3L -__1T2h2l -__1T1h5l :__1T1h5L -__1T1h5L =__2T3h4L -__1T3h3L
+0:24  =__1T3h5l -__1T2h5L -1H1T2H5l -3H1T2H5L :2H1T2h5L =3H1T2h4L -3H1T2h3l -3H3H1h2l :3H1T3h1h -2T1T3h__
+0:25  :2T__2h3l -2H__1h5l :2H1T1h5L -3H1T1h5L -3H1T2h4L -2T1T2h3L :3H1T2h3l =2H1T2h5l -3H1T2h5L -3H2T1h4L
+0:27  =3h1T2h3L -4h1T2h2l -2H1T1h5l -4h1T2h5l =3H1T2h5L -2H1T1h4L :2T1T1h4l -1T1T1h5l -2H2H1H5L -2H1T1h4L
+0:29  :3H1T1H4L -3H1T1h5l =3H1T2h5L -3H1T1h4L -2H1T1h3L :2H1T1h4l -3H__1h5l -1H1T1h5l :2T2T1h4l =3H2T2H4l
+0:30  :2T1T2H5l :3H1T2H5l =3h1T2H4l =4H1T2H3l -5h1T1h5l =3H1T1h5L =3H1T2h4L -2H2T2h3L -2H5H1H2l :2T1T1H1m
+0:31  :2T1T1H__ -3H1T1H1H :3H1T1H4l -2T__1h5l :2T__3h5L -3H__2h5L -2H__2h4L -2T__2h3L -2T__2H2l =3H__2H__
+0:33  :3H__2H__ -3H__2H__ -3H__2H__ =3H__3H__ :5h1T2H2h -4H1T2h5l :2T__2h5L -3H1T2h5L -2H1T1h4L -2H1T1h5l
+0:34  =3H2T1H5L -3H1T1H4L :3H1T1H4l -3H1T1H5l =3H1T2h4l -2T1T1h3l :2H1T1h2l :3H__2h1m -4H1T2h5l -2T1T1h5L
+0:36  =3H2T3h4L =3H1T2h3l -4h1T2h5l :5h1T3h5l -3h__2h5L -3H__2H4l :2H__2H3L =3H__2H1M :3H__1h__ -2T__1h__
+0:37  -2H__1h__ :2T__4h__ =3H__2h__ -2H__1h__ :2T__2h__ -3H__2h__ -2T1T2h__ -3H__2h__ =2T__2h__ =3H__2h__
+0:39  -2T__2h__ :4h__2h__ =3H__2h__ -2T__2h__ :4H__2h__ -4H__3h__ -3H__2h__ :4H__2h__ -3H__2h__ =2T__2h__
+0:41  =3H__1h__ =3H______ -2T______ -3H______ -3H______ :2T1H____ -3h______ -2H______ =4H__2H__ =3h__2H__
+0:43  :1H__3H__ :4H1T2H3l -3H1T3h5l -4h1T1h5L :4h1T1h5L -3H1T2h4L -2H1T2h3L =3H2T1H1m -3H1T__1H :4H1T1H5l
+0:44  -3H__1h5L -3H__2h5L =3H1T2h4L =3H1T2h3l -3T1T2H5l -2H__2H5L :2T2T2H5L -3H2T2H4l =3H1T2H3l -3h1T2H2l
+0:46  -1H1T2H5l :2H1T2H5l -3H__2h5l =2T1T4h5L -3H1T3h4L -2H1T1h5l =3H2T1H5L =4H1T1H4l -3H1T1h5l :3H2T2h5l
+0:47  -2H__2h4L =3H1T1H3l -2T1T2h2l -2H1T2h5l :3H1T1h5L -3h1T1h5L =3H2T3h4L -4h1T2h3L -3H1T3h5l :4H1T2h5l
+0:49  -3h__2h4L -3H__1h1h -2H______ -2T______ =3H______ =3H3T1H1M -4H1T2h1H -2T1T1h5l =3H1T1h5L :2H1T1h4L
+0:51  -2H1T2h4L =3H1T2h3l -3H1T1h5l -3H1T1h5L -2T3T1H4L :2T1T1H4L -2H1T2h3L :4h1T2h3l :4H1T2h2l :2H__2h1l
+0:52  -2T1T2h5l :4H1T1h5l -3H__2h5l :2T__2h5L :2T1T2h5L -3H1T2h4L :4H1T1h4l -2T1T1h5l :3H3H1H5L -3H1T1H5L
+0:53  :2T1T1H4L -4H1T1H4L -2T1T1h5l =3H1T2h5L :2T__1h4L -3H1T1h4L =3H1T1h3l -3H1T1h5l -3H1T1h5l :3H2T1H4l
+0:55  -2T3H2H4l :4H1T2H4l :4H1T2H5l :3H1T2H5l =3H1T2H4l -3H1T2H3l =2T1T1h5l -2T1T1h5L :3H1T1h4L :4H__1h4L
+0:56  =3H1T2h3L =3H3T1H1m :3H1T1H__ -4H1T1h2h -3T__1h5l =3H__2h5L -3H1T2H4L -2H1T2H3l :2T1T2H4l -3H__2H5l
+0:57  :3h1T2H5L :3H__2H5L :3H3T2H5l -3H2H2H4L :3H1T2H4L -2T1T2H3L =3H1T2H2l -3T__2h5l :4H__2h5l =4H__2h5L
+0:59  =3T__2h4L -2T__1h5l :3T3H1H5L -3H2H1h5L :2T__1h4L
+
+
++================================================================================+
+  Rockstar - Soldier Kidd
+  328 codons | 1:00 | 5.5 codons/sec
++================================================================================+
+
+0:00  _________ :1H__2H__ _________ =____1h__ _________ =____2M__ -____1h__ =____2M__ -____2h__ -____4M__
+0:05  -____2M__ :____3M__ -____4M__ =____2M__ ~2h__2M__ =____2M__ -____3M__ =____1M__ =____4M__ =____3M__
+0:07  =____3M__ -____2M__ =____3M__ =____3M__ =1h__1M__ =1H__2M__ =1h__1h__ =2H__4M__ -3H__2M__ :2H__3M__
+0:09  =2H__2M__ =2H__2M__ =________ =1H__2M__ :2H__3M__ :1H__2M__ :____2M__ =1H__1M__ =2H__3M__ -3H__2M__
+0:11  -3H__3M__ -3H__2M__ :1H__2M__ =1H__3M__ =1H1T3M__ :3h1T1h__ =2h1T1h__ =1H1T2M__ =2h1T1h__ =1H__4M__
+0:13  -3H__2M__ -2h1H3M__ =1H1H2M__ ~2h__2M__ =3h1T1M__ -__3H3M__ -1h1T2M__ =2h__2h__ -1h1T4M__ -2H__3M__
+0:15  :3h1T3h__ :3H__3M__ -2h1H4M__ -2h2H2h__ -1H__2M__ =2H1T3M__ -1h1T4M__ :1H1T2M__ :2H1T1h__ :3h__1h__
+0:16  -2H1H1h__ :1H3H3h__ -2h1T2M__ -2H1T1H__ -2T__1H__ -2H1T4M__ -2H__3M__ :2H1T2h__ -2H1T3M__ -1H2H2h__
+0:18  -2H__1h__ :2h1T3M__ ~3H__1h__ -3H1T2h__ -2h1T1H__ -2h2H3M__ -1H1T2M__ =1H__2h__ =2H__3M__ :3H__2M__
+0:20  =3H__3M__ -1H__3M__ -1h__3M__ :4h__1h2h =3H__1h4l -4H____3l -2H1T1H4l :2H2H1h4l -2T1T1h3l =3H__1H1H
+0:21  -2H__2h4l :2H1T2h4l -3H__2h3l -2H1H3M1h :3H3H2h__ -2T__1h1H =1H__2M5l =2H__1h4L =2H1T1h1h =2H1H2h__
+0:23  =3H1T1H__ -3H1T4M__ :2T__3M1H -2H1T2h5l -2H1H2M5L =2H1H1h4L -2H__1h5l -1H__1h5l =2H__1h5l -3H1H__4L
+0:25  :2H1H1H3L -2H2H2h1l -2H__1h__ -4H______ :2H__1H2h -3H__2h4l -2H1T2M4l -3H__2h4L -2H1H3M2l :2H3H2H1m
+0:26  -2H__1h1H =2H__1h5l =3H1T1H3l -2H1H2M__ -2H1H1h__ =2H1H2M__ =3H__1h__ -2H1T4M__ -3h1T2h__ -3H1T2h__
+0:28  -3H1H4M__ -3H2H2h__ :2T1T3h__ -3H1T3M__ -2H1T2h1H =2H2T1h5l :__1T1h3l -__1H1h5l -__2H2M4l -__1H2h3l
+0:30  :2H5h__1M -3H1H1H1h =3H__2M4l -3H__1h3l -2H1H3M1h =2H2H1h1H =2H__1h5l =1H__1h4L =3T1T1H1h -4H2H3h__
+0:31  -3H__2h__ -4H1T1H__ -2T1H2h__ =3H1T3M1H :3h1T1h4l :3H__2M5l :1H1H2M5L -2H2H1h4L -2H__1h4l -2T__2h5l
+0:33  -1H1T1h5l -1H2T2M5l :2H1T1h5l -2H1T1h4L :2T1H1h3L -2H2H2h2l -1H1H1h__ =2H3H____ =2H__2M5l -2H__2h4l
+0:34  :1H1T3M3l =2H2H1h1h =2H__1h5l :2H1H__4L -3H____3l -4H1T1h__ -3h1T2h__ -3h2H3M__ -3H__2M__ =3H__1h__
+0:36  -4H1T4h__ :3H1T3h__ -4H1T2h__ -4H1T3h__ -3H2T2h__ :3H1T3M__ :3H1T4M__ -2H1T2h__ =3H1T2h__ -5H1T____
+0:38  -3H1T2H__ -4H__3M__ :3H1T1H__ =4H1T1H__ -4H2H4M__ -3H1T2h__ -3H__2h__ :2H__4M__ =3H__2h__ =2H__2M__
+0:39  -1H______ =3H__1h__ -5H__3M__ -3H__1h__ =3H1T1H__ -4H2H3M__ -3H1T3M__ -4H1T2h__ -3H__3M__ -4H__1h__
+0:41  -3H__2h__ =3H__2M1H :1T__2M5l -1T__1h5l =3H__1H4L =3H__2M1M =3H____1H -3H1T1h4l :3H1T1h4l -3H__1h4l
+0:43  -2H__3M3l =3H1T1H__ =3T1T2h__ =1H______ =3H__1h__ =4H__2M__ =3H__1h__ -3H2H4h__ -3T__3M__ -4H1T2h__
+0:45  :2H1h4M__ -4H1T2h__ -3H1T3h__ :4H1T4M__ :3H1T2h__ :1H1h1h1h -4H1h1h4l -2T1H1H4l -1H1H1h2l -2H__2h__
+0:46  -5h__2M__ :3H__1h2h :1T____5l -2H1H1H5l :3h2H4h3l =4H__3M1h :4h__2M__ -4h1T3M__ -4h1T2h__ :2H__1H__
+0:47  -2H__2h4l -4H__1h5L =2T__1H3L =2h__2h1M =4H__2M__ =3H__1h__ =4h1T3M1H -3H__1h5l -2h__2M5L -3H__1h4L
+0:49  -3h1T1h3L =3h__1h1M -3H1T1H4l -1T1T1H5L -2h__1h3L =4H__2h1h =2H______ =3H1H1h4l -3h__1h4L -3h1T3M2l
+0:51  =3H__1H__ -3H1T2h__ -2T__1h__ =4H__1H__ -2H1T2h__ -4h1T2h__ =4H__2M__ =3H1T1h__ =4H2T3h__ :4M1T2h__
+0:53  -4H__2h__ -2T1T3h__ -4H1T2h__ -3H1T3M__ :4h1T4M__ -3h1T2h1h =3H__1H4l -2H1T1T1h =4h1T2M1H =3h__1h5l
+0:55  =4H1T3h3l -3h1T2h__ :4H__1h__ -3T1H3M__ =3H1H2h1H =2H__1h5l =3H____4l :2T1T1h2l -3h__1h__ =4H1T2h__
+0:57  -2H______ :3T__2H__ -4H1T4M__ -2T1T3h__ -4H__2h__ -5H1H2h__ :4H3H1H__ :4H1H1h__ -4h1T2h__ :5h1T3M__
+0:58  -4h__1h1H :3h__1h4l =3H__1h5l =2H1T1H4L =3H1H2M1h -2T______ :3T1T2H__ -4H1T4M__
+
+
++================================================================================+
+  Soldier Walk - Soldier Kidd
+  406 codons | 1:00 | 6.8 codons/sec
++================================================================================+
+
+0:00  =____3h4l =____2H4l :2H__2H4l -1H__3h5l -2h__2h3l =2H__2h__ =3H__2h__ =3H__2H__ =3H__1H4l =3H__2H4l
+0:02  -2H__1h5l =2H__2h4l =3H__1h4l =2H__2h4l :3H__2H2l =3T__2h__ =2H__2h__ :3H__3H__ =2H__3h__ -1H__2h1H
+0:05  =2H__1h4l :3H__2H4l :3H__2h5l :3H__1h5l -3H__1H5l :4H1h2h4m :3H1H2h4l -2H1H2h3l =3H1h1h3l :3H2m1h3m
+0:06  -3H1h2h4l -1H2h2h2l =3H1h2h__ -2T__2h__ =3H__2h__ :3H__3H__ =2H__2h__ =2H1h1h3l =3H2M1h4l -2H2h1h4l
+0:09  :3H3h2h3l :3H2M2h3l =2H2h2h2l =4H1h1h3l :3H4m2h2m -3H2M2h3l -2H2l1h1m =4H1H2h__ :2H5h2h1m :3H3m2h4l
+0:10  :2H1T2h4l -2H2M2h2m =3H1H2h3l :2H4h2h2m -2H3h3h3l -2H3h2h1M -4H4M2h2M :3h2H3h3l -2T2h2h1m :4H4H2H1M
+0:12  -3H2T2h3l -3h2H1h2l -3h3H1h3l :2H1T1h4l -2h1T1h3l :1H5H2h2m :2T3H3h3l -2H2H2h2l =3H1T2H__ -1H1T2h__
+0:13  =3H__2h__ =4H2T3h__ -3H1T1h__ =4H3H1H3m -2H1T1H3L :4H4H1H2l :4H4m1h2l :3H3M1h3l -1H4M1h3l -4H4H1h2m
+0:15  :2H2T2h3l :2h2T1h3l :3h3H1h1M -3H4H1H2m :1T1T1h4l -2T1T1h3l -3H5H2H1m :4H3H2h3l -2h3H2h1m =2H1T3h__
+0:16  -2T1T2h__ =3H1T2h__ -3T__1h__ -2H2T4h__ :2h1T2h__ -2h1T2h__ -3h4H1H2m :3H1T1H4l -2T1T1H3l -4H5h1H1m
+0:17  :2H4m1h2m -1H4M1H2l -3H4H1h2m :3H2T2h3l -4H2H1h2m -3H4H1H2m :2H2T1h3l -2H1T1h3L -3h4H1H2l :4h2h2h3l
+0:18  -2H3H2h2m =4H2T2H__ -2H1T1h__ -3H1T2h__ -2T__1H__ -4H2T3h__ :4H1T2h__ -2H1T2h__ :3H4H1H1h -3H3H1H3l
+0:20  -2T1T1H3l =3H4h1h2l :1H5m1h2l :1H4m1h3l -3h4H1h2l :3h2T2h3l -4H3H2h1m :5H4H1H1M :3H4H1h3l =2h1T1h3l
+0:21  :2H5H2h1m -2T3H3h3l -1H3h2h1h =4H1T2H__ -3H1T1h__ :4H5H1h1M :3H2T2h3l -2H2H2h2m -3H4H1H1h -3H2T1h3l
+0:23  -2T1T1h3l -3H4H2h2m :3H2T2h3l -2T3h2h1M -3H4H1H1M -1H1T1h3l -1H1T1h3L :2H5H2H1m -2h2T2h3l -3H2H1h2m
+0:24  -4H4H1h1M -2H1T1h3l -1h2T1h3l :3H4H2h2m :3H2T2h4l :3H2T2h3l :3H3h1h1h =4h1T2h__ :1H1T2h__ :2H1T1h__
+0:25  -4H1T2h__ -4H__1h__ =4h2T3h__ -1h1T2h__ -3H4H1h2m :4H2T1h4l -3H__1H3l :5h3T1H2l :4h4M1h2l :3H3M1h3l
+0:26  -1H4h1h3l -3h3T2h3l -3H2H2h2M :3H4H1H1h :2H3T1h3l :3h1T1h4L -1h1T1h3l :2H5H2h2m -2T2H3h4l -2T3h2h1h
+0:28  =4h1T3h__ -1H1T2h__ -3h1T2h__ -3H__1h__ -3H2T4h__ :3h1T2h__ :1H1T2h__ :2H4H1H1h :3H4H1h3l :2T2T1H4l
+0:29  -2T1T1H3l -4h5h1h1m :1H4m1h2l -1T3M1h3l -3H4H2h2m :2h2T2h3l -3H2H1h2l :4h4H1h1M -3h2T1h3l -1h1T1h3L
+0:30  -2H5H2h1m -2T3H2h3l -2T3h2h1h =4H1T3h__ :1H1T2h__ -2H1T2h__ -4h1T2h__ -3H__1h__ -4h2T4h__ :3h1T2h__
+0:32  -1h1T2h__ -2H4H1H2m :2T1T1H4l -2H__1H3l -4h4H1H2l :2H3M2h3l :__5m1h2l :2H3h1H3l -3h4H1h2m :3h2T2h3l
+0:33  -2h3H2h1m -3H4H1H1h :4H2T1h3l :2H__1h3L -1H1T1h3l :3H5H2h1m :3H3H2h3l -3h3H2h1h =4h1T2H__ -1T1T2h__
+0:34  -3H5H2H1h :3H2T1h4l -3h2H1h2m :3H4H2h1M :3h3H2h3l =3h1T1h3l :3H5H2h2m -2T2T2H3l :2T2H1H2l :3H3h1H1m
+0:35  -4h4H2h1M :3H2T2h3l -2H2H2H2l -3H5h1h1M :3h2H2h3l :3h1H2h3l -3H2m1h2m -3H3m1h3l :3h1h1h4L -1H__1h3L
+0:36  -2H4H1H2m -3h2M2h4l -2H2m1h2m =3H1H2h__ =3H__2h__ -3H__5h__ :4h__3h__ -1h1H2h__ =2H2h1h3l -3H3m1h3l
+0:38  :3H3M1h3l :1H4l1h3l :2H2H1H4l -3H3h2h3l -2H1H2h3l -3H3m1h2l :2T1h1h4L -2H1H1h3l -2H4h2h2m -2H1h2h4l
+0:40  :1H2l1h1m =3H1h2h__ -2h__2h__ =3H__2h__ :4H__2h__ -2T__4h__ -2H1H2h__ :2H3H1H3l =3T1h1h3l :3H4M1h2l
+0:41  -3H3m1h3l -1T1h1h5l :2T4h2h3l -3H2h2h4l -2H1h2h3l :3H3M1h2l -2H2M1h3l -1T1H1h3L :3h3H1H3l =2H__2h4l
+0:43  =3H1h3h1M -2H__2h__ =3H__2h__ -4H__4h__ -3H__3h__ :1H__2h__ :2H3H1h1h =3H2h1h3l =3H3M2h3l -1H3M1h4l
+0:45  -3H3h2h3l :2T1H2h4l -2h1H2h3l =3H2M1h3l -1T1H1h3l :3h3H1h3m =3h1h2h3l -3H1h3h__ -3H__2h__ -3H__2h__
+0:46  -2h__1h__ -4H__4H__ :3H__2h__ -2h1H2h__ -3H3h1h3l =2T1H1h3L -3H4m1h2l :2H1M1h5l -1H1H1H5l :4h4H2h3l
+0:48  :3h2T2h4l -3h1T2h3l -3H3h1h3l :3H__1h4L -1T1H1h3l :3h3H1H3l :3H1T2h4l -2T1T2h3l =3H1T3H1h -3H1T2h__
+0:49  =3H__2h__ -3h1T4h__ :3h1T3h__ -1h1T2h__ :3h4H1H1h -3H2H1h3l -2H1T1H3l -4H4h1H2l :2H2M2h3l -1H4h1h3l
+0:51  :3h4H2h2m :3H2T3h4l -2H1T2h3l -2T4h1H2m :2H3m2h3l :4H__1h4L :2H__1h3L :3T3H1H2l :2H4H2h3m :2H2h3h4l
+0:51  =3H1T2h3l -3H1T3H1h -2h1T2h__ =3H1T2h__ -3H1T4h__ :2T1T3h__ -2T1T2h__ -3H3H1H3m :3H2T1h4l -3H1T1H3L
+0:53  -3H5h1h2m :2H2M1h5l -1H1H2H5l -3H4H2h3l :3H2T3h4l -2H1T2h3l -4H3h1h3l :3H__1h3L -1h1H1h3l :3H4H2H2m
+0:54  :3H2h2h4l -2H1T2h3l -2H1T3H__ -2H1T2h__ :4H1T2H__ =3H__2h__ -3H1T4h__ :2H1T3h__ :1H1T2h__ :2H2T1H__
+0:56  -2H4H1H2m :3H1T1H4l -3H1T1H3L -4H4h1h2m :3H3M1h3l -1H4h1H3l :3h4H2h3m :3h2T2h4l -2H1T2h3l -3h4h1h2m
+0:57  :3h1h1h4L -2h1H1h3l :3h5H2h2m :1H3M3h4l -2H1T2h3l -2H1T3H1M =3h1T2h__ -4H1T3h__ =3H__1h__ -3H1T4H__
+0:59  :3h1T3h__ -1H1T2h__ =3H3H1H3l -3h1T1h3L -4H4h1H2m -1H2h1H5l
+
+
++================================================================================+
+  Pressed - Soldier Kidd
+  396 codons | 1:00 | 6.6 codons/sec
++================================================================================+
+
+0:00  =1T__3h2l -2T__2h1h ~1H__2h2l =2H______ =2H______ =2H__1h__ :____1h__ =2H__1h__ -2T______ -2T__1H1H
+0:02  =2H__3h2l -2H__2h1h =2H__3h2l =2H__1H2M -2H__3h1H -1H__5h2l :2H__4M2l :3H__4h2l =3T__3h2m :2T__4h2l
+0:04  =2H__4M2l -1T__3h2l -2T__3h2l =2T__3h2l =1T__2h1M :2T__3h2l ~2H__1h2M -1h______ -1h______ -2H__1h__
+0:06  -2T__1h__ -1T__1h__ =2H__1h__ =2H__1h__ :2H__2H1M -2H__4h2l =3H__2h1M -2H__2h2l -____1h2l -1H____2l
+0:08  -3H__1H__ -2H__4h1H :____3h2l -1H__2h2l :3H__3h2l =2H__2h2m =1H__3M2l =3T__3h2l =3T__3h2l -2T__2h1h
+0:10  -2H__2h2l ~3H__1H1h :4H______ -2H______ -3h__1H__ :4H__1h__ =3H__1h__ =2H1H1H__ -1H__1h__ =1H__1h__
+0:12  :4H__2H1h -3H__4h2l -3T__3h2l -3H__1h1h -3H__2h2l -3T1H1H2l =3H__1H1M -2H__4h__ =3H__2h2l =2H__2h2m
+0:13  -3H1H2h2l -1H__2h2l :1T__3h2l -1H__2h2l :3H__2h2l :3H__3h2l =3H__2h2M :2T__2h2l :3T1T2H2l -3H1H1H2l
+0:15  -2T____2l -2H____1h -2H______ -2T______ -3T______ =2T__1h__ -3H1H1H__ -2H__1h__ =1H__1h__ :4H__2H2M
+0:16  =2H__3h2l -3H__1h1h -2T__2h2l =3H1H1H2l -3H__1H1h :2T__4h__ :3T1H3h1h -3T2h2h2l -2H1h2h2l =2H__3h2l
+0:18  :4H1H1H1M -3H1M2h2l -2H1h2h2l :4H__2h2l :2T__3h2l -2T1H2h2l -3H4H4h1m -3H1T3h2l -3H2H2h1h :2H4h3h2l
+0:19  :3H2H3H2l =2H1T2H2l -2H1T2H1h -2H__1H__ -2H1T1H__ :1H1T1H__ :1H1T1H__ -3H__1H__ -3H__1H__ -3H1T1H__
+0:21  -2h__1H__ =3H__1H__ :3H4h3H1h :2T2H4h2l -3T__3h2l -3H1H2h1h :1H5l3H2l :3H2H2H2l -3T1H2H2l :3T__2H2l
+0:22  -3T1T2H1H -2H__4h__ -3T__3h2l -3T__3h2l -3H__4h2l -3H__2h1M -3H1H2h2l :3H__2h2l :4H4h2h2l =3H2h3h2l
+0:24  :3H4h2H__ -2H3H4h2l -2h1T3h2l -4T1T2h1h -2T3h3h2m -3H1T2H2l :3H__1H2l =3H__1H__ -2H1T2H__ -2H1T1H__
+0:25  :3H__1H__ :2T__1h__ -2T__1H__ =3H1T1H__ =3T__1H__ -3H3H3h2M -2H__3h2l -2T1H2h1h -3T4m3H2l =3H1H2H2l
+0:27  -2H__2H2l -3H__2H__ :3H__2H__ :4H__3h__ :4H1T3h1h :2H__4h2l -3T__4h2l :3H__3h2l :2H__4h2l -3H__2h1M
+0:28  -3H1T2h2l -3H1H2h2l -2H4M3h2l -2H__2h2l :3H4h3h1M -3H2T4h2l :2H__3h2l -3T1H2h1h :2T5M3H2l :3T2H3h2l
+0:29  -2H1T2H2l :2H__2H2l =3H__1H__ -2H1T2H__ -2H1T1H__ :3H__1h__ :2H__1h__ -2H__1h__ :4h1T1H__ -3H1T2h__
+0:30  -2H__1H__ -3H__1H__ -3H__1H__ :4H4h2H1h -3H2H3h2l :1H__3h2l -3H1H2h1h :2H5m2H1h :2H4l3H2l :3H2H2H2l
+0:31  :2T1H2H2l -2T__2H2l :4H1T2H2l -2H1T2H__ :2T__4h__ :4H1T3h1h -3H1T3h2l -2H1T3h2l :4H__3h2l =3H__3h2l
+0:33  :3H1T1H1M :3T1T2H2l :3T__3h2l -2H2H2h2l :2H4h3h2l -3H1H2h2l :3H4h3h1M :2H2T4h2l -2H__3h2l -3H1T2h__
+0:34  :2H5h3h1M :2h3H3h2l =2H1T2H2l -3H__1H2l -2T__2H__ -2H__1H__ :2H1T2H__ :2T1T1H__ :2h1T1H__ :5H__1H__
+0:35  -3H__1h__ :4H1T1H__ -3T1T1H__ -3H__1H__ =3H__1H__ :3H4H2H1h -3H3H3h2l :2H__2h2l -3H1H2h1h -3T3h2h2l
+0:36  -3H1T2H2l -3T__2H2l -3H__2H__ -3T__4h__ -3H2M3h2l -2H1h3h2l :3H__4h2l -2H__3h2l :3H1H2H1M -3T1M2h2l
+0:38  -4H1H2h2l :4H__3h2l -3H1H3h2l =3T2H3h4l -4H1H2h3l -2H3H3h4l -1H1T2h4l -2H__2H3L =4H__1H2l -3H1T2H1l
+0:39  -3H__1H1l =3T__1H__ -2T1T1H__ -3H__1H__ =3H1T1H__ =3T2H3h4l -3H1H2h3l -2T3h3h4l :1T1H2H4l :2H__2H4L
+0:41  :3h__2H3L -5H1T1H3l -3h__4h2l -3H1T3h1l :2H1T3h1l -4H__3h1m =3H__3h__ :3T1T2H__ :3H1H2H__ :4H__2h3M
+0:42  -3H1H2h5l -3H4M3h4l -2H1H2h4L -2T3H3h4l :2H__3h4l -4H1T2h3l -2H3H3h4l -2H1T2h4l -4H__2H3l =3H__1H2l
+0:44  -2T1T2H2l -2T1T1H1l :4H__1H1m =3H__1H__ -3H1T1H__ -3T__1H__ -3H__1H__ -3T1T1H__ =3T2H3h4l -3H2H2h3l
+0:46  -2H3M3H4l -3H1H2H4l -2T__2H3L -3H1T2H3l -2h__4h2l -3H1T3h1l :3H1T3h1l :4H__2h1m :2T__4h__ -3T__3H__
+0:47  -3T1H2H1H :3H__2h5l :4H2H2h5l =2H2h3h4l =2H3H3h4l :2T__3h4l =4H1H2h3l -2T4h3h4l -2H1T2h4l -3H__2H3L
+0:49  -4H1T1H3l -3H__1H2l -3T1T1H1l -3T__1H1m -3H__1h__ -2H__1h__ =3H1T1H__ -3H__1H__ -2h1H1h__ -3T3h3h4l
+0:50  :3T__3h4l :3H__2h4l -3H1H2h3l -2H3h3h4l -2T1H2H4l :2T__2h3L :3H1T2H3l -3H1T2H3l -3T__4h2l -3T1T4h1l
+0:51  :2H1T3h1m :4H__3h1m =3H__3h__ :4H1T2H__ -3H1H2h2H -2H1H2h5l -2H4h3h4l -2h1H3h4L -3T4h3h4l -3T__3h4L
+0:53  -3H2H2h3l -2H3H3h4l =3H1T2H4l :3H1T2H3l :2T__2H3l -2T__1H2l =3T1T2H2l :2T1T1H1l :3T__1H1m :3T__1h__
+0:54  -3H__1H__ -3H1T1H__ -3H__1h__ -3H1T1H__ -2H__1h__ -3H3H4h4m -2H__3h4l -3H1H2h3l -2T3M3h4l =3T1T1H4l
+0:56  -3H1T1H3l :2h__2H2l :2H__4h2l :4H2T3h2l -3T2H3h1l -2T1h3h1m :3H__3h__ =3H1H2h__ -3H2H2h1H -2H2M2h5m
+0:57  -3T3h3h4l :2T1T2H4L :3H1T3H5l -3H1T4h5l -3H__3h4l -3H__2h4l -2T__3h5l =3T1T1H4l -3H1T1H3l -2H__1H2L
+0:58  =3T1T__1l :2H____1l :3H__1H1l :4H__1h__ -3H__1H__ =3T1T1H__
+
+
++================================================================================+
+  Thug Paradise - Soldier Kidd 10grand
+  415 codons | 1:00 | 6.9 codons/sec
++================================================================================+
+
+0:00  ~____3M1m =____1M1m -____3M1m -2H__2M1m =2H__2M1m -1H__2M__ =1H__1M__ =1H__1M__ -1T__1M__ =1H__1M__
+0:02  =2H__3M1l =3H__2M1l -2H__1M1l -2H__1M__ :3H__1h__ :3h__1M__ :2H__3M__ =3H__2M__ -2H__1M__ -3H__1M__
+0:04  :3H__3M__ -1H__5M__ =2H__3M__ -2H__2M__ =2H__3M__ -2H__4h1M -2H__4M1m -1T__3M1m =2H__2M1m =2H__1M__
+0:06  ~2H__3M__ -1H1T2h__ -1H1T1M__ -1H__1M__ =2H__1M__ -2T__1M__ =3H__1h__ :1h1T4M__ =1T1T4M__ :2h2H3M__
+0:08  =2H__2M__ -2H1T2M__ -2H1T1h__ =2H1H3M__ -2H1T2h__ -2H1T2h__ -2H__2h__ =2H1T1h__ -1T__5M__ :2T__5M__
+0:10  =3H1T2h__ -3H4H1h2M :2H2H4M4l =3H__3M5l :2T2H2M4l :2T4m2h3l :3H2H2h4l :3H2H1h1h -2H__1h__ :2H2h1h__
+0:11  :2H4m2h2l ~1H1H3M5L :2H1T2h5L -2H1T1h5L -2h1T1h5L :__2H1h2M -1H__1M__ :4H1H1h__ -3H__1h__ -3H__1h__
+0:13  -3H__2h__ :4H1T4M__ -3H1H3M__ -3H__2M__ -2H__2M__ :3H1T2h__ =2H1H1h__ :3H__1h__ -2H1T2M__ =1H1T2M__
+0:14  =1H1T2M__ :2H2T1h__ =2H2T3h__ :1T2H3h__ :1H2H2h__ :1H5M1h__ :4H2H2h__ -3H1T3h__ -3H4H1h__ -3H3h3h3m
+0:16  -3H1T4M4L -3H__3M5L :3H3M2M4l -3H4m2M4l -3H1H2h1h -1H__2M__ :2H2h1h__ :2H4l2h2l =2H1h3M5L =1H__3M5L
+0:17  -3H1T2M5L =2H1T2h5L :1T2H1h2M =2H__1M__ :4H1H1h__ :4H1H1h__ -4H__1M__ -4H1T1h__ -2T1H1h__ =4H1H1h__
+0:19  :2H__1H__ -3H2H____ :1H2H____ :2H2H____ :3H______ :3H1T1H__ =2H1T____ -1H2T____ -1H1T____ :3H2T1H__
+0:20  -2H4H2h__ =2H2T2h__ -1H4h1H__ :2h1H3M__ :4H1T3M__ :4H1T2h__ -3H1T1h__ :2H1T1h__ -3H3H2h3m -2H1T3M5L
+0:21  =3H1T2M5L -3h4M1h3l -2H2H2h2M -3H__2M__ :4H__1h__ :3H4m1h1M :2H4m2h4l -2T1h3M5L -2H__2M5L -3H__2M5L
+0:23  -3H1T1h5L -1H1T1h5L :3H1T1h4L -2T1H1h1h -3H__1M__ -4H__1M__ -2H__1M__ :3H__1H2M -4H__3M2m -3H__3M2l
+0:24  -2H2H3M1M =2T__2M__ -3H2H2h__ :3H1H2h1h -2H1H1h2l :4H__1h2m -2H1T2M2m -2H__2M2l -2H2T2h1H -2H__1M__
+0:25  :3H2T1h__ :2H4H2h__ -1H2T4M__ :2H1T4M__ -3H2H3h2m :2H3h1h2m -2H4H1h1m -3H1T3h1h :2H4H2h__ -3T4H1h__
+0:26  -3H4h2h2m -2H1T4M5l -3H__3M5L :2H2h2M5l -2H4m1h4l -2H2H1h2l -1H__1M1l :3H2h1h1l =3H2M2M4l -2H__2M5L
+0:28  -1T__2M5L -3T__2h5L :3H1T1h5l =2H1T1h5L -2H1T1h2l -2H__1M1l =3H__1M1h :3T__1H__ =3H__4M__ -3H2H3h__
+0:29  -2H__2M__ :3H2T2h__ :3H2H2h__ :2H1H1h__ -1T1H1h__ :4H__2h__ =3H__3M__ :3H2T2h1M -2h1T1h2m -3H__1h2m
+0:31  -2H4T1H1M -2h1T1h__ :3H4H2h1h -2H3h4M2m -1T__5M2l -2H1T3h1h :3H1T1h__ :4H2T1H__ =3H2T3h4l -1H1T3M5L
+0:32  :1H4h2h3l -1H3H2h4l -1H1T2M1h -3H1T1h__ :3H4h2h2m :2T2H3h5l :2T__3h5l :3H__2M5L -2H__2M5L :3H1T2h5L
+0:33  -3H1T1h5L :2H1T1h5L -1H1T1h5L :3H1T1h5l -2H2T1H2h :4H1T1h__ -2H1T1h__ :2h1T1h__ -3h1T1h__ -4H1T1H1H
+0:34  -3H1T3h2m -3H1T2M1m -1h1T2M__ :1H1T2M__ :1H1T2h__ -__2T2h1h -2T1T1H2m :3H1T2h3m :3H1T2h2m -3H1T2M2l
+0:36  -2H2T2h1h -3H1T1h__ :4H3T1h__ -2H4T3h__ -1T1T4h__ =3H2T2h2m -3H4H1h1m :3H2T2h2m -3h2T3h__ :2H5H2h__
+0:37  :3H3T1h1h =3H2T3h4l -1h1T2M5l -1H4h2h4l :1H2H1h2l :1H1T1h1l :2H1T1h1l :4H2T1H1l :3H5M1h3m :3H2H2M4l
+0:38  :1H__3M5L :3H1T2h5L :3H__2M5L :3H1T2M5l -3H__2M5L -3h1T2h5L -1H1T1h5L :3H1T1h4L :3H2H1h2l :4H1T1h1l
+0:39  -2h1T1h1l -3h1T1h1M :3H1T1h__ -4H1T1h__ :3H1T1h__ :4H1T1h__ :3H1T1h__ :2H2T1h__ -2h1T1h__ -1H1T1h__
+0:40  :__2H____ :1H2T____ -1H2T____ :4H1T____ -3H1T1H__ -3h1T____ -2H2T__2m :2H1T__2m -4H1T__2m -3H4T2h1M
+0:41  -3H1T2h__ -2H3H1H1m -4H1T3h2l :4H1T2h2m =3H1T1h__ :4H1T2H__ -3H1T4M__ :2H1T4M__ -3H__3M__ -2T__2M__
+0:43  -3H2T2h__ -2T__2M__ -4H__2M__ :3H__3M__ -1H__3M__ =3H__2M__ :3H__2M__ :4H1T1h__ :2h1T1h__ -2H1T1h__
+0:44  :3H2T1H__ :3H2H1h__ -3H__1h__ -4H1T1h__ :4H1H1h__ =3H__1h__ :4T__1H__ :3T__3M__ :3T1H4M__ :2T1H3M__
+0:45  -3H__3M__ -2H__2M__ :3H2H2h__ :3H2H2h__ -2H__1M__ :3H__1h__ :2T1T2h__ -3H__3M__ :4H1T2h__ =3H1T1h__
+0:46  :3H1T1H__ :3H2T3h__ -2h1T4M__ :4H1T3h__ :3H2H3h__ :2H1H2h__ -3H1H1h__ =3H1T3h__ -3T1T4h__ :2T1H5M__
+0:48  =3H__3M__ -1H__2M__ =2T1H2h__ :4H__2M__ :2H__3M__ -3T__3M__ =3T__3M__ -3H1T2h__ :3H1T2h__ -2H1T1h__
+0:49  :4H1T1h__ -2H1H1h__ -3H__1h__ -3H1H1h__ -2H__1h__ :3T__1H__ :2H1T3h__ :2H1T4M__ -2H1H3M__ -4H2H3h__
+0:51  =3T__2M__ :1H2H1h__ -3H1T1h__ :4h1T3M__ =3H1T2M__ =2H1T2h__ :3H1T1h__ :3H2T1H__ =3T1T1H__ -3H__5M__
+0:52  :2H1H4h__ -3H1T5M__ =4H1T2h__ :4H1T1H2l =2H1T4M5L -3H__3M5L -2T__2M5L =3T__1h1M =3H__3M4L -3H__2M5L
+0:54  =3H__2M5L =2T__1M5L :3H__1M5L -3H__1M1M :2T__1M__ :3H__1h__ -4H__1M__ -2T__1h__ :3T__1h__ -2H__3M__
+0:56  =4H__3M__ -2H__2M__ =3T__1M__ -4H__1M__ :4H__3M__ -3H__2M__ :4H1T2h__ =3H1T2h__ :3H1T1h__ :2H2T3h__
+0:57  -2h1T4M__ :4H__3M__ -2H__2M__ -3H__2M__ -4H__3M__ -3H__2M__ -4H__2h3l :2H__4M5L -2T__4M5L -2H__3M5L
+0:59  -1T__2M5L :3H__2M4l =3H__2M__ :3H__2M2m =2T__3M5L
+
+
++================================================================================+
+  187 - Soldier Kidd
+  356 codons | 1:00 | 5.9 codons/sec
++================================================================================+
+
+0:04  =________ :__1T____ -1H______ :3H__2M__ -2h__2M__ :3h__2M__ -2H__2M__ :2H__2h__ :2h__2h__ -2H__3h__
+0:05  -1H__3h__ ~____3M__ =____5h__ _2H__1h__ :4H__2H__ :4h__4h__ -2H__3h__ ~2H__2M__ :____4h__ -____4h__
+0:08  -____2M__ =____1M__ -____2M__ =1T__4h__ ~3H__1h__ ~3T______ -3H__2H__ :4h__4h__ :3h__4h__ :2H__3h__
+0:10  ~2H__2M__ :____4h__ ~____2M__ :____5h__ ~____2M__ -4H______ =2H______ ~2H__1h__ -____5h__ ~____2M__
+0:13  :____4h__ ~____2M__ -____5h__ -1T__3h__ :4T__2M__ ~3H__1h__ -3H______ -2h______ :4H__1h__ =2H__3M__
+0:16  =1H__1M__ =4H1T1h__ :4H__2H__ =2H__2h__ -__1T2h__ -1H__2h__ =4H__1h__ -2h1T1H__ :4H1T____ -3h1T____
+0:18  :2T1T____ :4T__2H__ =2H__3h__ -3H1H1h__ =2T1H2h__ =____1h__ -3T__2H__ -3H1T3h__ -3T__2h__ =2H__3h__
+0:19  :1T1T1h__ -1H1H1h__ -3H__1h__ =3H__1h__ -3T__1H__ :4H1T____ :2H1T____ :3H1T____ -3H1T____ :4T__2H__
+0:20  =2T__3h__ :3T1T1H__ -3H2H2H__ -2H__2h__ =3H__1h__ -3H__2H__ =3T__2h__ =2H__3h__ :__1T1h__ :1T2H2H__
+0:22  =1H__2h__ =3H__1h__ -3h1T____ :3H1T____ :3H1T____ -4H1T____ :3H__2H__ -2H__4H__ =3h__2h__ -3H1H2h__
+0:24  -1H__2h__ =____1h__ -3h__2h__ :4H1T2h__ =3h1T2h__ =2H__2h__ -1H2T1H__ -1H__1h__ =3H______ :2T1H1H__
+0:26  :4H1T1H__ -2H1T1H__ -3H1T____ :4h__2H__ =2H__3h__ :4T1H1h__ :3T2H1H__ -2T__2h__ =3H__1h__ :3T__1h__
+0:27  :3T__2h__ :4H__1H2h =3H1T1h4l :4H__2H4l -4H__3h4l -1H__1h5l :__2T1h4l :1T2H2h3l -1H__2h4L :5H__1h4l
+0:28  -3H__1H5l -4h1T__4l -3h1T1H4l -3H1T1H3l :4H__2H3l =4H__3h5l =2T1H1h3l :1T__1h4l -3T__1h5l :2T__2h5l
+0:30  :4H__1H5l -3H1T2h4l :3h__1h4L :4H__2H4l -3H__3h4l :1H__1h5l :1T1T1H5l -1H1H1h3l -3T__1h4l =3T__1H5l
+0:31  :3H1T__4l -2T1T__3l -2T1H__3l :4H__2H3l =3H__2h5l -3T1H1H3l -2T__2h3L :4H__1h4l :3H__1h5l :3T__1H5l
+0:32  -2T__2h5l :4H1T1H5l =3T__2h4l :4H__3H4l -3H__3h4l :1H__2h5l :2T1T1h4l :2H2H1H3l -2H__2h4L :5H__1h3l
+0:34  -3H__1h5l -3T1T1H4l =3H1T__4l -3H1T__3l :3H__2H3l :3H__3H5l -2H__2h4l :3T1H1H4l :2T1H2h3l -3T__2h3l
+0:35  :4H__1h4l :3H__1h5l :4H__2h5l :4H__2h5l :4H1T2h5l -3H1T2h5l -3H__2h4L -2T__3h4l -1T1H1h5l -2T1T1h4l
+0:36  -3T__1H4l =3T__1H5l -3H1H__4l :3H1T__4l -2H1T__3l -3T1T__3l :4T__2H4l =3T__3h5l -3T1H1h4l -3H1H1H3l
+0:37  :2T__2h4l :1T__2h5l :2H__1h5l :3H__1h5l -4H__1h5l -4h__2h5l =4H3H1h4l -4H__2h4L -3H__3H4L =4H3h1h4l
+0:39  =4H1H1h4l -4H4l1h4l -3h1T1H4l =4h1T1h4L -3h1T1h3l -3T3h2h4l -4H__1h4L =3H1H1h3L =3T4m1h4l :2H4l1h4l
+0:41  :4H2h1h4l -3H3H1h4l :2H__1h4L :3H__2H4L -3H1H3h4l -2T4l1h4l -3H2H1H4l =2H__1h4L :4H2h1h4l =3H2h__4l
+0:42  :4H1T__4L -3H1T__4l :2T1T__3l :3H2H1H3l -3H4l2H3l -2T1H2h4L =3H1H1h3L :4H2h1h3l -4H4l1h3l -2H4l1h4l
+0:44  :4H2h1h4l -4H4h1h3l :3H1T1h4L :3H__1h4L :3H__2H4L -3H1H3h4l -4H4l1h3l -2H2H1H4l =3H1H2h4L -3H3H1H4l
+0:45  :2H1T1H4l :3H1T1H4l :2h1T1H4l :3H1T1H4l -4h1T1h3L =3T2h2h4l =3H1H1h3L -2H2h1h3l -2T4m1h4l :3H5l1h4l
+0:46  :5h3h1h4l =3H2T1h4l :4H__2H4L :3H__4h4L :3H2h2h4l -3H4M1h4l -3H2H1H3l =3H1H__4L -3H4l__3l :2h2H__4l
+0:48  :2H1H__4L =3H____1h =3T______ =3H______ =3H______ =4H3H__3l -3H____4l =3H1T3H4l :1H4m1h3l :2H2H1H4l
+0:50  -1H1H2h3l -3T__2h4l :4H3M1h3l -3H3H1H3l -3h1T__4l =3h1T__4l -3h1T__3l :4H2H__3l -3H3M1h3l -1H__2h4L
+0:51  :4H1H1H4l =2T1H1h3l -1H4m1h3l -2h4l1h4l :5H3h1h4l -4H3H1h3l -3T__2h4l =3H1H3h4l -1H4l1h3l :2H2H1H4l
+0:53  :2H2H1h3l :____2h4L -4H1H1h3l =3H2H__4l -3H1T__4l :3H1T__3l -3h1T1h3l -3H3m1h4l :2H__2h4l :4T1H1H4l
+0:54  =2T1H2h3l :4H1H1h3l -3H4m1h4l :2H4l1h4l :4H2h1h4l -3H3H1h4l -3H__1h4l =3H__3h4l :1H3m1h4l :2H2h1H4l
+0:55  -2H2H2H3l :2h__2h4L :4h__2h4l :4H2h1h4l =3T2H1H4l -3H1T__4l -2T1T__3l :3H1T__3l :4H1H1h3l =3T2H2h4l
+0:57  -3T1H1H3l -2T__2h3l :4H1H1h3l -2H4l1h3l :3T2M1h4l :3H4m1h4l :4H2H1h4l -2H2T1h4l :3H__1h4l :4H__2H4l
+0:58  -3H1H3h4l :1H3l1h4l :2H2H1H4l -3H1H1H4l -5H1H1h4l -3T4m__3l :3T2H__4l :3T1H__4l -3T1T__4l -3H1T__3l
+0:59  :3H1T__3l :3H2H1H3l :3H4m2h3l :3H2H2h4l -2H__2h4L :4T1H1H4l
+
+
++================================================================================+
+  Forever Ballin - Soldier Kidd
+  393 codons | 1:00 | 6.5 codons/sec
++================================================================================+
+
+0:00  =__1h3M__ -1H__2M__ -2H__2M__ :2T__2M__ :2H__2M__ -2H__3m1m :1T__2m__ -1H__2m__ -1H__2m__ -2h__2M__
+0:01  :2H__2M__ =3H__3M__ =3H__2M__ -2H__2M__ :2T__3M__ -2H__5M__ -1H__4m__ -2H__3M__ =1H__3M__ :2H1H2M__
+0:03  :2H2l2M1l :2H__3M1l -1H__3M1l =2H__3M1l -1H__2M1l -2H__1M1l -2H__1M1l -1H__1M1l =1T__1M1l -2H__1M1l
+0:04  :2H__2M__ ~3H__2M__ -1H__2M__ :2T__1h__ :2H__1M__ =3H__1M__ =2H__1M__ :1T__2M__ -1H__3M__ -1h1T3M1m
+0:06  ~2H__2M__ :3H__2M__ :3H__2M__ -3H__2M__ -2H__2m__ -2H__2m__ -2H__2M__ =2T__3M__ -2H__4m__ ~1H__3m__
+0:08  -1H__4M__ -2h__4m__ :2h1T3m__ -2H1T4m__ =1H__3m__ :1h__2M1M :1H__3M2l =2h__3m__ -2T__2M__ -2H__1M__
+0:10  =2H__2m__ ~3H__2M__ ~____2m__ :__1T1M__ =1H1T1M__ -3H__2M__ -3H__2M__ :2T__3M__ =4H2T2M4l -3H1T2M5l
+0:13  :4h1T2h5l -3h1T2M5l :4h1T1h5l =3H2T2h4l -3h2H3h4l :3T1T3h3l -2T__2h3l :4h1T2h3l =4h1T3h5l -2H1T4h5l
+0:14  :4H1T4h5l -3H1T3h5l -2H1T2h5l :3H1T2h5l =3H1T3h5l -4H1T3h5l -3h2T4h4l :4H1T3M4l -2H__3h4l =4H1T3h4l
+0:15  -2H1T2h3l :4T1T2h4l -3H__4h5l :4h1T4M5l -4H1T2M5L =3H1T2h5l :2H1T1h5l :4H1T1h5l -3h3H1h5l :4h1T1h5L
+0:17  :3h1T1h5l -4h1T1h5l =3H1T2h5l -3H1T1h5l =3h1T2h5L -3T1T2h5L :4H1T1h5l -3h2T1h5l :4H2T1h5l -2H2T2h5l
+0:18  :3H2T1h4l :2h3H3h5l -3T1T3h5l :3H1T2h5l :4h1T2h5l :4h1T3h4l :4h1T3h4l -3H1T3h5l -4h1T2h5l -4h1T2h5l
+0:19  -2H1T2h5l :3T1T2h5l -4H1T2h5l -3T1T2h5l =4h2T3h4l -2T1T2h3l =4h1T3h5l :3h1T4h5l -4h1T4h5l -3H1T4h5l
+0:21  =3H1T2h5l =4H1T2h5l -3H1T4h5l :4H2T3h5l -2H2H4h4l :4H1T4h5l -2H1T4h5l :4h1T3h4l -4h1T3h4l -3h1T1h3l
+0:22  =4H1T3h5l =4H1T2h5l =3H1T2h5l :2T1T2H5l :4H1T2H5l -3h2T2h4l :3H1T2M5l :2H1T2h5l -4H1T1h5l -3H1T2h5l
+0:23  -2H1T2h5L -4H1T2h5l -4H1T2h5L :3H1T2h5L :3H1T2h5l -4H1T1h5l -4H1T1h4l -4H____1h -4H______ =5H______
+0:25  :2H______ -3H____1H -4H4H1h4l -4H2T3M5l -3H1T2h5l :5H1T2h5l -4H1T2M4l -3H1T2h4l :4h3T2h4l -3h2H3h4l
+0:26  :4h1T3h3l -2H1T3h3l :4H2H2h3l =4H3H2h4l :3h2T3h5l -4H1T4h4l -3H1H3M4l -2H4h2h5l :4H2H2h4l -4H3H2h4l
+0:27  -4H1T3h4l -4H3H3h4l -4H1T3h4l -4H1T3h4l =4H1T3h4l -3H2T2h3l =4H3H3h4l :4h1T3M5L :4H__2M5L =3H1T2h4l
+0:29  -2H4h1h5l :4H1H1h5l -4H3H2h5l :3T1T2M5L -2T4h1h5l :4H1H1M5l -4H2H2M5l :2H3T1h5l -3T1H1h5L =4H1T1h5l
+0:30  =4H2H2h4l -3H3H1h4l :3H2T1H5l :3H1T1h5l :4H__2h5l -4H2H2h5l :4H1T2h5l -4H1T2h4l :4H1T2h5l -4H1T2h4l
+0:31  -3H1T2h5l -3H1T2h5l =3H2T3h5l -2T1T2h5l -4H1T2h5l :4h1T1h5l :4H1T1h4l :4H1T2h4l =4h2T3h4l -3h1T2h3l
+0:33  -4h2h3h4l :3H2T4h5l -3T1T4h5l -3H1H3M5l -2H3H2h5l :3T2H2h5l =4H2H2h4l -4H1T3h5l =4H2T3h4l -3T1T4h5l
+0:34  =4H1T3h4l =4h1T2h3l -3H4M2h4l :4H1H3h5l -3H1T3h5L :5H1T2h5l -5H1H1h4l -4H2h1h5l :4h3H1h4l -3h2H2M5L
+0:36  :4H3H1h5l -3T2h1h5l =4H2H1h5l :3H2T1h5l -4H1T1h5l -3h1T1h5L =4H2H1h4l -3T3H1h4l -3H1T1h5l :4H2H1h5l
+0:37  =4H2T2h5l :4h1T2h5l -5H1T2h4l :4H1T3h4l :3H1T3h5l -3H1T2h5l =4H1T2h5l =3T__2h5l =3H2H3h4l -3T1T2h3l
+0:39  =3H2H3h4l :2H2T4h5l -3H1T4h5l -4H1H3h5l -3H2H2h5l =4H2H2h5l -3H1T3h5l =3H2T4h5l :2H1T4h5l -4H1T3M4l
+0:41  =4H1T3h4l -2T2T2h3l =4H2H3h5l -3H__2M5L :4H1T2h5l -3H1T2M5l -2H3h1h5l :3H2H1h5l :3H3H1h4l -3T1H1h5l
+0:42  -2T2H1h5l =3H1H1h5l =3T1T1h5l =4H1T1h5l -2h2T2h5l :4H2H1h5l -4H3H1H4l -3H1T1h5l :4H1H3h5l :3H2H3h5l
+0:44  -4H1T3h4l -4H1T2h5l -4H1T4h4l :2H1T4h5l -3H1T2h5l -4H3H2h4l :3H1T3h4l -4H1T2h5l =4H1T2h5l :3H1T2h5l
+0:45  :3H1T2h4l -4H3H3h4l -4H1T3h3l -4H1T2h3l -2H3H4h4l -2H1T4h5l =4H__1H1H =4H______ -3H______ =3T______
+0:47  =4T______ =4H______ -4H1H__1H -4H3M2h4l :4h1T3h5l :3h1T3h5l :3h__2h5L :4H1T2h4l -3H1T2h5l -4H1H1h5l
+0:48  :4h2T1H4l :4h2H1h4l :3h2H2h5l -4h2H1H5l -3H1H1h5l :2H2T2H5l -3H2T1h5l :4H1T1h4l -4H1T2h4L =3h2T2H5l
+0:50  =3H2H1h4l =4h2T1h5l :4h2T2h5l -3h1T2h5l :3h1T2h5l -3H1T2h5l -4H1T3h4l -2H1T3h5l -3H__2h5l =4H1T3M5l
+0:51  -2H__3M5l =4H__2M5l :3H__2M5l -3T__2M5l =4H__3M4l =4H__2M3l -4H__2M5l :2H__2M5l :3H__3M5l -4h__3M5l
+0:52  -4H__3M5l -2H__3M5L -4H__2M5l =3T__2M5l :5H__3M5l :4H__4M5l -2H__4M5l =4H1T3M4l -3H__2M3l =4H__3M5l
+0:54  -4H__3M5L =4H__2M5L -2T__2M5l =4H__1M5l -3H__2M5l :4H__1M5l =3H__1M5l -3T__1h5l -2H__1h5l -2T__2M5l
+0:56  :2H__2M5L -4H__2M5l :3H__2M5l -2T__2M5l -4H__2M5l :4h1T2M5l =3h1T1M5l -4H__1M5l -3H__1M5l -4H__2M5l
+0:57  -3H1T3M5l :4H1T3M5l =3H__3M5l -3T__2M5l =4H__2M4l -2H__2M3l -4H__2M3l =3H__2M5l -4H__2M5l =3H__3M5l
+0:59  -3H__2M5l -3H__2M5l -3H__2M5l
+
+
++================================================================================+
+  Thuggin Under GOD - Soldier Kidd
+  1069 codons | 3:30 | 5.1 codons/sec
++================================================================================+
+
+0:12  _1T______ ~1H______ =1T______ -1H______ =1H______ :1H______ _1T______ ~________ =1H______ -1H______
+0:16  =1H______ =1H______ -2T______ :1T______ -2H______ =2H______ :2H______ =2H______ =2H______ ~2H______
+0:18  _1H______ =1H______ =2H______ -2H______ =2H______ ~2H______ :2H__1H__ :2H__1H__ =3H______ -2H______
+0:22  -3H______ =2H______ -2H______ =1H______ -2T______ =2H__1H__ =________ ~1T______ -2T______ -3T______
+0:24  ~3H______ :2T______ =3H______ _2H______ _1H______ =4H______ -1T______ -2H______ ~1T______ ~1T______
+0:30  =2H______ _1H______ =1H______ =2H______ -2H______ ~1H______ =1T______ _1H______ ~1H______ _1H______
+0:35  =1H______ ~1H______ =1H______ ~1H______ _1H______ _____4h__ =____4M__ =____4h__ -__1H4h__ =____3h__
+0:42  =____3M__ ~____4M__ -2H__4M__ -1H__4M__ :2H__3M__ -2H__2h__ -1T__1H__ :2h__4h__ :2H1H4h__ ~1H__4h__
+0:44  :2h__4h__ -2H1H3h__ -2H__3M__ :2h__4h__ -1T__4h__ -1T__4h__ :1H__2h__ :1H__1h__ =3H__2h__ =____4h__
+0:45  ~____4M__ =2H__3M__ =2H__4h__ -2H1H4h__ -2h__2h__ =2h__2M__ =2h__4h__ ~2H__4M__ =3h__3M__ -3h__1M__
+0:48  -2H__2M__ :3h__3M__ =3H__3M__ =1H__4M__ -__1H4M__ -1H__4M__ =2H__4h__ -2H__1h__ -1H__2h__ -__1T4h__
+0:50  :__1T4h__ -__1T4h__ -__1T4M__ -__1T4h__ -__1T4h__ :__1T4M__ :1T1T4h__ -2h1T3h__ :1H1T3M__ :1T1T4h__
+0:52  -2H1T4h__ -1H1T4h__ -__1H4h__ :__1T4h__ -__1T3h__ -__1T1h__ -1H__2h__ -2h1T3h__ -__1T4h__ :__1T4M__
+0:53  :____4M__ -____4M__ :1h1T4M__ -1h1T4h__ -1h1T3h__ -1h1T4h__ -1H__4h__ =2H1T3h__ -2H1T3h__ -2H1T4h__
+0:54  -1H1T4h__ -__1T4h__ -__1T4h__ =__1T4h__ =1h1T2h__ -__1T3h__ -__1T4h__ -__1T4h__ -2h1T4h__ -__1T4h__
+0:56  -__1T4h__ :1T1T4M__ :2T__4h__ =2H1T3h__ -2H1T4h__ :2H1T4h__ :2H2T4h__ -__1T4h__ :__1T4h__ -__1H3h__
+0:57  =__1T3h__ -1H1T1H__ -2h1T1H__ =2H1T4h__ -2H__4h__ -2H1T4h__ -1H1T4H__ -__1T4H__ -__1T4H__ -__1T3H__
+0:59  :1H1T2H__ -2h1T2H__ -2H1T3H__ -1H1T4H__ -__1T4H__ -__1T4H__ -1H1T3H__ -__1T3H__ -__2T3h__ =__1T3h__
+1:01  -__1T1H__ -__2H1H__ -__4H4h__ -__2H4h__ -__2T4h__ :1T4h3h__ :4H1H4h__ -3H1T4h__ -3H1T4h__ -3H1T3h__
+1:02  -2h1T3h__ =4h1T3h__ -3h2T3h__ -3H2H3h__ -3H1T3h__ -3H1T2h__ -3H1T3h__ =4h1T3h__ -4h1T3h__ -2H2T3h1H
+1:04  -2H2T3h4l -2h__3M4L -3H1T2h4L -2H1T1H4L :4H1T2h4L -3H1T3h4L -3H1T4h4L -3H1T4h3L -3H2T3h3L -2H3h3h3l
+1:05  -3T3H3h3l -3H2T3h3l -3H3T3h2l -3H2T1H4l -3H3H2h4l -4H3H3h4l -3H2H3h4l -2H2T3h4L -2H2H3h4L =3H1T3h4L
+1:07  -3T__3h4L -3H1T3h3L -3H1T3h3L -4h1T3h3L -3H2T3h3l -3H2H3h2l -3H1T2h2l -3H1T2h2l -4H1T3h1l =3H1T3h__
+1:09  :4H1T3h__ -4H1T4h__ -3H1T4h__ =3H2T3h4l -3T1T3h4L -3H1T1H4L -3H1T2h4L =3H1T4h4L :2H__3h4L :4h1T3h4L
+1:10  :4h1T3h4L :3h1T4h3L -2h2T4M3L -3h3H3h3l -2h3H2h3l -3H2T2h3l -3H3T3h2l :3H1T3h2l -3H3T3h2l -2H3H2h2l
+1:11  =4h3H3h4l -2H3h3h1h :3H1T3h__ -2H2T3h1H -2H3H3h4l -3H1T3h1h -3H1T3h__ -3H1T3h__ -3H1T3h1H -4h1T3h5L
+1:13  -2H2T3h5L -3H2H3h5L -2H1T3h5L =3H1T2h5L -3H__1h5L -3H1T3h5L -3h1T3h5L =4h1T3h5L :3H1T3h5L :4H2H3h5L
+1:15  -3H2T2h5l -3H1T3h5L -3H1T3h1h -3H__4h1H =3H1T3h5L -2T__3h5L -3H1T3h5L :2H1T3h5L -3H1T3h5L :4H4h2h5l
+1:16  -3H3H3h5l -2h3H3h5L -3h2T3h5L -3h3T3h4l -3H2T2h1h -3T2H2h4l =3H3H2h4l -2H2H3h4L =3H1T3h1h -2T2H3h4l
+1:18  -3H1T3h5L :1H__3M5L :3H1T3h5L -3H1T3h5L :2H1T3h5L :4H1T3h4L -4h1T3h1h -2H1T3h__ :3H4h2h2h -3H2T3h5L
+1:19  -3H1T2h5L -3H1T1H5L :2H1T__5L :3H__2H5L -3T1T4h5L -2T1T4h5L =3h1T4h5L :2h__3H5L :3H3H3H5l -3H2T3h5l
+1:20  -3H1T3H5L -3h1T2H1H -3h1T2H1H -3H1T3H5l -3H1T3H5L =3h1T3h5L -2H1T3h5L :3H4h2H4l -3H3H3h5L -2H3H3h5L
+1:21  -3H2T2h5L -3h3T2h5L -3h1T1h5L -2H3H1H5L :4H2M1h5l -4h2H2h5l =2H2H3h1h -1T2T3h1h :2H3M3h5l :4h1H3h4l
+1:23  =3H1T3h__ =3H__3M__ -3H__3h4L -2H__4h5L :3H3h3h5L =3H1H3h5L =3H1T2h5L -3H__3h5L -2T__3h5L -3H__3h5L
+1:25  -2H__3h5L :3H2h3M5L =3H1T3h5L =3H1H1H1H :3H__2h3l =2H__4h5L =2H__4h5L :3T3h3h5l -3H3h3h5l :2H3h2h5l
+1:27  :4H1T3h5l -2H1T3h5L :3H4M3h5l -3H2h3h5L :3H1T2h1h -3H2H1h1H :3H3h1h4L :4H1H1h5l -3H2h3h5l -2h3M3h5L
+1:28  :3H__3h3l -2H1T3h__ -2H3h3h4l -2H1H3h5L -3H__3M5L =3T__3h5L :3h__4h2m :2H__4h__ -2H__4h__ :3H3h3h1h
+1:29  =2T1H3h5L :3H2H1H5l -3H1T1H5L -3H__2h5L =2H__3h5L :2T__4h5L -2H__4h5L -2H__3h5L :3H4M3h5l -2H2T3h5L
+1:31  -3H__3h5L =3H1H1h1h =3H__4h5L -3H__3h5L -2T__4h5L :3H4M3h5l -3H3h3h5l -3H2H2h5l :3H1T3h5L :2H3H2h5L
+1:32  :1H4m3h5L -3H1T3h5L :3H1T2h5L :2H4M1h5L :1H3h1h5L :2H1T2H5L -3H1T4h5l -3H1T3h1h -2h1T3h1H -2H1T3h5l
+1:34  -3H1T3h1h :3H__3M__ :4h1T3h__ :3H1T3h__ -3T__3h__ :3H1T3h3L :3H__4h5L -3H1T4h5L =3H1T3h5L -2H1T3h5L
+1:35  -2H1T1H5L -2T1T1H5L :3H1T2h5L =3T1T3h5L :3H1T3h5L -2H1T4h5L -3T1T3h5L -2H1T3h5L -3H1T3h5L -3H1T4h2M
+1:36  :2H1T4h__ :2T1T4h__ :3H__4h2h -3H1T3h5L :2H__3h5L :3H1T4h5L -2H1T4h5L -3H1T3h5L -2H1T4h5L -2H1T4h5L
+1:37  -2H2T3h5l -3h1T4h5L =3H1T2H2h :2H1T2h5L :3H1T3h4L :3H1T4h5l :3H1T4h5L :3H__4h5L -3H1T3h1h -2H1T3h5L
+1:39  :3H2T3h5L :3H1T3M5L -3h__4M5L -3H1T3h5L :1H1T3M5L :2H1T3M5L :3H1T3h4L :4H1T2h1M :3h1T3h__ :1H1T4h__
+1:40  :3H1T3h2M -3H1T3h5L :1H__3h5L =3H1T1H5L -3h__1H5L =2H1T3h5L -2h__4h5L :2h1T4h5L :1H__4h5L :3H1T3h5L
+1:41  -3h1T4h5L -2T1T4h5L -2T2H2H2M :3H1T1H__ -3H1T1H1H ~3H__1H3M -2H______ -3H______ ~2H______ ~3H____1H
+1:44  -3H3M3h1h -3T3M3h__ :4H__4h__ -2H2T3h__ -3H3h3h__ =3T__3h__ =3H__3h__ :3h__3h__ :2H1T4h__ -2H1T3h__
+1:45  :3H4h3h__ -2H2h3h__ -2H__3h__ -3H1T2h__ -2H__3h__ :3H__3h__ -2H__4h__ -2H__4h__ -3H__3M__ =2H1H3M1H
+1:47  -2H2T4h4l -2H__4M4L =3T1H1H4L =3H__3h4L -3H__4h4L -2H__4h3L :3H4h3h3l -2H3h3h3l :2H5M3h3l :2T3H3h3L
+1:48  =3H2H3h3l :2T4M4h2l :3H__3h3l -3H2T1h4l :1T4h2h4l :3H__3h4l =3H__4h4L :4H1T3h4l =2H__4h4L =3H1H3h4L
+1:50  :3h__3h4L =2H__4h3L -3H__3M3L -2H1T4h3L :2H1T4h3L =3H__3h3L -2H1T3h2L -3H1T1H2l =3H__2h2l =3H__3h__
+1:51  =4H__4M1H =2T__3h4L -3H__2h4L -3H__2h4L =3H__4h4L =3H__3h4L :2h__3M3L ~3H__3M3L =1h__4h3L -1h1T3h2L
+1:54  =1h__1h2L -__1T5h5l =__1T4h2h -1h1T4h1h -2H__3h5l =3H1T3h2h -3H1T3h__ -3h1T3h__ -2h1T3h__ =4h1T3h4L
+1:56  -3h1T2h5L -3H1T3h5L -3H1T3h5L -3H1T2h5L -3H1T2h5L =3h1T3h5L -4h1T3h5L -2H1T3h5L -2h1T3h5L -2h1T3h5L
+1:57  -3H1T3h2M -2H1T4h__ :3H1T3h2M :3H1T3h5L :2H__4h5L =3H1T3h5L -3H1T3h5L -3H1T3h5L -2H1T4h5L -3T1T3h5l
+1:59  -2H1T4h5l -3H1T3h5L -3H1T2H1h :3T1T1H2h -4H1T2h4L -4H1T4h5l -3H1T3h4l -2H1T3h1M -2H1T3h5L -3H1T3h5L
+2:00  -3T1T3h5L -3H1T3h5L -3H1T3h5L :4h1T4h2m :3H1T3h__ -3H1T2h1h -3H1T3h5L -3H1T3h5L -3H1T3h5L -3H1T2h5L
+2:02  =3H1T4h5L =4H1T3h5L -2H__4H5L =3H1T4H5L -3T1T3h5L -3H1T2H1h -3H1T2T1H -3H1T4H5l -2H__3H5L =3h__1H1H
+2:04  =3H______ -4H__1H__ -3H______ -3H__1H__ =3H__1H1H =4H3M2H4l -2H3M3H1h :3H__3h__ -2H2T3h1H -2H3h3h4l
+2:06  =3H1T3h1H -3H__3h__ -3H__3h1h =3H__3h5L =3H2h3h5L -3H1H2H5L =3H__2h5L -3H__3h5L -3H__2h5L =4H__3h5L
+2:08  :4H3h3h5l =3H1T3h5L -3H2H2h2M =3H__1h1H -3H__3h5L -2T__4h5L =3H__4h5L -3H3m3h5l -2H3M3h5L -3h2H3h5L
+2:10  -3H3h3h4l :4H1T2h1h -3H2T2h__ -3T3h1h4l -3H3m2h4l -2T2M3h4L :4H__4h2M -3H2T3h1h -2T2h3h4L =2H1H3h5L
+2:11  =3H__3M5L =3H__3h1h :3H4M3h2M =3H1H3h5L -3H1H1H5l -2H__2h5L :3H__2h5L -3T__4h5L -2T__3h5L =3H__3M5L
+2:13  :3H3M3h5l =3H1T3h5L =3h1T1h1h -3H__3h5L -3H__3h5L =3H__2M5L :4h2h1h4L =3h1h1h2l -3H______ -3H______
+2:15  =3H______ =4H3h2h1M -3H2H3h__ -3H1T3h__ -3T3h3h__ -3H1T3h__ =3H__3h__ =3H__3h__ -3H__3M__ -3H1T4h__
+2:17  -3H2T3h__ =2H2H3h__ =3H1T2h__ =2T__4h__ =2H1H4M__ -3H2T4h4l -1T__4h4L =2H1H1H4L =2H__4h4L -3H__4h4L
+2:20  -2H__4h3L :3H3H3h3L -3H3h3M3l :2H4M3h3l :3H1H3h3l -2H1T4h2L :1H5m3h2l -3H2H3h3l -3H2T2h4l -3H2H1h4l
+2:21  =2T__4h4L :3H1T3h4L =2T1T4h4L =2T1T3h4L :3h__3h4L =3H__3h3L :2H__4h3L -2H1T4h3L -1H1T3h3L =3H__3h3L
+2:23  -2H1T2h2l =3H1T2H2l :3H__2h1l -3H1T4h__ -2H__3h__ -3H__4M__ -2H__4M__ :4H__3h3l -2H__3h4L -3H__3M4L
+2:24  -3H__1h4L -3H__2h4L =2H__4h4L -2T__4h4L =3h__3M3L :3H__3h3L =3H__3h3L =3H__3h3L :2H1T3h2l :2H__2h2L
+2:26  -2H__1H2l :3H1T3h4l =3H1T4h3M -3H1T4h1H -2H1T4h5l -3h1T4h1h -3h1T3M__ -2H1T3h__ :2H1T3h__ :3H1T3h2h
+2:28  -3H1T4h5L -2T1T4h5L -3T1T4h5L :2T__4h5L :2T2T2H5l -3H1T1h5L -2H1T2h5L :2T1T3h5L -2H1T4h5L -2T1T4h5L
+2:29  :3H1T4h5L :2H__4h5L :3H1T3h5L -2H__3h5L =3H1T3h5L -2H1T3h5L -3H1T3h1M -3H1T3h1H -3H1T3h5L -1T__3h5L
+2:30  =2H1T3h5L -1T1T4h5L =3H1T4h5L -1H1T4h5L =2H1T3h5l -3H1T2h1h -2H1T2h4L :2H1T3h4l -2H1T3h5l -1T__4h4L
+2:32  -3H1T4h1M -3H1T3h5L -2H1T4h5L :3H1T4h5L -2T__4h5L -3H1T3M5L -3H1T3M5L :3H1T4h3l :2H1T4h__ -2T1T3h__
+2:33  :3H1T3h2M -3T__4h5L :3h1T3h5L -3h1T2h5L -3H1T1H5L -3h1T1H5L -3H1T3h5L -2H1T4h5L =2H1T4h5L -2H1T3h5L
+2:35  -3H1T3h5L :2H1T3h5L -2H1T2H3M :2H1T1H__ -1H1T2H__ -3H1T3H4l :2H1T3h5l -2H__3h5L =3T1T2H5l -2H__1H4L
+2:36  =3H__1H3l ~3H______ -3H______ =3H1T1H1H -3H3M3H5l -3H2H3h1h -2H2T3h1H :1T4l3h5l :2T1H3h5l =3H1H3h1h
+2:38  =3H__3M__ :3H__3h4L :2H__4h5L -3H2H3h5L =2T1H3h5L =2H1T2h5L =2H__3h5L =3H__3h5L -2H2T3h5l -1T1H3M5L
+2:40  -3H1H1H1h -2H______ :1T__2h2h :3H__4h4L =3H__4h5L =2H__4h5L -2H1H4h5L -2H3M3h5l -1H2h3h5l :3H2H3h5l
+2:42  :3H2h3h5l -2H2H3h4l -2H2T1h__ -2H3M2h4l :4H3M2h4l -2H3h3h5l -2H2H3h4l -2H2T3h1h -1H3h3h4l -2H1T3h5L
+2:43  =3H__3M5L -2H__3M5L =3H1H3h1h =2H2H3h5L -2H1H1H5L -2H__2h5L :3H__3h5L =2T__4h5L =2T1H4h5L -2H2T3h5L
+2:45  -2H__3M5L =2H1H2h1h =3H__4h5l =3H__3M5L -3H3M3h5l -1T3M3h5L =3H2H4h5L -3h2H3h5L :3h1T1h5L -2H4m1h5L
+2:47  :3H1T2h5L :3H1T4h5l =2T1T4h2h -2H1T3h1H -2H1T3h5l -3h2T3h2M :3H1T3h__ -3H1T3h__ -3H1T3h__ -2h1T3h__
+2:49  =4h1T3h4L -3H1T3h5L -3H1T3h5L -3H1T3h5L :2H2H2h5L :3H1T2h5L -3H1T2h5L =3h1T3h5L -4h1T3h5L -2H1T3h5L
+2:51  -2h1T3h5L :2h__3h5L -3H1T3h2M -2H1T4h__ :3H1T3h2M :3H1T3h5L -3H1T3h5L -3H__3h5L -3H1T3h5L -3H1T3h5L
+2:52  :3H1T3h5L -2H__4h5L -3T1T4h5l -2H1T4h5l -3H1T3h5l -3T1T1H1h -4H1T2H4L -4H1T3h5l -3H1T3h4l -2H1T3h1h
+2:53  -2H1T3h5L -3H1T3h5L -3T__3h5L -3H1T3h5L -3H1T3h5L -4H1T3h__ -3H1T3h1h -3H1T2h5L -3H1T2h5L -3H1T2h5L
+2:55  -3H1T3h5L =3H1T4h5L =4H1T3h5L -3H__4H5L =3H1T4h5L -3T1T3H5L :2H2T2H2M :3H1T2H__ -3H__2H1H -3H1T4h5l
+2:57  -2H1T3H5L :4h1T3h5L :3h1T3H5L :3h1T3H5l -3h1T3H5L -3H1T3H5L -2h1T3H5L -3h2T2h5L =3H1T2h5L -3H1T2h5L
+2:58  -2H__1H5L =4h1T3h4l :2H__3h__ :3H1T3h__ -2H1T3h1H -2H1T3h5l -3H1T3h1h -3H1T3h__ -3H1T3h__ -3H1T3h1H
+3:00  -3h1T3h5L -2H__3h5L =3H1T3h5L -2H1T4h5L =3H1T2h5L -3H1T2h5L -3T1T4h5L -3h1T3h5L :4h1T3h5L -4h1T3h5L
+3:01  :3H__3h5L :4H__3h5L -3H1T3h5L -4h1T3h5L =3H1T3h1h -3H__4h1h -3H1T3h5L -2T__3h5L =3H1T3h5L -3H1T3h5L
+3:02  =3H1T3h5L -2h1T3h5L -3h1T3h5l -3h1T3h5L -3H1T3h1h -3T__2H4L -4H1T2h5l -3H1T3h5L =4H1T3h2M -2T1T3h5L
+3:04  -3H1T3h5L -1H__3M5L :3H1T3h5L -3H1T3h5L -2H1T3h5L :4H1T3h4L -3h1T3h1h -2H__3h__ =3H1T3h4L -3H1T2h5L
+3:06  :3H2T1H5l :2H1T__5L :2H1T__5L :3H1T2H5L :2T1T4h5l =2T1T4h5L =3h1T3h5L :2h__3H5L :3H1T3H5L =3H1T3H5L
+3:07  =3h1T2H1h -3h__1H1H -3H__1H4L =3H____2h -2H______ =3H______ -3H______ -3H______ -4H______ -3H____1H
+3:09  =4H3M2h1h -2H2H3h__ -1T2T4h__ :__4l3h__ :__2H3h__ -__1H4h__ -____3M__ =__1T4M__ -__1T4h__ -__2H4h__
+3:11  =__2H3h__ =__1T3M__ ~__1T4M__ -__3T4M4l -__1T4M4L =__1H2h4L ~__1T4h4L -__4h3h3L -__3H3h3L -__2H4h3L
+3:14  -__3H4h3l -__2T2h4l -__3H2h4l =____4h4L =__1T4M4L =__1T4M4L =__1T4M3L -__1T4h3L -__1T4h3L =__1H3h3L
+3:16  =__1T2h2L ~____4M__ =____4M4L -____2M4L -____3M4L ~____4M4L =__1T4M3L =____4h2L =____2h2L =__1T4h4l
+3:20  -____4h__ -__1T4M1H -__1T4M5l -__1T4M1h -__1T4M__ -__1T3M__ -__1T4M1H -__1T4h5L -__1T4h5L -__1T4h5L
+3:21  -__1T3h5L -__1T2h5L -__1T2h5L =__1T4h5L -__1T4h5L -__1T3M5L -__1T3h5L -__1T3h4L -__1T3h1h -____3h1H
+3:23  :__1T3h3L -____3h4L -____3h4L -__1T3h3L -____2h3L -____3h3L -__1T2h3L =__1T2h2l -____1h1h -____2h2L
+3:25  =____2h2L -____2M1m -____1M2L -____1M2L -____1M2L -____1M2L -____1M2L -____1h__ -____1h__ -____1h1L
+3:27  -____1h1L -______1L -______1L =____1h1L -____1h1L =____1h1L -______1l =________ _________
+
+
++================================================================================+
+  Like Dat Motion - Soldier Kidd
+  445 codons | 1:00 | 7.4 codons/sec
++================================================================================+
+
+0:00  =____2h2l =1H__1h2l =1H__1h2l -1H__1h2l -1H__1h2l -1H__1h2l :1T__1h1l -2H1m1h1l -2H__1h1l =1H1h1H1l
+0:02  -2H1h1h1m -2h1H1H1m -2H__1h1l =2H1T1H1m :__3T__1m :__5H2H3m -1H2T3H5l -2h1T3h3l -1T1T3h2l :2h1T2h1l
+0:03  -1H1T2h__ :2H1T1H__ -2H______ -1h______ -2H4h2h2m ~1H1T3M4l :1H__2M1l :3h2H2h1m :3H5M2h2m :2H2H2h4l
+0:04  -1H1H2h4l :1H1T2h4l :1H2H2h3l :1H5M1h2m :2H3h2h4l -4H2H3M4l -3H5M2h2m :2H4h1h3l :1h5M2h3l -__2H3M4l
+0:05  :2H__3h4L -3H__3h4L -2H1T2h3L :__1T2h2l :____1h1m :1H____1m :3h2H1H1m :3H4M2h2m -3H3H3h4l -2H1H3h4l
+0:07  :2T__3h4l -1H__3h2l -3H1T2h1m -3H4h2h1m :2H2H2h3l -2H2H1h3l :1H1T2h3l :1T3H2h2l -2H4h2h2l -4H3M3M1m
+0:08  :1h5m2h1m :__4M1h2l :__5h1h4l :1h3M3h5l -2h2M3M4l :3H1T3h2l :3H__3h1l :3H__3h1m -2H1T2h__ =1h1T1h__
+0:09  :2h4h1H1h -3H3H3h4l -1H1T4M4l -____3M3l -1h__3M1l :3H4h2h1m :2H5M2h1m :2H3H2h3l -1H2H2h3l -__2H2h3l
+0:10  -1H4M2h2l :2h2H3M3m -2H3M3M2m :2h5m2h1m :2H4m1h2l -__4M1h3l -__1H2h5L :2H__2h4L -3H__1h4L -2H1T1h3L
+0:11  -__1T1h2l :____1h1m :2H2H1h1m -2H4h1h2l :2H2H1h4l -2H1T1h4l -2H__1h3l -1T1T1h1l -2H4h1H1m :2T3H1h3l
+0:13  -2T2h1H2l -2T5h1H1m :2H4M1h1l -1h5h1h1m -2M5h2h1M -1h5h1h1M :3H4H1h3l :3H4H2h4l =1H2H3h4l =3H1T3h2l
+0:14  -1H1T2h__ -__1T2h__ -1H1T____ -3H4h3h2l =3H1H3M3l -2H__3h3l =2H1T2h1m -2H4M2h1m :__2H3h3l :1H1h2h3l
+0:16  :2H1H2h4l :2H1T2h3l :1H2H2h2l :1H5M1h1m -2H3h2h2l -3H3h2h1m -2H5M1h1m :3H4M1h2m :2T5m2h3l :2T2m3M4l
+0:16  -2H1H3M5L -2H__3h4L -1h__2h3L :2H1T2h3l :2H1T1h2l :1T__1H1m -2T2H__1m :2H4h3h2l -2H2H3M4l :2T__3h4l
+0:18  -3h__3M3l -2H1T2h1l -2H4h2h1m :1H3H3h3l -1H2h2M3l =2H2H2h3l -2h4h2h2l -2H3h3h1m -1T4m2h1m :2T4M2h3l
+0:19  :2H4h2h4l :2H3M2h5l -2T2m2M4l -3H1T3h2l -2h__3h1l -2h__2h__ =2H1H1h__ =2H2H3h4l -2H__3h2l -2H1T2h1l
+0:21  -3H4M2h1m :1H3H3h2l -1H2h2h2l -3H2H2h2l :2T3M2h1l :2T5m2h1m :2H3h2h3l :3h2h3h2m :4H3M2h2m :1H5m2h2m
+0:22  =3H3l2h2m -2H1M2h3l =4H______ =2H__1h__ -2H__1h__ =2T______ -3H1H1h__ -3H__1h__ -3H__1h__ -1h1H1H__
+0:24  =2H__2H__ :__1h2h__ :__1h1h__ -1H1h1h__ :3H4h1H2m =1H2T4H4l =3H__3h2l -__1T2h__ -__1T2h__ -1H1T____
+0:26  :2H5h2h2l =3H2H3M4l -2H__3M3l =2H1T2h1m :3H5M1h1m :1H3H2h4l -1H1H2h4l :2H1H2h4l :2H1H2h3l :1H2h1h2l
+0:27  :1H5M1h2m :2H3h1h4l :2H2H2H3l :1H3M2h2m -1H4M1h2l :3H4M1H3l :2T4m2h4l :2T3m3M4l -2H1h3M5L =2H__3h4L
+0:28  -1h__2h3L :3H1T2h3l -2H1H1h1l -2T1H__1m :2H5h1H2m -2H3H3h4l :1T1H3M4l :2T__2h4l -3h__2M2l -2H1T2h1l
+0:29  -3H4h1h2m :1H3H2h3l -1H1H2h3l =2H2H1h3l -1h5m1h1m :3h3H1H2l -2H3h1h2m :1T5m1h1m :2T4M1H2l :2h4h2h4l
+0:30  :2H3M3h5l -2T2m3M4l =3h1T3h2l -2h1T2h__ =2H1T1H__ -2H2H1H1H -2H4H3h4l -2H1T3M4l -2H__3M2l -2H1T2h1m
+0:32  -3H4h1h1m :1h3H2h3l -1H2h2h2m -3H1H1H3l :2T2h1h2l -2T5m1H2m :2H3H1H3l :3h3h2h2m :4H3M2h1m -2H4m1h1m
+0:33  -3H4M1h3l -2T1H__5L =4H__1H4L -2h____3L :3H2T__3l -2H1H__1l :1T____1l :3H3H1H1m -2H3h__3l -2T1H__4l
+0:34  =3H____3l -3H1T__1l -3H4h__1m :2H3H__2l -2H3h__2l -3H4h__1m -1H4M__1l -3H4M2h1m :2H4m1h1m -1H4l1h1m
+0:36  :2H3H2H2l :1T2T4H2m -2H1T4H3l -5H__3h1M =3H__2h__ -3H1T1H__ :2H______ -1H______ :2H4h1H1h =2T2H3h4l
+0:37  =3H__2h3l -3H1H2h1m -4H4M2h1m :2H3H2h3l -2h2h2h2l :4h2H2h3l -3H2H2h2l -2H4h1h2m -2T3h2h2m -1H5M2h1m
+0:39  :3H4M1h2l -4H4m2h3l =3H1H3M4l :5H__3h4L :3H__3h4L -2H__2h3L -3H1T1H2l -2H__1H1m :1H____1l -3H4h2h2m
+0:40  -3H2H3M4l :3H__3M4l -3H__3h3l -3H1T2h1l =3H4h2h1m -2h2h2h2m -4H2H1h2l :2H3h1h1l -2H4M1h1l -2H2h2h2l
+0:41  :3H4m1h2l -2h4m1h1l :4h4h1h3l :3H3M2M4l -2T2M3M4l :3H1T3h3l -2h__3h2l -2T1T2h__ :3H1T1H__ =2H______
+0:42  :4H3h1H1h -3h4h2h4l -2H1T3M4l -3T__2h2l -3H1T2h1m -4H4M1h1m :3h3H2h2m -3h2h2h2l :4h1H2h3l :4H1T1H3l
+0:44  :3H2H1h2l -2h5m1h1m :3H3H1H2m :3h2h2h3l :3H3M1h3l :2H4m1h2m =2T1h____ =3H______ -3H______ -1T______
+0:45  =3H______ -2H______ =2H______ =3h______ =3H______ -2T______ -3h______ -2H____1H =3H2H4H4l =4H1T3h2l
+0:48  -2H__2h__ :3H1T2h__ -2H__1H__ :1H______ :3H__1T__ =3H__3h1l :1T__3M1m =3H__3M1l -2h__2M1l -4h__1h1l
+0:49  :4H__2h1m -2h__2h1l =3h1T2h1m :1T__1h1l :2T__2H1m =2H1H2h__ :2T__2h1l :4h__1h1m :3H__2h1m :2T__3M1m
+0:50  -1H__3M__ :3H__3h__ :4H__3h1l :2H__3h1m -2T__2h__ =3H1T1h__ -2H____1l :4h__2h1l -2H__3M1l -2T__3M1l
+0:51  -4H__2h1l -4H__2h1l -3h1T1h1l :4H__2h1m -3H__2h1l -2H1T1h1m :1H__1h1l :1T__2h1l :3H__2h1l -2T1H2h__
+0:52  :2H1H2h__ :2H__2h1m :3H1T1h2l :2h1H2h4l =3H__3M5L :4h1T3M4L :3h__3h4L :2M__3h4L :2h__3M3L :4H1T3h3L
+0:53  :3H1T1h3l =2H____2l =3H__3h4l =2H__3M3l :1T__3M2l :2T__2h2l -3h__1h5l :3H__2h5l :1H__2h5l :1T1T2h4l
+0:55  -2H1T1h4l :3H__1h4l -2H__2h5l -2T1H5h4l -2H__3M3L -3H__3h2l -2T__2h__ -3H__1h__ -3H__1h__ :3H__1h__
+0:56  =2H__2h__ =4H__2h__ -3H__1h__ -3h1T3h__ =3H__2h__ =2T__3M__ :2h1T1h__ :2H1H2h__ :2h1T3h__ :3H__4h__
+0:58  -2T__3h__ -2H1h3h__ :4H2H2h__ :3H2H2h__ :2h2T1h__ :2H4H2h2m =2H2T4h4l :4h__3h3l -2H__3h2l :2H__3h1l
+0:59  -3H__2h__ -2H1T1H__ :2H______ -1H1T____ :__5h2h2M
+
+
++================================================================================+
+  No Oxygen - Soldier Kidd
+  328 codons | 1:00 | 5.5 codons/sec
++================================================================================+
+
+0:00  :__1H__1m ~__1H____ :__1T____ -______1m -__1H__1m =2H______ =1H______ =5H______ =1h______ =3H______
+0:02  =2H______ :2H______ =3H______ -3H__1T__ -3H__3T__ -3h1T4T__ -3h1T4T__ _____1T__ =1h__1M__ -1h__1h__
+0:06  ~____1h__ :____1h__ =____1M__ -____1M__ :1H__1h__ -____1M__ -1H__1M__ :____1h__ -1H__1h__ :1H__1h__
+0:08  =1T__1M__ :____1h__ =____1M__ -____1h__ ~____1h__ ~____1M__ -____1M__ -________ =1H__1h__ =1H1M1M__
+0:11  =1H1m1M__ -1H__1h__ -1h__1h__ =____1h__ :____1h__ -____1M__ -1H__1M__ =2h__1M__ :2H______ =1H__1M__
+0:13  =1H__1h__ =1H__1M__ :1H__1h__ -1H__1M__ :1H__1M__ -1T__1M__ -1h__1h__ =2h______ -1H__1M__ -1H__1M__
+0:14  =1H__1M__ =____1M__ -____1h__ -____1h__ =____1M__ =1H__1M2l -1H__1h2l -1H__1h2l =1H__1h2l ~1H__1M2l
+0:17  :1h__1h2l :1h__1h2l =1h__1h2l =1h__1h2l =1h__1h2l :____1h2l -____1M2l -1H__1M2l -1H__1h2l =1T__1h2l
+0:19  -1H____2l =____1h2l -1h__1M2l -1h__1h2l =1H__1h2l -1H__2h2l :1H__2h2l =1H__1h2l :1H__1h2l :1h__1h2l
+0:21  =1H__1h2l -1H__1h2l -1H__1h2l =1H__1h2l =____1M2l =____1M2l -____1M2l -______2l =____1h2l =1H__1h2l
+0:23  -____1h2l -1H__1h2l -1T__1h2l =____1h2l -____1H2l ~1H__1h2l -____1h2l -1H1H1h2l =2H__1h2l =1H__1M2l
+0:26  -2H__1h4l -1T__1h4L -1T__1h3L :____1h3L :1H2T1h2l -1H1T__2l -1H____2l -1H1T__4l -1H__1h4l =2H1T1h3l
+0:27  -1T1T__2l -1T__1h2l -1T1T__1l -1T2H__1m -1H____1l :1H1T____ -1H1T1h__ -1H____1H =1T____4l -2H1T1h2l
+0:29  -1T1T1h2l -1H2T__1l :1H____1l =1H1T1h4l -1H__1M4L -1T__1h3L -1T__1h2L =1T1T__2l -1H1T__1l -1H2T__1m
+0:31  -1T____5l =1T1T__4l =1T1T__4l -1H__1h4L -1H____3L -1T____5l =1T2T__4L -2T____3l =1T__1h4l =1T1T1h3l
+0:33  :1T____2l :2H1T__2l -1H____2l :1H____1l -1H2H1H1m :1H1T1h1l -2H______ -1H1T1h__ -2H______ -1H____4l
+0:34  -1H__1h4l -1H1T1h3l -1H1T1h5l -1H2H__4l -1H____3l :2H1T__4l -1H__1h5l -2H__1M4l -1T__1h3L -1H__1h2l
+0:35  -1T1T1h2l -1H1T__1l -2H2H1H1m -2H______ -2H______ -1H______ =1H1T1h4l -2H1T1h4L -2H__1h3L -1T1T1h3L
+0:37  -1T2T__2l -1H____2l -1H1T1h5l -1T1T1h4l -1T1T1h3l -1T2T1H2l :2H1T1h2l -1H__1h2l -1T1T1h1l -1H2H1h1m
+0:38  -2H__1h1m -1T1T1h__ :1T2H1h__ :1T1T1h2h -1H1T__5l -1T2T__4l -2H1T1h2l -1H1T1h2l -1H2T__1l -1H____1m
+0:40  :1H1T1h5l :1H__1h4l -1H1T1h4l -1T1T1h3l -1T1T1h2l -__1T1h2l :1H__1h1l =2H______ -1H______ -1T______
+0:41  -1T1T1h4l -1H1H1h4L :1H1T1h4L -1T__1h3l -1H__1h5l -1H2H1h4L -1H__1h3L =1H__1h5l :1T__1h4l :1T1T1h4l
+0:43  -1T1T1h3l -1H2T__2l =1T1T__2l -1H1T__1l -1H2T1h1m :1T______ :2H1T____ :1H1T1h__ :1H2T1h__ :1T5h1h__
+0:44  :1H5h__3M -1T2H1H5l -1H1T1H4l -1T__1h3l -1H__1h4m -1T2H1H4l -2H1T1H3l -1T2H1h5l -1T__1h4l -1T1T1h3l
+0:45  -1T1T1h2l -____1h2l :1T__1h1l =1H______ =1T______ :1T____2M =1T__1M4l -1T__1M3L -1T__1h3L =1T____2l
+0:47  =1T__1h4l -1T__1M3L -1T____2L :1T____2l -2T__1h2l -1T____1l -1T2T1h1l -2H______ -2H1T1h__ :1T__1h__
+0:49  :1T____2M =1T____4l -1H1T1h3l -1T1T1h2l -1H2H1H1l -1H____1m =1T__1h4l :1T1T1h4l -1T__1h3l -1H__1h2l
+0:50  :2H1T__2l -1H____2l -1H____1l =1T2T__2m -2T____5l -1H1T__4l -1T1T__3l =2T____4l -1T____4L -______3l
+0:52  -__1T1h5l =1H1T__4l =1H__1h4l -1H1T1h3L -1T1T__2l -1H1T__2l -1T____1l =1H2T1h1l -2H1T____ -2H__1h__
+0:54  -2H__1h__ :2H1T__3m =1T__1h4l -1H1T1h3l -1H__1h4l -1T2H__4l -1H____3l -1T__1h4l -1H__1M4l -1T1T1h3l
+0:56  -____1M2L :1H1T1h2l :2H____2l -2H____1l -1T2H1H1m :1H____2l -1T____5l -1H1T__4l -1H1T1h3l :2H1T__3l
+0:57  -1h1T1h5l -1H1T1h4L =1T__1h3L -1T1T1h3L -2H2T__2l -1H__1h2l :2H1T__4l :2H__1h5l -1H__1h4L -1H1T1h3l
+0:58  -1H1T__2l -__1T1M2l -1H__1h1l -1H2H1h1l =1H______ =1T______ -1H1T__4l -1H2T__4l
+
+
++================================================================================+
+  No Scrubs - Soldier Kidd
+  395 codons | 1:00 | 6.6 codons/sec
++================================================================================+
+
+0:00  -____2H__ -____3H__ _____2H__ -____3H__ -____3H__ -____3T__ =1H__2H__ ~1T__2H__ =2H__3H__ -1h__3H__
+0:02  -2H__2T__ =1h__2H__ =2H__1H__ -1T__2H__ -1h__2H__ -1H__3H__ -1h__2T__ :____2H__ ~1H__2H__ :1H__2H__
+0:05  :1H__2H__ -1H__2H__ :2H__3H__ :1H__3H__ -1H__3H__ -1H__2H__ ~2H__2H__ -2H__2H__ -2H__3H__ :1H__3H__
+0:06  :2H__2H__ =2H__2H__ =1H__2H__ =1h__2H__ -1h__2H__ :1h__2H__ :2H__2H__ -2H__2T__ =1H__2H__ =2T__1H__
+0:08  =2H__2H__ =2H__1H__ =1H__1H__ =1T__1H__ =1T__1H__ :1T__1H1H =1H__2h4l -____4h2l =____4h1m :3H1T3H__
+0:10  :4h2T2H__ -4H1T1H__ :4H1T1H1H =4H__1H4l =4H__1H1h :4H__3h__ -4H__3H__ -2T__4h__ :3H1T3H__ :4H2T2H__
+0:12  -4H__2H__ -3h1T1H__ :4H2T1T__ -2H1T1T__ =4H__2h3l =4H__4h1l :4H1T5h__ =4H1T2H__ :3H1T1H1H =3H__1H4L
+0:13  :4H1T__3l :4H____2L -3H__2h2L :4H1T3H1l =4H__4h__ :4H__4h__ :4H2T2H__ :3H1T2H__ =4T__1H__ :4H__1H__
+0:15  -4h__1H__ =3H__2h4l :1T__3h3L =1T__3h1l :2H1T4H__ =4H1T2H__ :3H1T1H2H =3H__1H4l =4H__1H1h :3H__2H__
+0:16  -4H__3H__ -2T__4H__ :4H2T3H__ -3H1T2H__ -3H1T1T__ =3H1T____ =4h__2h3l =4H1T3h1m :4h2T2H__ -4h1T2H__
+0:18  -3H1T1H1H :3H__1H4L -4H__1h4L :5H__2H3L =4H__3H2l =3H__4h__ :4T1T3H__ =3T1T3H__ :2T1T2H__ -4H__1H__
+0:20  -3H__1H1H =3H__2h4l =2T__3H1m :3H__4H__ :5H2T4H__ -4H1T2H__ :4T1T1T1H =3H__1H4l :5T____2l =4H__2H__
+0:21  -5h__2H__ -4H__3h__ -4T1T4H__ =4T1T2H__ -4H1T1T__ -2H2T1T__ :4T1T1T__ =4H__1H4l =4H__4h2l :4T1T3H__
+0:23  :4H2T3H__ -3T1T2H__ :4H1T1H1H :4h__1H4L -3T__1H4L -4T____3L =4H__1H2L :5h__2h1l -4h__3h1m -4H__2H__
+0:24  -4h2T1H__ -2H__1H__ =3H__1H__ -3h______ =3H__2H4l :2T__2h3L =3H__3H1m :3h1T5H__ :5H2T3H__ -4H1T1H__
+0:26  :3H1T1H1H =3H__1H4l :4H1T__2l =5H__1H__ :4H__4h__ =4H__3h__ :3h__4h__ =4H1T2H__ :3H1T1H__ :5h1T1T__
+0:27  =3h2T1T__ :4h1T__2H =4h__1h4L :4H__3h3l -4H__4h2l -2T__4h__ -5H1T2H__ -3H1T2H__ :3H1T1T1H =4H__2H4L
+0:29  :4H__4H3L =5H__3h2L :3T__4h1l =4H__1H__ :4H__1H__ =4H__1H__ =3h______ -4H2H1H__ =4T3M2H3l :5T__4H2l
+0:30  -3T__4H1l :3T__4H__ :3H1T4H__ =4h1T2H__ -3H1T1H1H =4H__1H4l =3H__2H1h -4T2T3H__ :4T4m2H__ -4T1H3H__
+0:32  :4T1T4H__ =4H3H2H__ -3H1T1H__ =3H1T1H__ :4H3T1H__ -4H4m1H2l -4H4h1H2l :4H1T3H2l -4H__3H1l -4h1T4H__
+0:33  =3H1T2H__ :4T2T1H__ :4h5M1H2m -3H1h__3L :4T____3l =4H__2H2L -4h__3H1l =5H__4H__ :4H1T4H__ :5H2T2H__
+0:34  -5H__2H__ -3T__1H__ :2T__1H__ -2H__1H__ :4H2H1H__ =4T3M2H3l -5T__3H2l =4T__4H1m :2H1T4H__ =4H1T2H__
+0:36  :3H1T1H1H =4H__1H4l =4H__1H1h :4h__3H__ :4H3H3H__ :4H5m3H__ -4H1M4H__ :4H2H5H__ =4H3H2H__ -4H1T1H__
+0:37  :3T2T1T__ -3H2T1T__ -4H4M1H2m :4H5l2H2l :4h2H2H2l =4H__4H1l :3H1T3H__ -4h1T2H__ :4h1T1H__ :4H1T1H__
+0:38  =3H3M2H3m :3H__5H3L -4H__3H2l -4H__4H1l :3h1T5H1m -2H__4H__ -3H1T4H__ :4H2T4H__ -4H__3H__ =3H__2H__
+0:40  -1H__1H__ :1H2H1H__ =1H3M2H3l -1H__3H2l =1H__4H1M :4H1T3T__ :4h2T2H__ -4h1T1H__ :4h1T1H2h =4H__1H3l
+0:41  =4H__1H__ :3H__4H__ :4H4H3H__ :4T4m3H__ :3T1H4H__ :2T1H4H__ =4H3H2H__ -4h1T1H__ :4H2T1T__ -2H1T1T__
+0:42  :4h4H1H1h -4H4m1H2l -2H4M2H2l :4H1T3H2l -4H__4H1l :2T__4H__ :4H2T3H__ -4h1T2H__ -2H2T1H__ =3H2h1H3m
+0:44  :4H____3L -4H__1H2L :3H__2H2l :3H__3H1l :5H1T3H1m -4H__4H__ :4H1T4H__ -3H2T3H__ -3T__2H__ -3T__1H__
+0:45  :3H1T1H__ -3h1T1H__ =3H3M2H3l :2H__3H3l :3T1T3H2l -1H__4H1M :3H1T5H__ -5H2T3H__ -3H1T2H__ :3T1T1H1H
+0:46  =3H__1H4l =4H__1H1h :2T__4H__ :4h3H3H__ :4H5M2H__ -2T2M3H__ :2T1H3H__ =4H3H2H__ -4H1T1H__ =3H2T1H__
+0:48  -4h4h1H2m :3h5l2H2l :3h3H3H2l =4H__4H1l -4H__4H__ -5h1T3H__ :4h1T2H__ :4H2T1H__ :3H5M1H2l :4H2M2H3L
+0:49  -4H__5H3L =4H__3H2l :3T__5H1l :4H1T4H1m -3T__5H__ :4T__4H__ :4H1T4H__ -3T__5H__ :2T1T3H__ -4H__2H__
+0:50  -3h1T1H__ =3H3M2H2l :2T__4H2l :3T1T4H2l -2T__4H1M :2H1T4H__ =4H1T2H__ :4T1T1H2H =3H__1H4l :4T__1H2l
+0:51  =4H__2H__ :4h__3H__ :4h3H3H__ -3H3h4H__ -4T2T4H__ =3T2H2H__ -3H1T1H__ :3T1T1T__ =4T1T____ -3H4m1H2l
+0:53  :3h5l2H2l :4H2T3H2l =3H__4H1l :4T1T3H__ :4H2T3H__ =4T1T2H__ -3h4M1H2m -3T1h1H4L :4T__1H3L =4H__2H2l
+0:54  :5h__4H1l :4h1T4H1m -4h__4H__ =4H__2H__ =3H______ =3H3M2H3m :2H__3H2l =3H__4H1M :4h1T4H__ :4H2T3H__
+0:56  -4h1T2H__ :3H1T2H__ =3H__2H4l :3H__1H2l =4H__2H__ -4H2H3H__ =4H3M4H__ :3h2H5H__ =4H3H2H__ :4H__2H__
+0:57  =4h2T1H__ -3H4M1H2l :2H5l2H2l :3H3H3H2l -4H__4H2l -2T__4H1m :4h2T3H__ -3H1T2H__ :4H2T1H__ :3H5M1H1m
+0:59  -3H2M2H3L :3H__5H3L =4H__3H2L -3H__4H1l -4H__4H__
+
+
++================================================================================+
+  Thug Paradise 2 - Soldier Kidd
+  308 codons | 1:00 | 5.1 codons/sec
++================================================================================+
+
+0:00  =____4m__ =____5m__ -__1H5h__ ~____1M__ =____4m__ =____4m__ -__1H4h__ -__2H1h__ =1H__1h__ ~2H__1h__
+0:03  :1H__5M__ -3H__5m__ -2H__4m__ =3H__5m__ -1H1H4h__ =2H1H1h__ =2H__1h__ -1H__2M__ =2h__4m__ =4h__4m__
+0:05  -3H1H4h__ -2T2H2h__ -2H__1M__ =3H__1h__ -1H__1M__ =2H__4m__ -2H__4m__ =2H__4m__ -2T1H4h__ ~1H1H1h__
+0:07  =1H__1h__ =3H__4m__ :1T__4m__ =3H__4m__ -3H1H3h__ -2H1H1h__ =2H__1h__ =1T______ :1T__2M__ :2T__5m__
+0:09  =2H__5m__ -2H__4m__ :3H__5M__ :3h1H4M__ :2T2H2h__ ~2H__1M__ =____4m__ =1H__5m__ :3T__4M__ -2T1H4h__
+0:11  :3H2T2h__ ~3T__1h__ -2T1T1h__ -2H2h1h3l :1T__3m5L -2H1T4M4L =2H__4M3l -2H1H4h3l =2H1T1h2l =2H1H1h4l
+0:13  =2H__3M4l -1T1H4M3l =__2M3M3l -__1H3h2l =3H1H1h2l -3H1T__1H -3T1T____ -3H1T____ =2T2h3M4l -2T1T4M4l
+0:15  =2T__4M3l -2H1H4h3l =2H1H1h2l -2T4h1H2m -1T2m__5l -1T1h1h5l =3H1T3M4l -1H2H4M3l -__4M2M3l -__1h4M5l
+0:17  :__1M4h4l =2T2H2h3l -2T3h1h4l =3T1H1h4l -2H__1h4L :3H2T1h4l -3H1h2M4l :2T__3m4L -2T__4M4l =2T__4M4l
+0:18  -1T1T4h3l =2T2H1h2l -2H1H__3l -2T2h__4l -2H1M__5l :2H1T2H4l =2T__4m4l -__1H4M3l -1T2M3M3l :3T1h3M2l
+0:20  :1T1H3h2l =2T1H1h1M =3H1T____ -2T______ :3H2T__2h =2T1H3M4l -2H__4M3l -2H1H4M3l -2H2H1h2l =1T1H1h2l
+0:22  =2H2h1h4l :1H1M1h5l :1T2m1h4l :2T1M3M4l -2H1h3m3l -2T__4m3l =2T__4m2l -2T__4h2l =2T1T2h1h =3T__1h__
+0:23  -3H1T1h1H -3T1h1h4l -2T__3m4l -1T1T4M4l =2T__4M3l -2H1H4h3l =2H1H1h2l =2H1H1h4l =2H__3M3l -__1T4m3l
+0:25  =__2h3M3l -2T1H3h2l =2H1H1h2l -3T1T____ -1H1T____ -3H1T__1H =2H1H3M4l =2T__4M3l -2T__4h3l -1T3T2h2l
+0:27  =2H1H1h2l =2T2h__4l -2T1h1h4l =2H__3M4l -__2H4M3l =1H2h3M4l -2H1H3M4l -2H2H2h3l :2H2h1h3l :2T3m__4l
+0:29  -3T2H1h4l -2T1H1h4l -3T1H__4l -2T1H1h5l :2H__3m4l -2H__4M4l -2H__4M4l :2H__4M3l -1T1T4h3l =2H1H1h2l
+0:31  =2H1H1h5l -2H__1h5L =2H__3M4l -__1H4M3l =1T2h3M3l -3T1H3M2l =3H1H1h2l :3T1T____ =3T______ -3H____1H
+0:33  -2T2H2h4l =1T1H4M4l =2T__4M3l -2H1H4M3l =2T1H1h2l =2T2H1h5l =3H__3M4l -1H1H4M3l =2T1h3M4l -__1H4h4l
+0:35  -2H2H1h3l :1H3M1h4l -1H2H1h5l =2H1H1h5l -2H__1h4L -3H__3m3l :2H__4m3l -1H__5m2l =2T__5M2l -1T1H4h1l
+0:36  =2H1H1h__ =2T__1h__ -2H__1h__ =3H__4m__ -1H__4m__ =3H__4m__ -2H1H4M__ :3H2T2h__ -3T__1h__ -2T__1h__
+0:38  =3T__1h__ =2T__5m__ -2H__4m__ -2H__4m__ -2H1H4h__ =3H1H1h__ =2T__1h__ =3H__4m__ -2H__4m__ =3H__4m__
+0:41  -3T1H4M__ ~3T__1h__ -3T__1h__ =3T__1h__ =2T__4m__ -2T__4m__ -2H__4m__ -3H1H4h__ :3H2T1h__ =2H__1h__
+0:43  =2H__1h__ -3H__4m__ =1H__4m__ =3T__4m__ -3T1H3M__ ~3H1H1h__ -4T______ -2T______ =2T__5m__ -1T__5m__
+0:45  =3H__4m__ -1T1H5M__ :2T2T2h__ -3T__1h__ -2H__1M__ -3H__1h__ -2H__1M__ -3H______ -1H______ -3T__2M__
+0:47  :3T__2M__ -3T__3m__ =3T__3m__ -3T__3m__ =3T__1h__ -4H1H1h__ =3H2h2M4l -2T1T4M4l =1T__4M4l -__1H4h3l
+0:48  -1H2H1h3l -2T1T1h2l =3H1H1h4l =3T__3M3l -1H1H4m3l -1H3M3M3l :3H__3M2l -2H1T3h2l -3T2H1h2l -3H__1h1M
+0:50  =3H1T____ -2T1T____ =2T2h3M4l -3T__3M4l =3T__4M3l -2T1H4h3l =3T1T1h2l :3H5M1h2m =2T1H1h5l =3H__3M4l
+0:52  -1H1H4m3l -__4M2M3l -3H__3M4l :2T1H3h4l :1T3H2h3l -2T2H1h4l -2T4h1h4l =3H1T1h4l -3T4M2h3l =2T__3M4l
+0:54  -2T__4M4l :2T__4M3l -1H1H4h3l -2H2H1h2l :3T__1h3l -3H1H1h2l =2H2H__4l =3H__3M3l -__1T4M3l =1T3h3M3l
+0:56  -2T1T3h2l =2T2H1h2l -3H1T1h1h =3T1T____ -3H1T____ =2T3h3h4l -2T__4M4l =2T__4M3l -2T1H4M3l -2H2H2h2l
+0:57  -2T__1M3l -2H1T1h2l =2H3h1h4l -2H__1M5l =3H__3m4l =1T__2h2h =3T______ ~3T______
+
+
++================================================================================+
+  Calling My Spirit - Kodak Black
+  321 codons | 1:00 | 5.3 codons/sec
++================================================================================+
+
+0:00  -__1T3h5l :__1T3h5l =__2T3h4L =__1T2h3L =__1T2h2L =__2T2h1h =__1T2h__ =__1T1h__ =__1T1H__ =__1T4h__
+0:02  =__2T3h1H =__1T2h5l =__1T2h4l =__2T1h2L =__1T2h__ =__1T2h__ =__2T2h1H -__1T3h5l -__1T3h5l -__1T3h5L
+0:04  -3H1T2h4L -2h1T2h3L =4h1T2h2L -5h4T2h1l -4h1T2h__ =4H1T2h__ =3H1T1H__ =1H1T1H__ =__1T5h__ -__3T4h__
+0:06  :2h1T4h1h -3H1T2h5l :3H1T2h5l =3h3T2h4L =4h2H1h2L :3h2T1h1l =1H1T2h__ =3H1T1h__ :2h1T1h__ -__1T1h1H
+0:08  :__2T3H5l -1H1T3h5L -1h1T2h5L :3h2T2h4L -3h1T1h4L -3H1T1h3L =3H2T2h2L =4H2T2h1h :1H1T2h__ -1H__2h__
+0:09  =3H1T1H__ =1h1T____ =__2T4h__ =1H1T4h__ :3h2T3h3l :2T1T2h5l -3H1T2h5l =2T1T3h4L =5h2T1h2L :3h2T1H1l
+0:11  -1h1T2h__ :1H2T1h2M -3h2T1h5l :2h2T1h5l :__2H1h5l -__2T1h5l :__1T3H5l -1H1T3h5L =1H2T3h5L =3H1T2h4L
+0:12  =3h1T2h2L -4H2T2h1m :3H1T2h__ =3H1T2h__ =3H1T1H__ =1h1T1H__ -__1T5h__ :__1T4h__ =__3T4h__ :2H2T3h3l
+0:14  =4h1T2h5l :3h1T3h5L -3H1H3h4L =3H2T1h2L -2T1T2h1m -3h1H2h__ =3h1T1h__ =1M2T1H1H :__1T3H5l -1H1T2h5L
+0:16  =__1T3h5L -3h1T2h4L -4H1T2h3L =3H1T2h2L =4H2T2h1h -3H1T2h__ -1T1T2h__ =4h1T1H__ =1h2T1H__ =__1T4h__
+0:18  -__1T4h__ :2h2T3h3m =4h1T2h5l =3H1T3h4L =4H2H1h3L :4H2T1h1l =3H1T2h__ =3H1T1h__ =1h1T1h1H -__1T3h5l
+0:20  -__1T3h5l :__1T3h5L -1H__3h5L -3H1T2h4L :2H1T2h3L :2h2T2h3L -2H__2h2L =4H3T2h1h =3H1T2h__ :4H1T2h__
+0:21  -4H1T1H__ =1h1T1H__ -4h1T4h__ -4H1T4h__ =3h2T3h1H =2H1T2h5l =3H3T2h4l =3H2T1h2l :4H2T1h1m -3H1T1h__
+0:23  =3H1T2h__ =2H1T1h1H :__2T3H5l -__1T3h5l =1H1T3h5L =3H1T2h4L =4h2T2h2L -4H2H2h1M :3H1T2h__ -2H1T2h__
+0:25  :3H1T1H__ :4H2T1H__ -3H______ =2h1T____ =4h2T3h__ =3h1T4h__ =4H1T2h5l :4H2T2h5l =2H__3h4L =3h______
+0:27  =3H______ ~2T______ :1T1T1H1h :__2T3H5l -__1T3h5l :__2T3h5L -1H2T3h5L =4H1T2h4L =2T2T2h2L =3H2H2h1M
+0:29  -3H1T2h__ -2T1T2h__ =2T1T2H__ =2T1T1H__ -2H1T5h__ :3H2T4h__ -4H3T4h__ :3T2T3h2M -2H1T2h5l -2T1T2h5l
+0:30  =2H1T3h4L =3H2T1h2l =3H1T2h__ =3H1T2h__ =2T2T1H1M =4H1T2H5l =3h1T2h5L -3H1T2h4L -3H1T1h3L =2H1T2h2L
+0:33  =__2T2h1h =__1T2h__ =__1T2H__ =__2T____ :2H2T3h__ =3H1T4h__ =3H1T4h1H =3h1T2h5l =3H1T3h4L =2h2H1h3L
+0:35  :3H2T1h1l =3H1T2h__ =2T1T2h__ :3H2T____ -3H1T1H1h :3h1T3H5l -4h1T3h5L :3h1T3h5L -1h1T2h4L :3h1T2h4L
+0:36  -3H1T1h3L =1h1T2h2L -__4T2h1l -__1T2h__ =__1T2h__ =__1T2H__ =1H1T1H__ =3h1T4h__ =4h2T4h1H =4h1T2h5l
+0:38  =2H3T3h4L :2T4H2H3l =2H1H1h2L =1T1T2h__ :2H2T2h__ -2H__2h__ :3h2T____ :3H1T____ -1T1T1H1H =3H1T2h5l
+0:40  -2H1T3h5L :2T1T2h4L =3H1T2h3L :__1T2h3L -__2H2h2L =__2T2h1M -__1T2M__ :__1T2h__ -__1T2H__ :3h2T____
+0:41  =3h1T1H__ =4h2T4h__ -4H1T4h__ -2T1T3h1h =3H1T2h5l -2H1T3h4L :2H4H2H3l =3h2T1h2L =3h1T1h__ -2H1T1H4l
+0:43  :2T2T1H5l :1T1T1H5l :2H2T1H5l -3h1H1h5l ~4h__3h3l =3H__2h__ =2H__2h__ =3h__2h__ =3H__2h__ -4H__2h__
+0:45  =3H______ :3H__2H__ -4H__5h__ :4H__4h__ -2H__4h__ -2H__3h__ =4h__3M__ -3H__3h__ -3H__1h__ -3H__1h__
+0:47  -2H__2M__ -3H__1h__ =2H__1h__ :____3H__ -____3H__ =____3h__ =____2h__ =____2h__ =____2M__ =3H__2M__
+0:49  -3H__2H__ :2H__1H__ :4H______ -5h______ :4h__1H__ =3H__4h__ =2h__4M__ =3H__3M__ -4h__3h__ -3h__2h__
+0:51  -3H__1h__ :3H__1h__ -2h__2M__ :3H__2M__ ~2H__1h__ :____4h__ -____4h__ :1H__3h__ -2H__2h__ =3H__1h__
+0:52  =2h__2h__ =4H__2M__ =2T__2M__ =3H__1h__ -2T__1h__ =4H__4h__ -2T__4M__ -3h__3M__ -3h__3h__ -2H__3h__
+0:54  -2H__2h__ -3H__1h__ :3H__1h__ -2H__2M__ =2H__1M__ =1H__1h__ =1H__3H__ -2T__3h__ -2h__2h__ =4h__1h__
+0:56  =2H__2h__ =3H__2M__ =2H__2M__ ~3H__1H__ =3h__4h__ -2h__4h__ -3H__3M__ -3h__3h__ ~4h__2h__ =3H__2M__
+0:59  =3H__1h__
+
+
++================================================================================+
+  Patience - Yung Tray
+  282 codons | 1:00 | 4.7 codons/sec
++================================================================================+
+
+0:00  _____2h__ =____1h__ :2h______ =2h__1H__ _2h__3h__ =1h______ _____1h__ -1h__1H__ =1h__1H__ =1h__1h__
+0:05  ~2H__1H__ ~2H__1h__ =2H__1h__ =1H__2h__ _1H__1h__ =3H______ =2H______ _4H______ -4H______ =3H__1H__
+0:10  -2H__1H__ ~2H__1H__ =3H______ ~3H______ _3H______ :2H2T1H__ -2H1T2h__ -1h1T2h__ ~2H1H1h__ -1h2H1H__
+0:13  :1h2T1H__ :1h1T1H__ :2h1T____ =3H2T1H__ =1h1H1h__ -1h2H1H__ =2H2T____ :4h2T1H__ =2H1H2h__ =3H2T2h__
+0:15  =2h2T1h__ =1h2T____ -1h2H____ =__1T2H__ -1h1T2h__ =2h__1h__ :1h2T1H__ =1h2T1H__ -1h1T____ -3h2T1H__
+0:17  :3h1T1H__ =2h2H1H__ -2h3M1H__ =3H3H1H__ :3H4H1H__ :3H2m1H__ =2H3h1H__ :3H4H1H__ :3H2h1H__ =2h2T1H__
+0:18  =1h4T1H__ =1h2H__1h =1h2T2H5l -1h1T2h3l ~2h1H1H1h -1H3H1H__ :1H1T1H__ -2h1T1H__ =2H2T1H5l :2H3H1H5L
+0:20  -1H____4L -1H2H1H2l :1h3H__1l :1H1T__1m :3h2T1H__ -3h__1H__ -2H1H1H1H =4h2T__5L :2H2T__5L -2H1T__5L
+0:22  =1H2T__4L =1H2H__3l :1h3T1H5l -1h2T2H5L -1h1T2h4L =1h1H1H2l =1h2T____ =2h1T__1H -3h2T__5l =2h1H__4L
+0:24  -3h1H1H2l =2h2T__1m =3h1T1H__ -2h1H1H1H =3h2T1H5l -2h1T1H3l =3H2T1H5l =2H2H1H4l :2H2T1H5l -2H2T2h5l
+0:26  =2H1H2h3l =2H__1h1M -2T1H1H__ =2H3T1H__ :2H2T1H__ -2H1T1H1H -2T2T1H5l -2T1H1H4L :3H____3L -2T2H1H2l
+0:27  -1T2H__1l :2H2T1H__ -3H1T1H__ =3H1H1H__ =2H2T1H5l -2H1T1H5L :2H2T__4L =2H2T__4L -2H1H__2L -2H2T1H5l
+0:29  -2T2T1H5l -2T1T1H4L =2H__1H3L :2T1H1H1l =3H3T1H__ -2H2T1H__ :3H1T1H1H =3H2T1H5l =2H1H1H3L =2H2T1H1m
+0:31  :2H2T1H__ -2H__1H__ -3H1H1H1H :2H3T1H5l -1H1T2h5l :2H2T2h4l -2H1T2h3l =2T2T1h5l -2H1H1h4l -3H2T1H5l
+0:32  -2H1T2h4l =2H__2h2l -1T1H1h__ =3H3T1H__ -3H1T1h1H -3H1T1h5l =1H2H1h4L -2T__1H3L -2H2H1H2l =2H2T1h1m
+0:34  =2H1T5h__ -2H1H3h1H :1H3T2h5l -1T1T2h5L :1h2T2h5L -2H1T2h5L =2H2T1h4L =2H2H__3l =2H2T1H5l -1T1T2h4L
+0:35  =2T__1H2L :2T5T1H1m -2T2T____ =2H1T__1H -1T1T__5l =2H2H1H4L :3H__1H3L -3H2H1H2l =2H2T1H1m :2H2T1H__
+0:37  -1T__1H__ :3H__1H__ -3H2H1H1H =2H2T1H5l -2H1T2h3l =3H2T1H5l =2H1H__4l =2H1T2h5l -2H__2h3l =3H__1h1M
+0:39  -2T2H1h__ =2H2H1h__ -2H__1h2H =2H1H1H5l -2T1H1H4L :2T____3L -2T2H1H2l -1T2H__1l ~3H1H3h__ -2H2H2h5L
+0:41  =1T__2h5L =2H1h1h4L -2H1H__2L =2H1T1h5L =2T__1h3L -2T1H1H1l -2H4H__1M =2H______ :3H____2h -3H1H__5l
+0:43  ~3H2H__3l :2H3H__1l -2H____1m =2H______ -2H2H__1H =2H2H1h5l -2H1H2h3l =2T1H1h5l =2T1H__4l =3H1T1h5l
+0:45  =3H__2h2l -1H__1h1m -2T__1h__ =3H__1h__ -3H__1h1H =2H____5l -1H__1h4L =3H____3L -2H__1H1l =2H__4h__
+0:47  =2H__3M1H =2T__2M5L -2H__2h5L =2H____3L -2H1T__2l =2T1T1H5l -2T__1H3L -2T____2l -2T1H1H1l =2T______
+0:49  =2H____1H =2T____5L -2H____4L =2H____2l =2T______ -3H____1H =3H__1h4l =3H__1h5l -2H1T__4l =2T1T1h5l
+0:51  -2T__2h3l =2H__1h1M -2H__1h__ =3H__1h__ -3H____1H :2H__1h5l -2H____5L =2H____4L -2T____2L -2T__1h1m
+0:53  =3H__4h__ =3H__2h1H =2H__1h5L -2H__2h5L =2H__1h4L -2T1T__3l =2T1T1h5l =3H__1h3L -2T__1h2l =2H______
+0:55  -1H______ :3H____3m =3H____5L ~3H____2l -2T______ :2T______ -3H____1H =2H__1h5l -2H__2h3l =2H__1h5l
+0:57  -2H1T1H4l =2H2T1H5l -2H1H2h3l =2H__1h1m -2H1H1h__ -2H1T1H__ :2H2T1H__ -2H1T__1H =2H1H1H5l -2H____4L
+0:59  :2H____3L -2H1h__2L
+
+
++================================================================================+
+  Faithfully - 9ockin Soldier Kidd
+  394 codons | 1:00 | 6.6 codons/sec
++================================================================================+
+
+0:03  :__1M3T3M =____2h4m -1H__2H2m :1T__3H2m -2H__3h4l =1H__2h3m =4H__3h5m :2H__1H4l -2H__1h1M -2H__1H__
+0:04  =3T__3M__ =1H__1h__ =3T__1H4m -1T__2h4m -2H__2h4m =3T__2h1h ~2T__2M__ :3H__3h__ =3H__3M__ :2T__2h__
+0:07  -1T__2h__ :2T__2H__ :3H__1H__ =3H__3M1H -1T__1h4m -2T____5m =3H__1H5m =1H__3h4m =3H__2h2h -2T__3h4l
+0:09  =1H__2h3m :3T__2h1h =3H__3h4l -____2h1H :1T__1H__ :3T__2H__ =3H__3h__ =2T__1h1H =3H__1H5m -2T__3h4m
+0:11  -1T__2h4m -3T__2h1H ~3T__3h__ =3T__4M__ -3T__2h__ -3T__2h__ -3T__1H__ =3T__3h1H -2T__1H5m -2H__1H5m
+0:13  =3H__1H5m -____1H4m -__1T4h4m -2H1T2h4m -4H1T2H1M -2H1T4M4m :1H2H3h4m :2H1T2h4l -2H1T1H1h -3H1T4h4m
+0:14  -2H1T2h4l -4H1T1H1h -3H1T1H__ -1H1T4h__ -1H1T3M__ =2T2T2H__ -4H1T1T__ -3H1T1H4m -2T1T__4m :3H1T2H4m
+0:16  :2H__3h4m =3H1T2h4m :3H1T1h2h :3H1T2H__ -3T1T4h__ -3T1T2h__ -3H1T1h__ :4H1T2H__ -3H1T4M__ -2H1T3M__
+0:17  -4H1T2h__ -4H1T1H__ -3T1T4h__ :2H1T3h__ :2H1T2h__ -2H2T2h4m :4H1T1H5m :2H__2h5m :3H1T2H5m -4H__1H5m
+0:18  -3H1T1H5m :3T1T3H5m -3T__3h4m -2H1T1h4m -3H1T2H2M -1H1T3h4l =2T2T2H4m -3H1T1H2h -4H1T3h4m :2h1T2h4m
+0:20  :3H1T1H4m -4H1T1H2h -2T1T1H__ -1T1T4h__ -3T1T3h__ -2H2T2H__ :4H1T1T__ -3T1T____ -3H1T1H4m -3H1T1H4m
+0:21  -3T1T3h4m -3H1T2h4m -3H1T1h2h -3H1T3h__ -4H1T2h__ -3H1T1h__ -3T1T3h__ -3H1T3h__ -4H1T2H__ -2T1T1H__
+0:23  -2H1T4h__ -2T1T2h1H -2T2T1H4m :3T1T__4m -3H1T__5m :3T1T2H5m :4T__1H4m :4H1T__4m :3T____4m :4H1T2H4m
+0:24  -3H1T3h4m -2H1T1H4m -2H1T2H2h -1H1T4M4l -3H1T2h4m :3H1T1H2M :3T1T2H1h -3H1T4h4m -2H1T2h4l -4H1T1H2h
+0:25  :3T2T1H__ :2T1T1H__ -2H1T4h__ -2H1T3h__ -3H1T1H__ -3H1T1H__ :3T1T1T1H -2T1T1H4m -3T1T__4m :4H1T1T4m
+0:27  -3H__3h4m -2T__2h4m -3H1T2H2H -2H1T4h__ =3T2T3h__ -3H1T2h__ :4T1T2H__ -3H1T4h__ :4h1T3M__ -4h1T3M__
+0:28  -4H1T2H__ :2H2T1H__ :1T1T2H__ -2H1T4h__ -3T1T3h__ -2H2T1H4m :2H1T__5m -4H1T1H5m -2H1T1H5m -3H1T1H5m
+0:29  -4H1T3h4m :4H1T2h4m :2H1T1h4m -2H1T2h1H -3H1T3h3m -3H1T2H4m -2T1T1H1H =3T1T3h4m -4H1T1H1H :3H2T2H__
+0:31  -2H1T1H__ -2H1T4h__ -2T1T3h__ -2H2H2H__ -2T1T1T__ :3H1T1T1H :3H1T2H4m :4H1T__5m -2H1T__5m -4H1T2H4m
+0:32  -2H1T3h4m -2T1T2H4m -3H1T2H1H -3H1T4h__ -2H1T2H__ -3H______ =4T1T____ :4H5h2h1h -4H1H1H1H -2T______
+0:34  -3H______ -3H1T____ :3H5h2H2h =2T1H1H1H :4H2H1H__ :4H5h2h2h -3T2H1H1H -3H1H____ :4H5h2H3M -3H2T2h4m
+0:35  :2H__1H4m :3T1T1H3m :3T1T2H1h :3T3T2H1H -2H3H2h4m -2T1T2H4m :4H1T1H3m :4T2T1H1M -3T4T3h4m -3T4H1H4m
+0:36  :4T1T1H4m -4H1T1H1M :3H2T2H__ :2H2H1H__ -2H3H____ =2H______ -2H______ :3T______ -3H______ =3H1T____
+0:37  -4H3H2h3m -3H1T2h4m :3H1T1H3m -2H1T1H1H :2T4H2h__ -2H3H3h__ -3T1T2h__ :2T1T2h__ :3T2T1H__ -2T4H2h__
+0:38  :2T4H2h__ -2H4H2h__ :4H1T2H__ -4H1T1H__ :3H2T1H__ :3H1T1H__ =3H2T2h__ -3H2H1H4m :4H5h1H4m :4H3h1H4m
+0:40  :3H5h1H3m :3H5h1H2M -2H4h1H4m -3H3H2h4m -3T1T1H4m :2T1T2H2h :3T2T2H__ :2H5H2h2M :1T3H2h3m =2T1T2H4m
+0:41  :2H1T1H3m :3T2T1H1h -3H4T2h3m :4H4H2h4m -3H3T1H4m -4H1T1H1M -3H1T1H__ =3H4H3h__ -2H4H2h__ -2H2H2H__
+0:42  -3H3H1H__ :2T1T2H4m :4H1T1H5m -3H1T__4m -4H3H2h4m -3T1T2h4m -4T4H1H1h -2T4H3h__ -2H2T2h__ -4H2T2H__
+0:44  -2T4H3h__ -3H4H2h__ -4H1T2H__ -3H4h1H__ -3H5H2H__ -2H3H2h1h -3H2H1H4m :3H5h1H4m :3T3H1H4m -3H5h1H3m
+0:45  :4H5h1H4m -2H4h1H4m -3H3H3h3m -3H1T1H4m -4H2T2H1M :3H5H2h2m :2H2T3h4l :2H2T2h4m :2H1T2H4l :1H1T1H2m
+0:46  :3T2T1H1M :3T5H3H3M :1T3T4h4m -3T3H2H4m -3H1T1H2M -1H2T1H__ :1H5H3h__ =1H1T3h__ -3H2H1H__ -3H3H1H__
+0:48  -4H1T1H4m -3H1T__4m -4H3H2h3m -2H__2h3m :3T1T1H3m -4H2T1H1H -3H4H3h__ -3H2T3h__ :1T1T2h__ :2T1T2h__
+0:49  :3T2T1H__ -2T4T3h__ =3H3H2h__ -3T1T2H__ -1H1T1H__ :1H5H2H1h =1T1T3h__ -3H2H1H4M -4H4h1H4m :4H3H1H4m
+0:50  -2T5h1H3m :3T5h1H2M -2T4h1H4m -4H3H2H4m -3T1T1H4m -3T2T2H1h -2H4H2h3m =3H1T2H4m :2H1T1H2m :3T2H1H1h
+0:52  :2T5H3H2M :3T3T3h4m =4H3H1H4m -4H1T1H2M -2H1T2H__ :2T2H1H__ -2H4T3h__ :2T4H3h__ -2T3H2h__ -3H2H1H__
+0:53  -3H3H1H1H -4H1T1H4m -4H1T1H4m -4H3H2h3m -3T1T2h3m -3H4T1H1h -3H3H3h__ -3H2T2h__ :2H1T2H__ -2T2T1H__
+0:54  -2T4H3h__ =4H3H2h__ -4H2T1H__ -3T4h1H__ -3H5H1H1M -3T3H1H1h -3H2H1H4m :2T5h1H3m :2T3h1H4m -3T5h1H4m
+0:56  -2H4h1H4m -3H3H2h3m -3T1T1H4m -3H2T2H2M -3T4H3h3M -4H1T2H4m :4H1T1H3m :4H2T1H1M -3H4T3h4m -2H3H1H4m
+0:57  -3T1T1H2M -2H2T1H__ :3H5H3h__ -3H2T3h__ -3T1T3h__ -4H2H1H__ -3H3H1H__ -3H1T1H4m -2T1T__4m =3T2H2h3m
+0:59  :2H1T1h3m -2H2T1H1h -4H4H2h__ -3H1T2H__
+
+
++================================================================================+
+  Live and Learn - Jackboy
+  371 codons | 1:00 | 6.2 codons/sec
++================================================================================+
+
+0:00  =____3M__ ~____2h__ -____1h__ -____3h__ =____2h__ =____2M__ =____2h__ =____1h__ -____2M__ =____1M__
+0:03  =____2M__ =____2h__ -1H__1h__ -3H__2h__ :2H__2h__ =2H__2h__ =2T__3M__ :2T1H3M__ -2H__3M__ :2H1T5h__
+0:05  -2H1T5h__ =1H2T1H__ :2H5H____ -3H1T____ :2H1T1H__ :2H1T2h__ -2H__1h__ =2H____1H =4H__1h4l -3H__1h4l
+0:06  :3T__2h4l -3H__2h4l -3H1T1h4l =3h2T__4l -3H__2h2l =2T__1H4l -3H1T__4l -3H1T1H4L -3H1H1h2l -3T__2h__
+0:08  -2H1T____ -3h4H____ :4H1T____ :4H1T1H__ -5H__2M__ -4H1T1H__ -4H1H1H1H =3H____4l -2H__1H4l -4h__2h3l
+0:09  -3H1T1H1M -3h4H____ :3h1T____ -3H__1h1H =3H____4l =3H__1h4L -3H__2h3L =4H1T3h1M -3H1T1H__ -3H4H____
+0:11  :3H1T____ :4H1T1H__ -4H1T2h__ -3H1T____ -2H____1H =3H__1h4l -3H__1h4l -3H__1h4l -3H1T__4l :3h3H__4l
+0:13  :3H1T__4L :3h1T1h4L -3h__2M4l =3h__1h5m -4H1T1h3l -3H__2M__ :3T1T1H__ -3H__1M__ =3H1T2h__ -2H______
+0:14  =3H3H____ -3h1T1H__ =3H1T1H__ -4H1H__1H -2H____4l -1T1T__5l :3H__2h4l -3H__2h3l -3H1T1h4l -3H3H1H4l
+0:16  :2H1T__4l :3H1T1H4l -3H__2M3l =2H__1h4l =3H__1M4L =3H1H2h3l -3H1T2h1m -3T1H1H__ -3H4H____ :4H1T____
+0:17  :3H1T1H__ -3H1T2h__ -3H1T1H__ -1T1H____ :2T1h1h2h -3H__3h4l -1H1H3h5l :3H1T2h4l -3H__2h4l -3H1T1h4l
+0:18  :3h4H1h4l -3H1T2h4l -3H__3h2l -3h__1h4l -3H1T3h4l :1H1T3M5L :1T1H3M4L -2H1H3M2l =4h1T2h__ :4H1T2h__
+0:20  -3H2T2h__ :3H4H1H__ :3H1T2H__ -3H1T4h__ -3H1T2h__ :3H2H3h__ -3H__2h2h -____2h5m :__1T2h5l -____2h5l
+0:21  :1T__4h4L :1T1T3h3l -2H1T3h1l :3T2H3h__ -3H3T1H__ :3H1T1H__ -3H__1h2h =3H__2h4l -4H__2h4L =4H__3h3l
+0:23  -4H__4h1M -2H1T2h__ -3H4H3h__ :4H1T4h__ -4H1T4h__ -3H1T4h__ -2h1T2M__ =3H__1h4l :3H1T1h4l -2H__1h5m
+0:24  -2H__1h5m -3H1T1h4l -3h3H2h4l :3H1T2h4l -4h__2h4l -3h__1h5m =4H1T3h3l -3H1T3M__ -3h__3M__ =4H1T3h__
+0:26  -2T1T2h__ -3h4H1H__ :4H1T1H__ -4H1T4h__ -3h1T4h__ =4H1H2h1H -2H__2H5m :1H1T1H5l -1H1H1h5l :3H__2h4l
+0:27  -4H__2h3l -3H1T2h4l :3H4H2h4l :3H1T2h4l -4H__3h3l =3H__2h4l =3H__1h4L -3H__2h4L -3H1H2h3l -3H1T3M1m
+0:29  -2H2T1h__ -3H4H1H__ :4H1T1H__ :3H1T2h__ -4H__3h__ -4H__2h__ :4H1T1H__ -3H______ :3T__2h3m -3H__3h4l
+0:30  -3H1T2h4l :4H1T2h4l -3H__2h4l -4H1T1h4l -2h3H2H4l :2h1T3H4l -2h1T3h3l :2T__3h2l =3H__2h4l -3h1T3h4l
+0:31  -3H1T2h4L =3H1H3h2l -2T__3h__ :3T1T2h__ -4H1T2h__ -3h4H1H__ :1H1T____ -2h1T2h__ -3H1T____ =4h1H__1H
+0:33  -3h____4l =3H__1h4l -3h__2h3l -2H1T1H1M =4h2T____ :4H1T1H__ -3H__2M1h -3H__1h4l -2T____5l =3H__2h4L
+0:35  -4h__3h3L -3h1T5h1l =4H__3M__ -2H__4h__ -1H__4h__ =5h__4h__ -5H__2h__ -3T__4M__ -3H__3M__ :4H__3M__
+0:36  =3H__2h__ =3H______ :3H__1h__ :4H__2M__ :5H__2M__ =3H__1M__ =2H__1M__ :3H__2h__ -3T__3h__ =4H______
+0:38  -2H3H1h__ =1H1T4h__ -3H1T3h__ :3H2H2h__ -2T1H2h1H -4h__2h4l -3H__2h4l -3h__3h3l -3h1T1h4l :3h3H1H4l
+0:40  -2H1T1H4l :3H__1h4l :3H__1h3l =3H__1h4l -3H__2h4L -3H1H2h3L -3h1T3h1l -4H2H2h__ =2H3T2H__ -4H1T2h__
+0:42  -4H1T1H__ -4H1T1h1H =4H__1h4l -3H1T1h4l :__1T3h5L :____3h4l -__1T1h5m =__3T__5l :__1T2h3l :____2h2m
+0:43  -1H__1h5m :3H1T1h4l -3h1T1h4l -3H1T1h4l -3H1T1h2l =4h1T2h__ -4H1T____ -3H4H____ :1H1T____ :1h1T1h__
+0:45  :3h__2h__ =3H1T1H__ =4h1H__1H -3h____4l =3H__1h4l -2h__3h3L -2H1T1H1m -4h3H____ :4H1T1H__ -3h__2h1H
+0:46  -2H__2h4l =2T__1h5l =3H__2M4L -3H__2h3L -2h__4h1l :4h1T3h__ -4H1T1H__ -3h4H1H__ :1H1T1H__ :1H1T1H__
+0:48  -2H1T2h__ -5h1T1H__ -4H____1H -2T__1h4m :2H1T__4l -3H__1H5m -3H__1h5m -2T1T__4l -2H4H__4l :2H1T__4l
+0:49  :3H1T1H4l :3H__2M4l =3H__1h5m -3H__1h3l -3H1T2h__ -2T__1h__ =3T__3H__ -4H1T____ -3H4H____ :1H1T____
+0:51  :1H1T2h__ -2H1T2h__ -3H__1H__ =2H1H__1H -3H____4l =3H__1H4l -3h__2h3l -3h1T1h4l -3h3H1H4l :3H1T__4l
+0:52  :3H1T1H4l :3T__1h3l =3H__1h4l -3H__2M4L -3H__2M3L =3h1T4h1m =4H1T1H__ -3H______ ~4H______ :5H__1h3l
+0:54  -4H__1h3l -3H__1h4l -3H__2h4l -3H1T1h4l =3h2T__4l :4H1T2h2l -3H__2M2l -2T__2h4l :2T1T1H4l -3H__1h4l
+0:56  -3H1T2h4L -3H1H1h2l -3T__4h__ -2H1T____ -3H4H____ :3H1T____ :4H1T1H__ -4H1T2M__ -4H1T1H__ -3H1H__1H
+0:57  =3H____4l -2H__1H4l -3H__3h3l -3H1T1H1m -3h4H____ :3h1T1H__ -3H__2h1H =3H__1h4l =3H__2M4L =3H__2M3L
+0:59  -3H__4h1m
+
+
++================================================================================+
+  Left Lonely - Hotboii
+  353 codons | 1:00 | 5.9 codons/sec
++================================================================================+
+
+0:00  ~__1h3M__ =__1M3m__ ___1M3m__ _____3m__ ~__2H3M__ =__2H2h__ ~2T__1h__ =3h1M3m__ =4h__3m__ -3h__3m__
+0:04  -3h__3m__ =3M1T3M__ :3h1T3M__ =3h1T3h__ :3h1T2M__ -3h1T2h__ =3h__2M__ -4h__2M__ =4h__2M__ =4h__2M__
+0:06  -4h__2M__ :3M1T2M__ :3M1H2h__ =4h1T1H__ :4h1T1H__ -5h__1h__ -4h__1h__ =5h__1h__ -5h__2H__ =5h__1h__
+0:08  :3h__2h__ -4h1H2H__ :4h__3h__ -2h1T2H__ ~__1H3M__ -__1H4H__ =__1H3h__ -__1H3H__ ~__1H5h__ =__2M3M__
+0:10  :__3M3h__ =__3m3M__ =__3M2M__ -__2M3M__ -__3M3h__ =__2h3h__ -__2M3M__ -2M2M3M1m -1h2M3h1m ~1h2M2h1m
+0:13  =__2M2h1m :__2h2h1l =__3M2h1m ~__2m2h__ -__3h2h__ ~__3h1h__ =__3M1M__ ___1M____ -__1l2M__ -____2M__
+0:17  =____3M__ -____2M__ =____2M__ -____2M__ -____2M__ -____4M__ -____2M__ -____3M__ -____2M__ -____2M__
+0:19  =____3M__ -____2M__ -____2M__ =____3M__ -____2M__ =____2M__ -____2M__ -____2M__ -____3M__ -____2M__
+0:21  -____2M__ -____2M__ -____2M__ =____3M__ -2h__2M__ -2h__2M__ =2H__2M__ -1T__2M__ -2H__2h__ =1T__2M__
+0:23  -2h__1h__ -1h__2M__ -2H__2M__ -2H__3M__ :1H__1M__ :1T__2M__ -1H__2M__ -____2M__ -____2M__ =____2M__
+0:25  -____2M__ -____2M__ -____3M__ -____2M__ -____2M__ =____2M__ -____2M__ -____2M__ -____3M__ -____2M__
+0:27  -____2M__ -____2M__ -____2M__ =____2M__ =2h__2M__ -2H__2M__ -1H__3M__ :2H__2M__ :2h__2M__ -2H__2M__
+0:28  -2H__2M__ -2H__1M__ -1T__2M__ -2H__1M__ -1H__3h__ :1H__2M__ -1h__2M__ :1H__2M__ :1H__2M__ -1H__2M__
+0:30  :____2M__ :1H__2M__ :1H__2h__ -1h__3M__ :____1h__ :1h__2M__ -____2M__ -____2h__ -____3M__ :____2M__
+0:31  :____2M__ -____2h__ -____2h__ -____1h__ -1H__2M__ -2H__1M__ =2H__2h__ -2H__2M__ :2H__2M__ -2H__2M__
+0:32  -1h__2M__ -1H__3M__ -1H__2M__ :2H1T1h__ -3H1T1h__ -1H1T1h__ -__1T3h__ -__1T2h__ :__3H1h__ :__1T1h__
+0:34  -__1T2H__ :__1T1h__ :__1T1h__ -1H1T2h__ :2H1T1h__ -3H1T1h__ :2H3H2H__ :2H1T2H__ -2H1T2h__ :1T1T1h__
+0:35  -1T1T2h__ :2T2T2h__ -3H2T1h__ -1T1T1h__ -2h1T2H__ =2H1T1h__ -2H1T2h__ :__1T1h__ :__1T1h__ -1H1T3H__
+0:36  -1H1T2h__ :1H3H1h__ -1H2T1h__ -__1T2H__ :__1T1h__ :__1T1h__ :1H1T2h__ :2H1T1h__ -2H1T1h__ :2h3H2H__
+0:37  :2H1T2H__ -2h1T1h__ :2h1T1h__ :2h1T2h__ :3H2T1h__ :2H2H1h__ :2H1T2h__ -1H1T1h__ =2H1T2H__ -1H1T1H__
+0:39  :3H1T2H__ -2H1T2h__ -1H1T1h__ -1H1T2H__ -1H1T1h__ =1H2T1h__ -__1T2H__ -__1T1h__ :__1T1h__ -1H1T1h__
+0:40  :3H1T1h__ -2H1T1h__ :2h3H2H__ :2H1T2H__ -2h1T1h__ -2H1T2h__ -3H3H1h__ :3H1T1h__ -2H1T1h__ -2H1T2H__
+0:41  -1H1T1h__ =3H1T1h__ -2H1T1h__ -1H1T2h__ =1H1T2h__ :1h3H1h__ -2H1T1h__ -1H1T2H__ -1H1T1h__ -1H1T1h__
+0:43  :2h1T1h__ -3H1T1h__ -2H3H1H__ :2H1H2H__ =3H1T1h__ -2H1T1h__ -2h2H2h__ :1T1T1h__ -1T1T1h__ -2H1T2H__
+0:44  -2H1T2H__ :3H1T1H3M -3H__1h5l :2H1T1h5L :2H__1h5L :3H1T1h4l -1H1T2h3l -2H1H1h5l -2H2T1h4l -2H1T2H3l
+0:45  =2H1T1h4l :1H1T2h4L :3H1T1h3L -2H1T1h3l :2H2H2H2l :2H1T2H2l -2h1T1h5L -2h1T2h4L =2H2T1h3L -2H1T1h2l
+0:47  =2H1T2h__ -2h1T1h__ -2H1T1h5l :1T1T1h5L -2T1T1h5L -1H1T2H4l :1H1T1h5l :2H1H1h5L :2H3H1H4l :3H1T1h4L
+0:48  -2H1T2h3L =2H1T1h4l -2h1T1h4L :3H1T1h3L :2H2T1H3l :2H3H2H2l :3H1T2h2l -2H1T1h5l -2h1T2h4L -2H3H1h3l
+0:49  :2H1T2h3l -2H1T1h5l -2H1T2H4L -3H1T1h3l -2H1T1H5l -2T1T1h4L -2H1T2h3l -1h1T1h5l -2H2H1h4L =2H1T2H3l
+0:51  -2H1T1h5L -2H1T1h4L =3H1T1h3l :2h3H2H2l :2H1H2H1l -2H1T1h4l :2H1T1h4l -2H1T2h5L :2H3H1h4l :1T1T2h4L
+0:52  -2H1T1h5l :3H1T1H4L :2T1T3H4L :2H1T2h3L -1T1T1h3l -2H1T1h5l :3H1T1h5L -2H1T1h4L -1T1T2h3L -2H1T1h5l
+0:53  -2H2T1h4L -1H1T2H3L =2H1T1h1H :1H1T2h__ :2H__1h__ -2H__1h__ -3H__2H__ =2H__1h__ :1H__2h__ =2H__2h__
+0:55  :1H__1h__ :2T__1h__ =2T__2h__ =3H1T1h5l -3H1T1h4L :2H1T3h4L :2T1T2h3l :2T1T1h5l :1T1T1h5L -2H2T1h4L
+0:56  -1H1T2H3l -__2T1h5l -1H3H1h4L -2H1T1h3L :3H3H1H2l -3H1T2H2l -2H1T1h4l -2H1T2h4L -2H2T1h3l -2H4h1h2l
+0:58  -2H1T2H__ :2H1T2h__ -1H1T1h__ =2H1H1h5l :3H1T1h5L :2H1T1h4L -2H1T2H3L :3H1T2h3l -2H1T1h5l -2H2T1h4L
+0:59  -1T1T2h3L =2H1T1h4l -2H3h1h4L
+
+
++================================================================================+
+  Real Me - Hurricane Wisdom
+  316 codons | 1:00 | 5.3 codons/sec
++================================================================================+
+
+0:00  =1H______ -1H______ =1h______ -1h______ -1h______ =1h______ :1H______ =1h______ -1h______ -________
+0:02  :____2h__ ~____3m1l ~____1m1l ~____1m1l ~____1m1l =____1m1l =1H__1h1l -2H__1h1l ~____1M1l =1h__1M__
+0:06  -3H__1h__ -3h__1M__ -2H__1h__ :1H__2h__ -1H__2M__ =4h__4m__ =1h__2M__ ~1h__2M1l =1h__1M1l -____1M1l
+0:08  =____1M1l =____1m1l :____1M1l =____1M1l =______1l :______1l ~______1l :____1M1l :____1M1l ~______1l
+0:11  :______1l ~____1M1l =1H__1h1l =2H____1l =3h____1l =2H__1h1l -2H____1l -1T__1h1l -2H__4M1l -1H__3M1l
+0:13  -____2M1l =____1M1l -____1h1l -____1h1l -1H__1M1l :1H__1M1l =2H__1M1l -1H__2h1l -1H__1M1l -1H__1h1l
+0:15  :2T__1h1l =1H__1h1l -____1h1l -1H__1h1l -1T__1h1l -1H__1h1l -1H__2h1l -2H__1h1l :2h__1h1l :2H__1h1l
+0:16  -2h__1h__ =2H__1M__ =1T__1M__ -1H__1M__ -1T__1h__ =1H__2h__ -1H__4M__ -1H__3h__ =1H__3h__ -1T__2h__
+0:18  =1H__3M1l -2H__3M1l -2h__2M1l -2h__2M1l -2H__1M1l -2H__1h1l -2H__1M1l -2H__1M1l =1H__1M1l =2H__1M1l
+0:19  :1H__1h1l -1H__1h1l =1H__1H1l -1H__1H1l =1H__1H1l :1T__1h1l -1H__1h1l -2H____1l -2H__1h1l -2H__1h1l
+0:21  -2H____1l -2H__1h1l -2T__1h__ -2T______ =2H__1h1l -2H__1h1l :2H__1H1l -2H____1l -3H____1l =2H____1l
+0:23  =2H__1H1l -1H__4M1l :2H__3M1l -3T__3M1m -2H__2M1l -1H__1M1l -2H__1M1l =2T__1h1l :2H__1h1l -2H__1M1l
+0:24  -3T__2M1l =2T__1M1l =2H__1M1l -3H__2M1l =2H__1h1l =2H__1h1l -1H__1h1l -2H____1l -2H____1l -1H____1l
+0:26  :2H____1l -3H____1l :3H______ :3H______ -2H______ =2H______ -2H______ =2T______ -3H__2h__ -3H__5M__
+0:28  -2H__3M__ =1H__2M__ -1H__4M__ :1H__4m__ -3H__4m__ :2T__3M__ :1T__2M__ :2T__2M__ -2T__2M1l -3H__2m1l
+0:29  -2H__2M1l -2H__1M1l -2H__2M1l -2T__3M1l -3H__2M1l -2H__1M1l -3H__2M1l -3H__3M1l -4H__2M1l =3H__1h1l
+0:31  =2H__1h1l =1H__1h1l :1H____1l -2T____1l -2H____1l -3H____1l :3H______ -2T______ -2T__1h__ -2H______
+0:32  =2H__1h1l -2H__2M1l :2T__2M1l =2H__2M1l =2H__1h1l =2H1H__1l -2T5l2M__ =1T2l2M__ -2T__1h__ =2H__1h__
+0:35  =2H__1M__ -1H__1M__ -2H__1M__ -2H______ -3H______ :4H__1h__ -5H__1M__ =1h______ -1H__1M__ =1H______
+0:36  -2H____5l -2T____3l :2T____2l -2H____1l :2H__1M1l -2T__1H__ -2T______ =3H______ =3H__1H__ -1H__1h__
+0:38  -1H__1h__ :2H______ -2T__1H__ -3H__1h__ -3H__2m__ =3H__2M__ =3H__1M1H =2H__2M4L =2H__2M2L ~1H__1M__
+0:40  :1H__1M__ -1H__2M__ :1h__1M__ :1H__1M__ :3H__1h__ -3H__1M__ -2H__2M__ =2H__2M__ ~2H__1M__ :1H__1M__
+0:41  -1T__1M__ :2T__1h1H =2H__1h5l =2H__1h2L -1H__2M1l -2H____1l -2H______ -2H__1h__ :2H__1M__ =3H__1h__
+0:43  -1H__2M__ -1H__2M__ -2H__1h__ -2H__1h1h -2T__1h5l :2H__1h4L :3H__1h3L =4H__1M1l -5H______ =2H______
+0:45  ~1H______ =2H______ =2T1H2h__ -1T1H2h__ -2H__2h__ -2H__1h__ -1H__1M__ -1H__1M__ -1H1H3M__ :1T4h2h1m
+0:47  -1T3m1h1m =2T1h1h1l -2H1T1H__ -2T__1H__ -2H__2M__ -2H__1h__ -2H__2M__ -2H__3M__ =2H1H2h__ =2H__1h__
+0:49  -2T1T1H__ :3T__4M__ =3H__4M__ -1H__2M__ -3H1T1h1h -2H1H3h5l =1H__3M3L -1H__3M2l -____5M1l :1H__3M__
+0:50  :1H__2M__ -1H__2M__ :1H__1h__ -2H__1M__ -2H__1h__ =2H1H2h__ -2T__3M__ -2H__1h__ :2H1T1H__ =2H__1M__
+0:52  -1H__1M__ =1H__2M1H =2H__1h5l -2T__1h3L -2H__2h2L -2H1T1h1l -2H__1h__ -2T__1h__ =2T__1h__ =2H__1h__
+0:54  =1H__2M__ =2T__1h__ =2T__1h__ =2H__2M__ -2H2T2h__ -2H4M3M__ -1H2l3M__ -1H1h2M__ =1H__1M__ -1H__1h__
+0:56  -____1M__ -____1h__ ~1H1T1H__ -1H______ -2H______ -1H______ =1H______ =1H4M____ -1H2m1h__ -1H1h____
+0:58  =________ -________ =1H______ -1H1H____ :2H______ -2H______
+
+
++================================================================================+
+  Dont Need Time - Hotboii
+  230 codons | 1:00 | 3.8 codons/sec
++================================================================================+
+
+0:00  =1T______ -2T______ -2H______ -2H______ -1T______ :2T______ -2H______ :2T______ =1H______ -1H______
+0:02  :2H______ -2H______ -2H______ -2T______ -2T______ :2H______ =2H______ _________ ~____3M__ _____2M__
+0:11  ~____4M__ -____4M__ -__1T4M__ -____3M__ ~____3M__ _____2M__ ~____2M__ ~2T__3M__ =3H__1M__ ~1H__1M__
+0:15  -2T__1h__ =1T__1M__ _____1M__ =____2M__ =____1h__ ~____1M__ ~____2M__ _____2M__ ~____2M__ =____5M__
+0:21  =____3M__ _____3M__ =____2M__ ~4h__1M__ :1H__2M__ ~3h__2M__ ~____4M__ ~____2M__ -1H__2M__ -3h__1M__
+0:24  -2h__1M__ =2H__1M__ ~2h__1M__ -2h__1h__ ~3h__1h__ -4h__1h__ ~3H__1h__ ~1h__1h__ ~____3M__ -1H1T2h5l
+0:28  -3H__2M4l -3T1T2h3l -2T2T2h3l :2T4H2H2l ~2H1H1h1h -4H__1M__ -4h__1M__ :4H2T1h__ :4h1T1h__ :4h2T1H__
+0:30  :4h1T1h__ =3h4T3h__ -2h1T4M__ =4h1T2h__ =1h1T4M__ =3H1T4h__ -4H3T2h__ =3H1T2h__ =4H1T2h__ -2H1T2h__
+0:32  -3h1T1h__ -4H1H1h__ -4h4T2h__ -3H1T1h__ =4h__1h1H :2H1T2h5l =2T__2M4l -3H1T2h3L -4H2T2h3l ~2H1H1h1M
+0:34  -4h__1h__ -2T__2h__ -4h1T2h__ -2H2T2h__ :1T2T1h__ :1T3H1h__ -3H3T1H__ -3h1T1h__ =4h__1h__ -4H______
+0:35  -4h1T1h__ -4H1T1h__ :3H1H1h__ =4H4T1H__ :3h1T1h__ -3h__1h__ -2H__1h__ =3H1H1h__ =3H1T____ =3H2H2h__
+0:37  :4h1T2h__ =4h1T1h1H -1h1T2h5l -3H__2M4L -3T1T2h3L :1T1T2h2L :2T4H2H2l =2H1H2h1M :1T__2h__ :2T__2h__
+0:38  -4H__2h__ -4h__1h__ -4h2T1h__ :3h2T1h__ :4h2T1h__ :3h5H2h__ -3h3T4h__ -2h1T3M__ =4h1T2h__ =2h1T3M__
+0:40  =3H1T2h__ -4H3T3h__ =3H1T2h__ =4H1T2h__ -2H1T1h__ -3h1T1h__ -4H1H1h__ -4h3T1h__ ~4h1T1h__ :2h1T2h5l
+0:42  =2T__2M4L -3H1T2h3L -4H2T2h3L ~2H1H1h1M =3H__1h__ -4h1T1H__ -2H2T1H__ :1T2T1H__ :1T3T1H__ :3H5H1H__
+0:44  :4H2T1H__ -3h1T____ =4h______ -4H______ -4h1T____ -4H1T1H__ -3H1H1H__ -4H4T____ :3h2T____ -3h______
+0:45  -2H______ ~3H__1h__ =3h__3M__ =5h__1h1H =2H1T2h5l -3H2T2h3L -1h2T2h2L =4H2H1h1l ~4h__1h__ :3H1T1H__
+0:48  -3H2T1H__ -4h2T1H__ -4h3T3h__ -2h1T3h__ =4H__2h__ -4h1T4M__ -2T1T3M__ =2H1T3M__ =3H3T2h__ :3H1T2h__
+0:50  -2H1T1h__ =3H1T1h__ :4H1T1h__ -4H1T2h__ =3H1T1h__ -3H3T2h1h :1H3H1h5l =2H1H1h4l -2h1T2h5l -3h__2M4L
+0:52  -3h1T2M3L -3H2T2h2L -3H3H2h2l -3H__1h1l =4H__1h__ -4H__1h__ =3H1T1h__ :4H2T1H__ :4H2T1H__ -3H2T1H__
+0:53  -4h4T1H__ ~2h__1h__ -3h______ -3T1T____ =2H1T____ -3H3T1H__ -2T1T2h__ =3H__1h__ =4H__1h__ -4H2T1H__
+0:55  -2H1T____ -4h3H2h1H -3h1T1h5l -1h1T1h4L -____1h4L =2h1T2h5l -3h1T2h3L -2h2T1h2L =3h2H1h1l =2H__1M__
+0:57  =4H__1h__ -4H2T1H__ -3H2T1H__ -3h3T3h__ -1T1T3h__ =2h1T2M__ -2h1T4M__ -4h1T3M__ =3H1T3M__ -3h4T2h__
+
+
++================================================================================+
+  The Recipe - Kodak Black
+  347 codons | 1:00 | 5.8 codons/sec
++================================================================================+
+
+0:00  :____5M__ -1T__4M__ _1h__3h__ :2h__4H__ ~2h__3h__ =2H__2M__ :2H__2M__ =1H__2M__ =2h__2M__ :1H__2M__
+0:02  -1T__2M__ =1h__1M__ -____2M__ ~____4M__ =1h__3h__ =2h__3H__ =2h__2h__ -2h__2h__ :2h__4M__ =2h__4M__
+0:05  -2H__3M__ =2h__3M__ =2H__1M__ ~2H__2M__ :2h__4M__ =2H__4M__ -____4M__ ~1h__4h__ -1H__3h__ =1H__2h__
+0:08  -2T__2M__ -2h__2M__ :2H__2M__ =1H__2M__ =2h__2M__ -2H__2M__ -1H__1M__ -2h__1M__ :2H__1M__ -1T__1M__
+0:10  :2h__2M__ :2H__4M__ ~1H__3M__ =2h__3H__ -1H__2h__ -2h__1h__ -4H__1h__ :4h__1h__ :3h__2h__ :2H__4M__
+0:12  =2H__4M__ -2H__3M__ ~1H__2M__ =1h__2M__ :2h2T2h__ =1H3H4h__ =1H1T4M__ -2H1T3M__ -1H__3M__ :3H1T3h__
+0:14  =4H1T3h__ -3H__3h__ -4H1T3h__ :3H1T2h__ :3H1T2h__ -3H__2h__ =3T__2h__ -2H__2h__ :2H1T2H__ =3H__2h__
+0:16  :2H1T2h__ -2H1T1h__ -3H2H2h__ -3H2H1h__ :1H5h1H__ -2T2h1H__ -4h1T1H__ :2T1T1H__ -2T__1h__ =4H3h2h__
+0:17  =2T1T4h__ -2H1T4M__ :1H1T3M__ -1H1T3h__ =2T1H2h__ -2H__2h__ :3T__2h__ =3H1T2h__ -2T1T3h__ =4H1T4h__
+0:19  :4H1T4h__ -4H1H3M__ =3H3H2h__ -1H__2h__ :2H2T2h__ =3H2H1h__ -2H3h1h__ -3H1T2h__ =2H__1h__ :3H3H2h__
+0:20  =4H3h3h__ :1T__4M__ -1T__4M__ -2H1T3h__ -1H__3h__ :2H1H3h__ =3H1H3h__ -3H__3h__ -4H1T3h__ =2H__3h__
+0:22  =3H__2h__ =3H__1h__ =3H__1h__ :2H1T1h__ -2H__1h__ =3H2H1h__ :2h5h1h__ -3H2h1h__ -4H1T1H__ :3H1T1H__
+0:23  =2T1T1h__ =3H3H3h__ -2H__3h__ -2h1T3h__ :1h1T3M__ -2T1T3h__ :3H2H2h__ -3H1T2h__ -2H__2h__ =3H1T2h__
+0:25  -3h1T1h__ =3H1T4h__ :2H1T3h__ -2H1H3h__ =3H3h2h__ -2T__2h__ :2H2H2h__ =3H1H2h__ =2T1T2h__ -4H1T1H__
+0:27  :3H1T1H__ -2T1T2h__ =3H2H3h4l -3H1T3M5L -2H1T4M5l :1H1T3M5L -2H__3M5L =4H1H2h5l =2H1T2h5L =3H1T2h5l
+0:29  =3H2H1h5l =3T__2h5L -1H__2h5L :2H3H1H4l -2H4h2H4l :2H4H1h4l -2H3M1h4l :2H1H1h5L :3H2H1h5l -2H1H1h5l
+0:30  :1T4h1H4l -2T2h1H5L =3H1T1H5L -2T1T1H5l =4H2H3h4l -2T__3h5L :1T1T3h5L -2H1T5M5L =1H__3M5L =2T1H2h5l
+0:31  -2H1T2h5L :3H2H2h5l :4H4H2h4l -3H2T2h4l -1T3h2h5l :4H1T2h5l :4H__4h4l -3H1T3h5L =4H1H3h5L =3H2H3h4l
+0:33  -1H__3h5L :3H2H2h5l :3H2H2h5L -3H1H2h5L -2H3h2h4l :3H1T1H5L -3H1T1H5L :2H1T2h5l -1H__1h5l :3H3H2H5l
+0:34  =3H2H3h4l :1T__4M5L -1T__3M5L -2H1T4h5L =1T1T3M5L =3H1H2h5L -2H__1h5L =3H1T2h5L -2H2h2h4l =3H__2h5L
+0:36  :2H1T2h5L -3H1T1h5L -3H4h2H4l :2H4H2H4l -2H2M1h5L :3H2H1H5l -3H1H1h5L :2h4h1h4l -3h2h1h5L =3H1T1H5l
+0:37  -2T1T1h5l =3H2H3h4l -2H__3M5L -1H1T4h5L :1H1T4M5L -2T1T3h5L :2H2H2h5l -3H__2h5L :2H1T2h5L -2H1H2h5L
+0:39  =3H3H2h4l =2H2H2h4l =3H1T4h5L -2H1T3h5L =3H2H2h4l =1T1T3h5L =2H1H2h5L -2T__2h5L :3H3H2H4l -3H4H1H4l
+0:40  =2T3h1h4L -3H3H2h4l -3H1T4h5L =2H1T3M5L -2h1T3M5L :2h1T2h5L -1T__2h5L :2T2H2h5l =3H1T1h5L :2H1T2h5L
+0:42  -2T__2h5L =3h1T1h5L :3H1T1H5L =5h__1h5L :2H__1h5L -2T__1H5L =4H__1H5L -1h__1H5L :2H2H1H5l -3H1H1H5l
+0:44  =2H2H1H4l =3h1T__5l :2h____5L :2h1H1h5L =4h2H3h4l =2H__3M5L -3h1T2h5L :1h1T2h5L -2h__2M5L :2H2H2h5l
+0:45  -3H1H2h5L :2H1T2h5L -2T__2h5L =4H1T1H5l =3H1T2h5L =3H1T4h5L :2H1T3h5L -2h1H3M5L :3h4h2h4l -4H1H2h4L
+0:47  =3H1T1h5L :3H2H1H5L -3H1H1h5L -2H2h1h4L -4H1T1H5L -3h1T__5L -2H1T1h5L =3h2H3h4l :2h1T3M5L -1H__3M5L
+0:48  -3h1T3h5L :2h1T3M5L -2H1T2M5L =3H1H2h5l =4H__2h5L =3H1T1h5l -2h__1h5L =2H__1H5l -2H__1H5l :3h1T1H5l
+0:50  -4h__1H5l :4h__1H5L :3h1H1H5l =3H1H1H5l :2H4h1H4l -3H1H__5l =2h1T__5L -1h____5L :2H3H2H4l -3h2H3h5l
+0:51  -2h__3h5L -4h1T3h5l -2h1T2M5L :2h__2M5L =4H1H2h5l -2H__1h5L :1T1T2h5L -2H1T1h5L =1h1T1h5L =3H____2h
+0:53  -2h______ =2H______ :2H______ =2H______ -3H______ =3H______ -3H1T1H__ =3H2H3h5l =1H1T3M5L -1h1T3M5L
+0:55  =2H1T2h5L =4H1H2h5l =2h1T2h5L -4H1T2h5l :2H1T1h5L -2T__1h5L =4H__1H5L =3h__1H5L =2H____5L -2H__1H5L
+0:57  :2H2H1H5l -2T1H__5L :2T2H__5l -2T3M__4l =3T1T__5l =2h1H1H5L :__4h3h4l -1H1H3h5L =3H__3h5L -2h1T3h5L
+0:58  :1h1T3M5L =2H1T2h5L =4H1H1h5L :2H1T1h5L -3H__2h5L =3H1T2h5L :2h1T1h5L
+
+
++================================================================================+
+  Hellraiser - Yung Tray
+  368 codons | 1:00 | 6.1 codons/sec
++================================================================================+
+
+0:00  :__2T2h5l =1H__2h4L =2h1T2h2L -__1T2M1l -1H2H2M__ -1H__2M__ =1h__2h__ -2h__1h__ =2H1T2h__ -1H1T3h__
+0:01  -2H__3h__ :1H2T4h__ :2h2H4h__ :4H1T4h__ :3H1T3h__ :1H__4h__ -1H__2h__ -1h2H1h1h =1h1H2h4l -2h1T2h1l
+0:03  -2h1T3h__ =1h2H2M__ -1h1T2M__ -__1T2h__ -__1T2h__ -2h1T1h__ :1h2T____ -1H1T1H1h -2h1H2h4l -2h1H3M3L
+0:05  :__3H3h2l -2h1T3h1l -1h1T4h1l :1h1T3h__ -1h__2h__ :1H1T2h__ :3h1T1h1h -1h1T2H5l =3H__1h3L -1h1T1h2L
+0:06  =__1T3M1l -__2H2M__ =1h__2M__ =2h__2h__ :3h__1h__ -3h1T1h__ -2h1H1h__ :2h1T2h3m =2h1T2h4L -1h2H4h2L
+0:07  :1h1T3h4l :2h1T2h5l -2h__3h4L -1h__2h3L -1h__1h2L :2h1T1h3l -__1T2H5l -____2h3L -1H1T2h2l :4h1T2h2l
+0:09  -2h1T2h4l =1H2H2M2l -3h1T2M1l :2h1T2h__ :2h1T2h__ =1h1T2h__ -1h1T2h__ :2H2T1h__ :3h1T1h1h =1H1T3h3l
+0:10  -__2T4h2l -__1T3h5l -____3h3l -1h__2h2l :2h1T1h2l :2h1T2h4l :2h__2h4L -1h__2h4L :2h1T2M3L =1h1T2h2L
+0:11  :1h__3M1l =1H2H2M__ -____2M__ :__1T2h__ :1h1T3h__ :3h__2h__ -2h__1h__ -1h1T1h__ -__1T1h__ =__1T3h__
+0:13  -__1T3h__ :1h3H4h__ -3h__3h__ -1h__4h__ -1h__2h__ :2h__2h__ :4h1H1h1h =1H1H2h3l -__1T2h1l -____3h__
+0:14  :__2H3h__ -__1H2M__ -1h__2M__ -1H1T2h__ :2H1T2h__ -3H__1h__ -1H1T1H__ :1H2T____ :1H1T1h2h -1H1H2h4l
+0:16  :2H__3M4l -__1H3h3L :1H3H3h2l :3H1T4h1l -1h1T4h__ -1H__2h__ -1H1T1H1H =____2h4l :__1T2h3L :2h1T1h2L
+0:17  -2h1T1h2L -2H1T3M1l :1H3H2h__ :4h__2M__ -3h__2M__ :3h1T2h__ :2h1T2h__ =3H__2h__ :1H__1H__ :3h1H1h__
+0:18  -2h1T1h1h =__1T3h4l :__2H4h3l -1h2H4h2L -2H__3h1l :1H__5h1l -3h__3h__ -2h__2h__ :2h1T2H__ -2h__2h__
+0:20  -1h__2h__ -2h1T2h__ -1h__3h__ =2h2H3M__ -1h__2M__ :1H__2h__ :2H__3h__ :2H__2h__ -2H__2h__ =2H__1h__
+0:21  =3H__2h__ =1T__4M__ -3H__3h__ :2H__4h__ -4H__4h__ :3H__4h__ =3H__3h__ -2H__2h__ =3H__2h__ -2h1T1h__
+0:23  -3h1T1h__ -3h1T1h__ -3h2H1h__ -3H__2h__ =3H__2h__ -4H__1H__ -3T1T1H__ =__1T3h__ -2H2H4h__ -2H1T3h__
+0:25  :4H__3h__ -3h__2h__ :2H1T1h__ -1T1T1H__ -2H1T1h__ -2H__1h__ -2h1T2h__ -3T1T3h__ :2T3H2h__ -2H1H2M__
+0:26  -3H__2M__ -3H1T2h__ -2h1T2h__ -5h1T____ -2H1T____ =1T1T3h__ -1H2T1h__ -4H1T3h__ -3H__2h__ -2h1T1H__
+0:28  =3h__2h__ -3M1T____ -4H1T1h__ -3H2H1h__ :4H__2h__ -3H1T2h__ =3H__2h__ =5h__1H__ -2T1T1h__ =1T1T3h__
+0:30  -1H2T4h__ =4H1T3h__ -3H__2h__ -3H__1h__ =3H1T1h__ -2H__2h__ -3h1T2h__ -3H1T3h__ =2T2H2h__ -3H__2M__
+0:32  -3H1T2h__ -3H1T2h__ -4H1T____ -2H1T1H__ =____4M__ :1T2H3h__ -1H2H1H__ -2T1T3h__ :4H__3h__ -3T__2h__
+0:33  -2H____1H -2T__1H4l :2T__1h4L -2H__1h3L -3H1T__2L -3H1T2h1l -3H2T1h__ -3H__2h__ =2H__2h__ :4H__1H__
+0:35  -5h__1H__ -2H1T1H__ =__1T3h__ -1H2H4h__ =2T1T3h__ -3H__2h__ -1T1H1h1H =1H1H1h4l -2T__1h2l -2H1T1h1l
+0:37  -3H1T2h__ =3H1H2h__ -2T1T2h__ -3H1T2h__ :3h2T2h__ -3h__1h__ -4h1T____ -3H1T1H1H =1H__3h4l :__2H2h2L
+0:38  -__2T1H1l -2T1T4h__ -3H__2h__ -2T____1H -3h1T1H4l :2h1h3H4l -2H1H3H3l :1T1T4H2l :1T1H4h2l -2H1H3H1m
+0:40  =4h1H2h__ :3H1T2h__ -3H1H2h__ -4H__1h__ -4H1T____ -3H1T1h1H -2h1T2h4l -__1T2h3L =1H2T3h2L -2T__2h4l
+0:42  -2H__2h3L -2H__1h2L =2H__1h4l -2T__1h2l -2h1T2h2l -2H__2h4l =2H1H2h2l -3H1T2M1l -3H1T2h__ -2H1T2h__
+0:43  :3H__1h__ -5H1T1H__ -3h1T1H1H =1h1H3h3l -__2H1h2l :1h1T3h5l :3h__3h4l -3h__2h2l -2H__1h2l =2H__1h4l
+0:45  -3h__1h3L -3h1T1h2L -3H1T2h1l =3H2T1h__ -4H__2h__ =4H1T2h__ -3H__1h__ -3H1T____ -1H1T1H__ =1h1T3h__
+0:47  -2H2H4h__ =3H__3h__ -3H__2M__ -2H__1h1H =2H__1h3l -3T1T2h1l -3H1T2h__ =3H1T2h__ -4H1T2h__ :2H2H1h__
+0:49  -3H__1h__ -3H1T____ -2T1T1H1H =1H__3h4l :1T1H3h3L -2H2H1h2l =3H1T3h__ -2T__2h__ -1H__1H__ =2h__1h3l
+0:51  -2h1T__2L -2H__2h1l =3H2H1h__ -5h1T2h__ -3H__2h__ =3H__1H__ -2H1T1H1h -2H1T2h4l :____3h4L :__2T3h3L
+0:53  -1H2H4h2L :3H1T3h3l -2H__2h4L =2H__1h3L -2T1T1h4l -2H__1h3l :3H1T1h2l -3h1T1h2l -2H__2h4l =3H1H2h2l
+0:54  -2H__2M1l =3H__2h__ -3H__2h__ =2H__1h1H =1H__3h3l -____1h2l -1T__3h5l =3H__2h2l -3H____2l =2H__1h4L
+0:56  =2T1T1H2l -1H__2M1l =3H2H1h__ -3H__2h__ =4H1T2h__ -2T__2h__ -3H__1H__ -2H1T1h__ =1H1T3h__ :1H1T3h__
+0:58  -1H2H4h__ =3H1T4h__ -3H__2h__ -2T1H1h1H -2H__1H4l :2H__2h3l :3h__2h2l -3h1T2h1l
+
+
++================================================================================+
+  Frisby - Yung Tray
+  303 codons | 1:00 | 5.0 codons/sec
++================================================================================+
+
+0:03  :__2H____ -__4H____ =__5h____ =4H3M____ -3h3M____ -3H3M1h__ ~1H2h1H__ -____1h__ =____2M__ =____2M__
+0:06  =____2M__ :____3h__ -____3h__ =____2h__ -____2h__ -____1h__ -1h______ :2h______ -2h______ :____2H__
+0:07  :1H__4M__ :2T__4M__ :2T__4M__ :2H__4M__ =3H__3M__ :2H__3M__ ~2H__2M__ =3H__2M__ =2T__1M__ -3H__1h__
+0:09  :4H______ =2H______ -2H______ =3H__1h__ -3H__2M__ =2H__2M__ -1T__2M__ -1H__3h__ -1h__2h__ :3h__2h__
+0:11  =4h__2M__ =3H__2h__ =2H__1h__ -3H__3M__ -3H__3M__ -3H__3M__ ~3H__2M__ =3H__2M__ =4H__4M__ :3H__2h__
+0:13  -3H__2h__ =3H__3M__ -3H__1h__ =4H__3M__ =3H__2M__ =3H__2M__ =2H__2M__ :1H__3h__ :1H__3h__ :2h__3h__
+0:15  -2h__2M__ :1h__2h__ =3h__2h__ =2H______ =3h______ -2h__4M__ -2T__4M__ =2H__3M__ =2H__3M__ =2H__2M__
+0:17  =2H__2M__ =2H__2M__ :2T__1M__ ~2H__1h__ ~3H__1h__ =2H__2M__ -____2h__ -____3h__ -1H__2h__ :4h__2M__
+0:19  =4H__2M__ =3H__3h__ =3H__1h__ ~3H__3M__ :4H__2M__ =4H__2M__ -4H__3M__ =3H__3h__ -2H__4M__ -3H__2M__
+0:22  -3H__2h__ =3H__3M1H =2H__1h5l -3T__2h4l -3H__2h3l =3H__2h2l :2H__2h1l :2H__3H1l -1H__3h1l =2H1T3h__
+0:23  -3T__2h__ :2T__3h__ :2H__2h__ =2H__1h__ -2H__5h__ :1T__4h__ :2T__4h__ -2H__5M__ :2H__4M__ =2H__4M__
+0:25  :2H__3M3M :2H__2h5l -1H__2M4l =2T__2h2l =2H1T3M1M -1H__2h5l -1H__2H4L =3H__1h3L =2H__3h3l =3H__2M5l
+0:27  :3H__2h4l :3H__3h4L -3H__4h3l -3H__4h2l -3T__3h1l -2H__2h__ -1T__3h__ -2H1H2h__ -3H__2h__ :2T__2h__
+0:28  :2T__3h__ :2T__3h__ =3H__2h__ -2T__4h__ -2T__4h__ =2H__4M__ =2T__3M1H =2H__2h5l -2T__3h4L -2H__3h3L
+0:30  =3H1T4h3l -1T__2h5l :2H__4M4l =4H__2h2l =3T__3h1h =3H__2h5l =3H__1h3L =3H__1h2l :3H__2h1l =2H__3M1m
+0:32  -2H1H3h__ :2T__3h__ :2H__2h__ -2H__2h__ =3H__1H__ =2T__4h__ -2T__4M__ -3H__4M__ :3H__4M__ -3H__3M1h
+0:33  -2H__2h5l :2H__2h4l =3H__2h2l :3H1T3h1m -2H__3M1h -3H__2h5l :2H__2h4l =4H__1h2l =3H__3h1M =4T__2h5l
+0:35  -3H__1h3L =4T__2h2l -3T__1h1m -3H__2h__ =3H1H2h__ :3H__2h__ :3H__2h__ -3H__2h1H =3H__2h5l =3H__4h3L
+0:37  =2H__4M1l =2H__3M1h =3H__2h4l :2H__3h3l -2H__3h2l :3H__2h3l =3H__2h5l -2H__2h5l -2H__4M4l -4H__2h2l
+0:39  -4H__1h2m =4H__2h4l =4H__1h5l =4H__2M4L =3H__3M2L -3H__1h1l -3H__2M1m =3H__3M__ -2T__2M__ -2H__2h__
+0:41  =2H__1h__ -3H__4h__ -2H__4h__ =2H__4M__ =2H__3M__ =3H__3M__ -2H__2M__ -2T__2M__ :2T__2M__ -3H__3M__
+0:43  :2T__3M__ -3T__2h__ -3H__2h__ =3H__1h__ -2h__3h__ -1H__3M1h -1H__2M5l :2H__2h4l :2H__2h4l -2T__1H3l
+0:44  :3H____2l -3H__1T2l -2H__1h1l -2T__2h__ -2T__3h__ =3H1T2h__ -3H__2M__ -2H__3h__ =2H__2h__ =3H__4h__
+0:46  =2H__4M__ -2T__3h__ -3H__2M1H =3T__2h5l =3H__3h3L -3H1H4h2L :4H__3h3l -3H__2h5l -3H__4h4l =2H__2h2l
+0:48  =2H__3M1h =2H__1h5l :3H__1h4L =2H__2h3L -3H__2h2L :2H__2h2L :3H__2h2l :2H__2M1l :2T__3M1l :2T__3M__
+0:49  =2T1T3h__ -3H__2h__ :2T__3h__ =2T__1H__ =2H__4h__ =2H__4M__ :2H__4M__ -2T__3M1H =3H__2M5l -3H__2h3l
+0:51  -2H__2h2l =2T1T4h__ :3T__2h4m -3H__1h5l -3H__2h4l =3H__2h2l =1H__3M1M =2H__2M5l :3T__2h4l -3H__2H4L
+0:53  -2H__3H3L =3H__2h2l =4H__2h__ =3H1T2h__ -3H__2h__ -3H__2h2h =3H__1h5l -2H__4h3L :2H__4h2l =3H__4M1l
+0:55  =3H__3M__ =3H__2h5l -2H__3h4L -2T__3h3L =3H1H4h2L :3H__4h3l -3H__2h5l -3H__3h4L =3H__2h3L =2H__3M2L
+0:56  -3H__1h4l -3H__2h4l =3H__2h3L -3H__4h2l =3H__2M__ =3H1T2h__ =2H__2h__ =3H______ =2T______ -3H__4M__
+0:59  -3H__4M__ =2H__3M__ =3H__3h__
+
+
++================================================================================+
+  Man Down - Yung Tray
+  286 codons | 1:00 | 4.8 codons/sec
++================================================================================+
+
+0:00  =____3h__ =____3h__ -____3h__ ~1M__1h__ =3M__3h__ ~2h__2h__ ~2h__2h__ :2H__3h__ -2H__3h__ -2h__3h__
+0:03  =2H__4h__ _2h__2h__ =2h__2h__ =1h__2h__ -2h__3h__ =2h__2h__ ~2H__2h__ :2T__2h__ -2T__2M__ -3H__2M__
+0:06  =2h__3M__ =2T__3h__ -4h__3h__ -3H__2h__ =3H__1h__ =3H__2h__ =3h__3h__ :4h__4h__ -2h__3h__ =4h__2h__
+0:08  -3h__2h__ =3H__2h__ :3h__2h__ =4H__2h__ -3h__5h__ :3h__3h__ =3h__3h__ -4h__4M__ :2h__5M__ :3h__4M__
+0:10  =3h__1M__ ~3h__1H__ ~3h__3M__ =3h__2M__ -3H__3h__ =3h__2h__ =2H__2h__ =____3M__ =____2h__ -____2h__
+0:13  =____3h__ :1h__1h__ =2H__1h__ -2T__1h__ =2h__3h__ ~3h__2h__ =3h__2M__ -3H__1M__ ~3H__1h__ =3h__2h__
+0:16  =3h__2M__ :3h__3M__ -3h__2M__ -2h__2M__ ~3H__1h__ :4H__3M__ =3H__2M__ ~3h__2M__ -1h__4h__ -2H__2M__
+0:18  -3T__2M__ -4H__2M__ -2H__1M__ -2H__3M__ =3h__3M__ -1H__3M__ -____3h__ =1H__2h__ -3H__1h__ =3h__1M__
+0:20  :2H__1h__ =2H__4h__ -2H__3h__ ~4H__2M__ =2h__2h__ ~2h__2h__ =3h__3h__ -3h__2h__ =3h__4M__ =2h__4M__
+0:23  =1H__2M__ :2H__2h__ =2H__1h__ -____3h__ =____2M__ =____3M__ -2H__4h__ =3H__2M__ :4H__2M__ =3H__2h__
+0:25  =4H1T1h__ -2T__1h__ =3H1T1H__ :3h1T2H__ -4H1T2h__ -3T1T1H__ =4H1T1H1H -4H1H2h5l -4H__1h3L =5H__1h2l
+0:27  -2H1T1h__ =3H1T2H__ -2H1T1H__ :5H1H1H__ -4H1T1H__ =3T1T1H__ -2T__1h__ =2T1T1H__ -3H4h2h3m :2T1h3h4m
+0:28  -3H1h2h2m -3T2T1H1m :3T3H3h3m -3H2h3h3m =3H1h2h2l -3H1h1H1m =3H3h1h1m -3T1h1H1l =4H2h3h4l -2T1T1H2l
+0:30  =3H1T1h1M =4H1H1h1H -4h1H1h5l =4h__1h4L -3T__1h2l =4H1T2h2l =3h__1h5l -4h__1h3L =4h1T1H2l -2T1T2h__
+0:32  -2H1H2h__ =2H1T1H1H =4H1H2h5l =4H__1h3L -5H__1h1l -2T1T1H__ =3H1T2H__ -2T1T1H__ :3H1H1H__ -3H1H1H__
+0:34  -3T1T1H__ =3T__1h1H -2T1T1h3l =3H1H2h5l -4H__1H3l =4H1T2H1l :3H3H2h4l -4H1H2h5l =3H1H1H2l =4H1H2h4l
+0:36  -3H__1h2l =4H1H2h4l -2T1T1h2l =3H1T1H1M -3T1H1H__ =4H1H2h1H -3H1H2h5l -3T__2h4L =4H1T2h2l =4H__3h4l
+0:38  -3H1T3h1l =3T1T3h__ -3T1H1H__ =4H1T1H1H -4H__1h5l -3H__1H3L =4H__3h2l :4H1T3h1m :3H1T3h__ =3H1T2h__
+0:40  -2H1T2h__ :3H1H1h__ =4H1T1H__ -2T1T2H__ =3H__2h__ -2T__1H__ :4T2T1H__ =4H2h3h3l =3H2T4h1m =3T3h3h2l
+0:41  -3T2M1h1l -3T1M1H__ =4H3H1H2m -3H2h1H__ :4H5m1h1m -4H3h2h2m -3H1T2h2l =4H1H3h__ -3T1H3h__ =4H2H2h5l
+0:43  -2H__2h4L -3H__2h2L =4H1H2h1l =3H1H1h4l :3H1T2h2l -4H1T2h1l :4h1T2h1m -4H1T2h__ =4H1H2h__ -3T1T1H1H
+0:45  =4H1H1h5l -3H__1H3L =4H__2h2l =4H1T1H__ -4H1H2H__ -2T1H1H__ =3H1H1H__ -3H1T1H__ =3H1T1H__ -4H2h1H1l
+0:47  =3H4M1h1l =3H2T2H1m -2T4h2h2m :4H2h2h3m =4H1M1H2l -5H1H1H1l -5H1H2H4l -2H__1H2l :2T2h1H2l -3H1H1H4l
+0:49  -3H1T1H2l =3H1T1H1M -3H1H1H__ =3H1H1H1H =4H1H2h5l -4T__1H4l =3H1T1H2l -3H__3h1l -2T__3h__ =4H1T2h__
+0:51  -3H1T3h__ =4H1H2h__ -2T1T1H__ =3H1T2H__ -2T__2H__ =4H__3h__ -3H1T3h__ =3H1T2h__ -3H1H2h__ :3H1H1h__
+0:53  -4H1H1H__ =4H1T2h__ -3H__2h__ =4H1T2h__ =3H__4h__ -2H__3h__ =2T1T4h__ -2T1T4h__ =3H1H1h__ -2T______
+0:54  =3H1T1H__ =4H__1H__ =4H__3h__ =4H1T3h__ -4H1T3h__ -3H1H2h__ =4h1T2h__ =4H1T2h__ -4H__2h__ :2H__2h__
+0:56  -2T1T2H1H =3H__2h4l =4h1T2H2l =4H1T2h__ -4H1H1H__ -3H1T____ :3H3T1H1h -3H1H1H5l =4H__1H3L -5H__2h1l
+0:58  -3T1T2h__ =3H1T1H__ -2T1H1h__ =3H1H1H__ -2H1T1H__ =3T1T1H__
+
+
++================================================================================+
+  Yellow Brick Road - Yung Tray
+  367 codons | 1:00 | 6.1 codons/sec
++================================================================================+
+
+0:00  -1H______ =1H__1M__ :1T__1M__ ~1H__3M__ =1h__4M__ =3H__4M__ ~2H__2M__ ~____3M__ =____4M__ =____4M__
+0:03  -1H__5M__ -3H__3M__ -4h__2M__ =3H__1M__ -3T__1h__ =3H__2M__ -3H__2M__ =3H__3M__ =3H__4M__ :3H__4M__
+0:05  =3H__2M__ -2T__2h__ -3T__3M__ =4H__2M__ ~3H__2M__ =4H__1M__ -4h__1M__ =2H__1h__ :1H__1M__ -2h__1M__
+0:07  -2h__2M__ =3H__2M__ -2H__3M__ =2T__2M__ =4H__2M__ -2H__2M__ =4H__1M__ -3H__1M__ -3T__2M__ =4h__1M__
+0:09  =4H__2M__ :3h__4M__ -3h__3M__ ~3H__2M__ :2H__3M__ :4T__2h__ =3H__2M__ :2H__4M__ =2H__3M__ =____4M__
+0:11  -1H__4M__ =2H__2M__ -3T__1h__ :3H__2h__ :2T__4M__ -2H__3M__ -3H__3M__ ~3H__2M__ =2h__3M__ ~3h__2M__
+0:13  =4H__3M__ :2H__3M__ ~4H__3M__ -3T__3M__ -3T__2h__ ~2H__1h__ -4H__1h__ -2T__2h__ ~3H__2M__ =4H__3M__
+0:16  =4H__2h__ -3H__2h__ -3T__2h__ -3T__2h__ -4H__2h__ =1H__3M__ :1H__4M__ =2H__4M__ =2h__2M__ :3h__1h__
+0:18  :2h__2M__ =4H__3M__ -3T__2h__ :4H__2M__ -2H__3M__ =4H__2h__ -3T__3M__ :3T__3M__ -3T__3M__ :4H__1h__
+0:20  -3T__1h__ :3H__2h__ -3h__2h__ =1H__3M__ -1T__3M__ -____4M__ -____4M__ =1H__4M__ -4H__3M__ :3T__3h__
+0:21  =2T__2h__ =1H__2h__ -2H__2M__ :2H__2M__ -2H__2M__ =2h__3M__ =1h__4M__ -3H__3M__ -2H__3M__ :5H__1h__
+0:23  =5H__1h__ =3H__3M__ =3H__3M__ -3H__3M__ =1H__4M__ =1h__2M__ :1h__2h__ :1H__3M__ -1H1H4h__ -3H__2h__
+0:25  :4H__2h__ :2H__3h__ -3H__2M__ -3H__2h__ -4H__2h__ :3H__2h__ :4H__2h__ -4H__2h__ :4H1T2h__ :3H4h1h2M
+0:26  -2H1T1h5l -2T1T1h5l :4H__1h5l -3H__1M5L -2H1T1h5l :2T__1h4l :3T2H1h4l -4H1H2M1h :3H__2M__ -3H1H2M__
+0:27  :2H4h1h1h :2H2H1h4l -3H1T1h5l -3H1T1h5l =3H__1h5l :2T__1h5l :3H1T1h5l -4H__1h1h -5H__1M__ :2H1H1h__
+0:29  ~4H1H2M__ -2H4H1h__ :4H1T2h__ :3H1T2M__ -2H2h2M__ :2H4M1h2m -3H1H1h4l =3H1T1h4l -3H1T1h4l -2H1T1h4l
+0:30  =3H1H2h1H -4H2h2h__ :2H5m2M1M -2H1H3M5l -1H1T2h5l -3H1T2h5l -2H1T1h5l -4H1T1h4l -2H1T3h1h -3H1T2h__
+0:32  -1T1T2h__ -4H2T2h__ :4H1T1h__ -3H1H1h__ -2T5M3h2m :1T2T4h4l :1T1T2h5l -2T2H1H4m -2T4M1h3m -3T1T1h5l
+0:33  :3T__1h5l -2H__1M5l :3H1T1h5l :1h1T2h5l -2T1H1h5l =3H1H2h__ :2H5h1h1M :2H2T1h4l -3H1T1h5l -1H1T1h5l
+0:34  =3T__1h5l :2T__1h5l -2T1T1h4l :3T1T1h1M :3T__1h__ :2T__1h__ -3H1H1h__ -3H1H2h__ -1T__3M__ :2H2H2h__
+0:36  -2h5H1h__ :3H2T2h__ :2H1T2h__ :1H1h2h__ :2T4h1h1h =2T1H1h4l :3H1T1h4l -3H__1h4l -4H1T1h4l -3H1T1h4l
+0:37  =3H1H2h1h :3H__2h__ -3T2H2h__ :1T5m2h2M :2H2M3M4l -2H__3M4l :2H__2M5L -4H1T1h4l -3H1T1h4l -3H1T1h4l
+0:38  -3H1T2h1h -3H1T2h__ :1H1T2h__ =3H1T1h4l -2T1T1h4l :1H1T1h4l :2T1T1h3l -2H1T1h5l -2H1T1h4l =3T1H2h4l
+0:39  -2T__1h5l =2T__1h5l :2H1T1h5l :1H1H1h5L :2T2H1H5l =4H1H2h1h -4H__2M__ -3H1T3h__ -3H1T2h__ :3H1T2h__
+0:41  :3H1T2h__ -3H__1h__ -2T__2h__ :4H1T1h__ -3H__2M__ :3H__2h__ -1H1h2h__ =3H1H2h__ -4H__2h__ -3H1T2h__
+0:42  :3H1T2h__ -3H__3h1H =2H__1h4l :2H1T1h5l =3H__1h4l :2H1T2h4L :3H1T1h4l :2T1T2h4l =3H1H2h1h -2H__2M__
+0:44  -3H__2h1h =2H__2M4l -2T1T2h5l -3H1T1h4l -2H1T1h5l -4H1T1h4l -3H1T2h1h -3T1T2h__ -3T1T2h__ =3H2T1h__
+0:45  :4H1T1h__ :4H__1h1h -1T__3h4l -1T1T3h5l :1H1T1h5l -2H__1h4l :2T1T2h5l :2T1T1h5l -4H__1h5l -3H__1h5l
+0:46  :2H1T2h5l :1H1T2h5l :1T__2h5L ~3H1H2h1h -2H1H1h4l -3H1T2h5l -2H1T2h5l =3H__1h4l :2H1T1h2m =3T__2h__
+0:48  -2H1H2h__ =4T1H2h__ :4H2H2h__ -2T4h1h__ :3T2T2h__ :3H1T2h__ -3H1h2h1h -3H1h1h4l :3H__2h5L :3H1T1h4l
+0:49  -3H__1h4l :3H1T1h4l -3T1T1h4l -2T1T2h4l :3H2H2h2m :4H__2M__ =4H1h2M__ -2H4m2h1h :3H2h2M4l =3H__2M4L
+0:51  -3H1T1h4l -3H1T1h4l :2H1T1h5L :3H1T1h4l -3H1T2h1h -4H1T2h__ -3H1T1h__ -4T1T1h__ =4H1T1h__ :3H5M1h2M
+0:52  -2H1T2h5l :1H1T2h5l :1H2h2H4l -1H1H3h__ :3T__2h__ =3H1H2h__ :2H__2h__ -3H__2M__ =3H__2M__ :3T__2M__
+0:54  :2T__2M__ :3T__3M__ :2T__3h__ ~3H__2h__ -3H__1h__ -2H__2M__ =2H__2M__ =3H__2M__ ~4H__2M__ :4H__4M__
+0:55  =3T__3M__ :2H__2M__ -3H__1M__ -4H__2M__ :3H__3M__ =4H__2M__ -3H__2M__ -4H__3M__ :2H__3M__ -4T__2h__
+0:57  :3T__2h__ ~3H__4M__ -3H__2M__ :2H__1M__ -2T__1h__ -3H__3M__ :2T__3M__ -3H__2M__ -5H__2M__ -3T__2M__
+0:58  -3T__1h__ =3T__1M__ :2H__2h__ -3H__3h__ :4H__3M__ :3H__2M__ :2T__3h__
+
+
++================================================================================+
+  Southside Dummy - Soldier Kidd
+  292 codons | 1:00 | 4.9 codons/sec
++================================================================================+
+
+0:08  ~____1h__ =____1h__ =____1M__ ~____2M__ :____2M__ ~____2M__ =____2M__ :____3M__ :2H__3h__ ~3H__1h__
+0:11  ~3H__2h__ ~2H__2h__ ~2H__2M__ :1H__2M__ =1H__2M__ -1H__2M__ :1H__2M__ =1H__2M__ :1H__3M__ -2H__2M__
+0:14  :2H__1h__ ~1H__2h__ =1H__2M__ -2H__3h__ :2H__2h__ =2H__2h__ ~____2M__ :1h__2M__ :2H__3M__ :2h__4M__
+0:16  =1h__2M__ ~____3M__ :1H__2M__ -1H__1h__ -1H__2M__ =1h__2M__ -1H__2M__ =1h__2M__ ~____2M__ :____2h__
+0:18  :1T__3h__ :1T__2h__ =2H__1h__ -3h__1h__ =1H__2M__ _1h__2M__ -____2M__ =____3M__ =1h__2M__ =1T__2M__
+0:21  =2H__2M__ =1h__2M__ ~1H__3M__ _____2M__ -1h__3M__ =____2M__ -1h__2M__ -____3M__ -2T__2h__ =3T1T3h__
+0:24  :4H1T4h__ =3H__3h__ -4H1T2h__ =2H__2h__ =3H1H3h__ =3H__4h__ =3H__3h__ =3H__2h__ -2H1T2h__ -2T__3h__
+0:26  -2T__2h__ =2T1T3h__ :2T1T2h__ -1H1T3h__ =3H2H3h__ -1T__4h__ :3h1T3h__ =2H1T3h__ :1H2H2h__ -2H__2h__
+0:28  =3H1T3h__ :4H1T3h__ -3H__3h__ =3h1T2h__ =3H1T2h__ =3H1H2h__ -2h__4h__ :4H1T4h__ -4H1T3h__ -4H1T3h__
+0:29  -2H1T3h__ :2H1T3h__ :3H__2h__ =3T__2h__ :3H1T2H__ :3H1T2H__ :2H__2h__ :2T__1h__ =2T1T2h__ -3T2H2h__
+0:31  :2T1T3h__ -1H1T5h__ :4H1T3h__ -3H1T4h__ -4h1T2h__ -1h1T2h__ -3H1T2h__ -3H__3h__ =2H1T3h__ :3H1T1h__
+0:32  -5H1T2h__ -2H__3h__ -1T__2h__ -3H2H2h__ -3H__3h__ =2T__4h__ -5H1T4h__ -3H__4h__ -1H__2h__ =3H__2h__
+0:34  -2T__3h__ :1T__2h__ -3H1T3h__ :3H1T4h__ =2T1T5h__ =3H1H3h__ =2T__3h__ =3H1T3h__ -1H2H1h__ :3H1H1h__
+0:35  =4H1T3h__ =4H1T3h__ -5h1T2h__ :3h1T3h__ :1h1T3h__ -1h__3h__ =3H1T3h__ =2H__4h__ -5H1T3h__ :4H1T3h__
+0:37  -2H1T4h__ :2H1T4h__ =3H__2h__ =2T__3h__ :3H1T2h__ -4H1T2h__ -2T1T3h__ :3T1T3h__ =3T1T3h__ =2T1T3h__
+0:39  -3T______ -1H______ -1T______ :2H1T____ -4H1T2h4l :3H2T3h4L =2h1T3h4L =3H1T3h3L -2h1T3h2L :4h1T2h2l
+0:40  =3T1T2h4l =2T__4h4l -3H__3h4l :1H__3h4L -2H__3h4L :4h__2h3L =4h__1h3L :2H__1h3l -2H__1h4L :3H__1h4L
+0:42  -3H1T2h4L :1H1T3h4L =2T1T3h3L :3H2T3h3l =3h1T2h4l -1T1T4h3L :3H1T4h3L =3H1T3h3L :1H2H3h3l -2H__2h4L
+0:43  :5H1T1H4l =3H1T2h4l =3H1T3h4L -3H1T3h3l -2T__3h2L =2H1T2h1M =4H1T3h__ =3H__4h__ =3H3H3h4l -2H1T3h4L
+0:45  -4h__2h3L -3H__2h3L :3H__2h2l -4h__1h4l =3H1T1h4L :4H1T2h3L -2H1T1h3L :4H3H2H2l -2H1H3h4L -3T1T4h3L
+0:47  :3T__3h3L -3H1T2h3L :2H1T2h3L -2H1T2h2L :2T1T2h2L :3T1T2h2L =3H1T3h4l =2H1T2h4l =4H1T3h3L -1H1T3h4l
+0:48  :2T1T2h3L -4H2H2h3l -3H__3h3L -2H__4h4l :2T__4h4L :4H1T3h4l -4H__4h4l -2H__4h4L -1H__3h3L :1H__2h3L
+0:49  =3H__3h3L -2H__2h2L :2T__2h2L :3H1T2h2l -3H1T2h1M :2T1T2h__ =3H1T3h__ =4H1H3h__ -2H__4h__ :4H__3h__
+0:51  -4H__2h__ :1H1H3h__ -1H2H2h__ :3T1T2h__ -4H1T3h__ :3H1T3h__ -2H2T3h__ :4H1T2h__ :3H2T3h__ -2T__4h__
+0:52  =3H1T3h__ =4H1T4h__ -2T__4h__ :3H1T4h__ -3H1T4h__ -3H__4h__ -2T__4h__ =3H__2h__ -1T__3h__ :3H__2h__
+0:53  -3H1T1H__ -3H__1h__ -3H1T3h__ =3H1H3h__ -1T1T3h__ :2T__3h__ -4H1T2h4l -2H1T2h5l -1H1T2h5l -4H__1h4l
+0:55  -4H__2H4l :3H__2H4L -3H__2H4L :3H__2h3L -3H1T2h3L :2T__3h3L =3H__2h2l =4H__2h4l =3H__2h4l =3H__2h4l
+0:57  :2H__3h4L -1H__2h4L :3H__2h3L -3H__4h3L -3H__3h3l -4H__2h4l :4H__1h4L :5H1T1H4L -4H__2h4L =3H1T3h3l
+0:58  :3H__2h3l :3T__2h4l -3T__3h4L =3H__2h3L -4H__3h3L :1H__2h3l -2H__3h4l -3H__1h4l =3H__2h4l -3T__2h4L
+0:59  :3T__2h3L :5H__1H3L
+
+
++================================================================================+
+  4 Inda Morning - Bo Billy
+  323 codons | 1:00 | 5.4 codons/sec
++================================================================================+
+
+0:00  _____2h__ =__2T3h4L -__1T2h4L -__1T2h5L =__3T2h4L -__1T2h4L -__1T2H5L -__1T2H4L =__1T2H4L -____2H4L
+0:03  =__1T2H4L :__1T2H3L -__2T2H3L =__3T2H3L -1h1T2h2L =3h1T1h4l -1h1T2H5L =1h1T2h5L =1h1H2h4L -__1H2h5L
+0:05  =__3T2h4L -__1H2h4L -__1T2h5L -__1T2h4L =__1H2h4L :3h1T2H3L -4h1T1H3L -3h1T1H3L =3h3T1H2L -3h1T2H2l
+0:07  -3h1T2h4l -1h1T2H5l =1h1T2h5L -1h1T2H4L -__2T2H5L =__3H2H4L -__1H2H4L -__1H2H5L -__1T2H5L -__1T2H4L
+0:09  -__1T2H4L =__1T2H3L -__2T2H3L =__3H2H2l -__1T2h2l -__2T2h5l -__2T2H5L -__1T2h5L -1H1T2H4L -2h1T2H4L
+0:11  =2h1T2H4l =1H3H2H4L -2h__2H4L -2H1H2H5L =2h1T2H4L -1h1T2H4L -2h1T2H3L =1h1T2H5l :2h1T2H5l :2h1T2H5L
+0:12  -__4T2H4l :__1T3H4L -__1T2H5l :__1T2H5l =__2T2h5l -__1T2h5l -1h1T4H1M =4h1T2T__ -2h2h3T__ -4h1H2T__
+0:14  :4h1h3T__ :4h__3T__ :1H1H3H__ =3h1h2T__ -2h2M2T__ -2h1h2T__ =2h1h3T__ =3h2M2T__ :2H2M2T__ -2H1h2T__
+0:15  =4H1h2H__ :3h2M2H__ -3h2m1H__ =2h2M2H__ -1h2m2H__ -1h1M2H__ -2h2M2H__ =1h__3H__ -____3H__ =____3H__
+0:17  -2h__2H__ :4h__2H__ =2h__2H__ :2h__2H__ =1h__2H__ =1h__2H__ -____2H__ ~____3H__ =____3h__ =____3h__
+0:19  =____3H__ =____4H__ -____3H__ =____4H__ =____3H__ -____3H__ =____3H__ =____4H__ -____3H__ =____3h__
+0:22  =____3h__ =____3h__ -____3H__ =____4h__ -____3H__ =____3H__ =____3H__ -1H__3H__ =3H1T2H1H -3H2T3H4l
+0:24  -2H2T2H5l -2H1T2H5l -3H2T2H5l -2H3T2H4l =2H2T2H4L -2H1T2H4L -1H1T2H5l :2T2T2H4l -2H3T2H3l :2T1T3H4L
+0:26  :2H1T2H4L :2T1H2H4l -2H1T2H4L -1H1T2H4L =2H1T2H4L -2T__2H3L =2H1T1H3L -1H2T2H3L -2H3T2H2l =2H1T2H2l
+0:28  -2H1T2H5l -2h1T2H5L =2H1H1H4L -2H__2H4L =2H1H2H4l -2H1H2H5L -3h3H1H3l :2H1T2H4L -2H1H2H4L -2H__2h4l
+0:29  :2H1T2H4L -2H1T2H4L -2H1H2H4L -1H__2h4L :2H1T1H3L -3H1T1H3L =2H1T1H3L -2H3H2H2l -2h1T2H2L =2H1T2h5l
+0:31  -1h1T2h5l =2H1T2h4L -2H__2H4L -2H1T2H4L -1H1T2H5L =1T3H2H4l -2H1H2H4L -2H__2H5l =2H1T2H4L -2H1T2H4L
+0:33  -2H1T2h4L =3H1T1H3L -1H1T2H3L =2H3T2H2l -2T1T2H2l =2H2T2h5l -1T2T2H4l -2H1T2h5L -2H1T2H4L =2H1T2H4L
+0:35  -1H1T2H5L -2H3H2H4L -2H1H2h4L -2H__2h5L -2h1T2H4L =2H____1h -2H______ ~2H______ -3H______ =3H______
+0:37  -2T__1H1H =1H1T4h5l =2H2T2H4L -1T1T2H5L -2H1T1H4L -1h3T2H3L =2T1T2H3l -2H1T2H5l -2T1T2H5L =1H__2H4L
+0:39  -2H__2H4L -2H1T1H5L -2H1T1H4L -1h3T3h3L =2T1T3h4l -2h1T2h4L -1H1T4h4L :2H1T2h4l -2H__2h4L -1H__2H4L
+0:40  =2H__2H4L -2H1H1H4L -2h3H1H3L =2H1T2H3l -1T__2H5l -1T1T2H5L -2h1T2H4L -2H__2H4L =2T1T1H5L -3H1T1H4L
+0:42  -1H3H1H3L :2H1T2H4l -2h1T2H4l -2h1T2H5l -2H1T2H5L :3H1T2H4l -2H__2h4L -2H1T2H4L -1h1T2H4L =3H1T2H4l
+0:44  =2H2T2H4L :1T1T2H4L :2H__2H4l -2H__2H4L =2H1T2H4L =2T1T2H4L -1T1T2H4L -1H1T2H3L =2H1T2H3l =1H3T3H2l
+0:45  -1H1T3h2l :3H1T2H3l -2H1T2h5l -2h1T2h5L :3H1T1H4l -2H2T2H5l -2H1T2H4L :2H1T2H4l -2H1T2h5l :1H1T2H4L
+0:47  :2H1T2H4l -2H2T2H4l -2H1T2H4L =2H1T2H4l -2T1T2H4l =2H1T2H4l =2H1T2H5l -2H1T2H4l =1H2T3H5l -1H1T2h5L
+0:49  =2h1T2h5L -2h1T2h5L =3H2T2H4l -2H1T2H4L :1T1T2H4l -2H2T2H5L -1T2T2H4L -2H1T2H4L -2H1H2H4L =2H1T2H4L
+0:51  =2H__2H4L =2H1T1H3L -3H1T2H3l -2h4T2H2l :2h1T5h2l -2H1T2H2l =2h1T2h5l :1T1T2H5L :2T1T2H5l =2H__1H4L
+0:52  -2H1T2H4L :2H__2H4l :1H__2H5L =2h2T2H4L -2H__2H4L -3H__2H4L -2T1T2H4L -2H1T2H4L -2H__2h3L :2H2T2H3l
+0:54  -1H1T2H3L :2T1T2H3l -2H1T1H3l -2h4H1H2l :3h1T1H2L -2h1T2h2L -3H1T1H4l :2H1T2H5l -2H1T1H5l =2H__2H4L
+0:55  -1h1T2H4L :2H1T2H4l -2H1T2H5L -1h4H2H4l :2H1T3H4L -2h1H2h4L =2H__2h4l -2H1T2H4L =2H1T2H4L -2H1T2H3L
+0:57  -2H1T2H3L -2H1T3H3l =1h3T3H2l -2H1T2H2l =2H1T2H5l -2T1H2H4L =2H1T2H4L -2H1T2H4L -2H1T2H4L -1H1T2H5L
+0:59  =3h3T2H4L -1H1T2H4L =2T__2H5l
+
+
++================================================================================+
+  Stolo - LPB Poody
+  446 codons | 1:00 | 7.4 codons/sec
++================================================================================+
+
+0:00  -1H1T1H5l -1H1T1H4l -2H1T2h4l -1H1T1H5l -2H1T2h4l -1H1T1H4l -2H1T2h5l -1H1T1H5l -4H1T2h4l -3H1T1H3l
+0:01  -2H1T2H4l :2T____4l :4T1T2H4l -4H1T2H3l -1H1T1H5l -__1T2h4L -__1T__4l -2H1T1H5l -2T__1H5l -2T1H2H4l
+0:03  -2H1T1H5l :2T__3H5l :2T1T1H4l -2H__1H4l -3T1T1H5l -3H1T__4l -3H1T1H3l -2H1T__3l -2h1T2h4l :2T1T5h4l
+0:04  :3T1T3H4l -3H1T2H4l -2h1T1H5l :1H1T3h5l :__1T1H4l -__1T1H4l -__1T2H5l :1h____5l :3h1T1H4l -4h1T2h4l
+0:05  -2h____5l -2H1T2H5l -1H1T__4l -2H1T__5l -2H____5l -3h1T3h4l -2h1T1H3l -2h1T2h4l -2T1T1H4L -2H1T3h4L
+0:07  -3h1T1H5l :1H1T4h4L :__1T2H4L -__1T__4L -__1T1h5l -__1T2H5l -__1T4h4l -__1T1H5l -1H1T2h5l -2H1T1H4l
+0:08  -2h1T1H5l -__1T1H5l -____2H3L :______1l :__1T1H3m :__1T3h5l :__1T2h4l -__1T1h2m -1H1T3h5l -4T__1H2M
+0:09  -3H__2H4l -3h2H__1m -2h3T1H4l -2h____4l -4H1T2h3l -2H3H1H4l -3H1T2H4l -2h1T__3l :3h4H1H3l -1H2T1H4l
+0:11  -1H__1H4l -__1T2H3l -1H1T1H3l -1H1T3h4l :2H1T1H4l -3h1T1H4L -3h1T2h4l :3h____5l -4H1T1H4l :4H1T1H4L
+0:12  -3h1T__3L :2H5h1H2l :2h3H__4l -3H1T1H4l -3H1T3h3l :2H5h1H2l :3H3H__4l -3h1T1H4l -4h1T__3l :2T5M1H2m
+0:13  :2T2H1H4l -1H1T1H4l -1H1T2h3l :1H1T__3l :3h1T2H3l -3H1T3h4l -4h1T3h4l -3h2H1H3L -2H5h1H3l :3T2H1H4l
+0:14  -3h1T2h4l -3h1T__4l :2H5H1H2m :2H3H__3l -2h1T__4l :3H1T2H4l -3H2H2h3l :3h5M1H2l :3h2H1H4l -2H1T1h4l
+0:15  -3h____3l :4h4H1H2l :2T5m1H3l :2T2T__4l -2H1T1H4l -1H1T2H3l -1H1T__3l -3h1T2h4l -4h1T1h4L -3H1T1H3l
+0:16  :2T1T__5l :3H1T1H4l -3H1T2H4L -3T1T__3l :3h5H1H2m :3h3H__4l :3h1T__4l :3H__1H4l -3H1T1h3l -2H4h1H3l
+0:18  =3H2T1H4l :2T1T__3l :2T2H1H3l -2H4h1H3l -2T1T__4l :1H1T1H4l -____2h3L -1T____1m -2T1T2H5l :3T__1H3l
+0:19  -3H__1H1M -4H__2h4l -3H____1M -3H1H1h5l =4T____2M -3H__1H5l :3T____5l :3T1T2H4l -2H__3h4l -3H1T1H5l
+0:20  -2H1T2H4l -3h1T1H4l -3H1T2H5l :2T1T__5l :2T1T1H4l -__1T3h4l :1H1T__3l :1H1T1H3l -2H1T4h5l -4h1T1H4L
+0:21  :4H2T2H4l :4h1H2h3L -4h1T1H4l -3h1T2h4L -3h1T__4L -4H1T1H5l -3h__1H4l -2T1T3h4l :4H1T2H4l -2H1T1H5l
+0:23  -3h1T2H4l -4h1T1H4l -2h1T1H5l :2H1T__5l :2T1T2H4l :1T1T3h4l :1H1T1H3l -1H1T__3l -3H1T3h4l :2T1T5h4L
+0:24  =3H1T1H4l -2H1T1H5l -3H1T2h4l -4h1T1H4l -3H1T1h5l -3H1T1H4l :2T__3h4l :3T1T2H4l -3h1T1H5l -3H1T1H4l
+0:25  :3h____3l :4h1T1H4l -3h1T1h5l -2H1T1H4l -1H1T3h4l -4h1T1H3l -3h1T2h4l -2H1T1H4L =3H1T__4l :2T1T__5l
+0:26  :3T1T1T4l -3H1T2H4l -3h1T__4L -3H1T1H5l -3h__1H5l -3T1T2H4l -3H1H1H5l -4h1T1H4l -2T1T__3l -2h1T1H5l
+0:28  -2h1T1H4l -2H1T2h4l -3H1T__3l -3H1T1H5l -4h1T1H4l -3h1T__3l :2H1T__4l :4h1T1H4l :3H1H1H4l :3H1T__4l
+0:29  -2T1H__4l -2H2T1H4l -3H1T1H4l -4h1T3h3l -2T3h1H4l -2H1T__4l -1H____3l :2H3H1H3l -2h3H1H3l -3H1T1H4l
+0:31  -2T1T2H3l -3h1T1H3l -3h1T2h4l -3h1T1H4L -1H2H2h3L :1H1T1H4l -1H1T1H5l -1H1T3h4L :2H1T__4L :4T2H1H3l
+0:32  -2H4h1H3l -3H1T__4l -3h1T2h3l -2H4h1H3l -2T1H1H4l -1T1T__3l -1H4h__3l -2H1T1H4l -3h1T1h3l -4h1T1H3l
+0:33  -4H1T3h4l -3h1T3h4l -1H2H2h3L -2h4h1H3l -3T1H1H4l -2T1T__4l :2H4H1H3l -2T2T__4l -2H__1H4l -3H1H2h3l
+0:35  -3H3h1H3l -3h1T__4l -2h1T__3l -2H4H1H3l :2T____4l :4H1T2H4l -4H1T2H3l :3H1T__3l :2H1T1H3l -2T1T3H4l
+0:36  -3H1T1H4L :2H2H3h3l :3H1T1H4l -3T1T1T4l -3H1T2H4l -2H____4L :2H4H1H3l :2T4M1H3m :3T1H__4l :2H____4l
+0:37  -4H1T3h3l -2H3h1H3l -3h1T2H4l -2H____3l :2H4H1H3l :1T4h1H4l :2T1T__4l -2h____4l -3h1T2h3l -3H1T__3l
+0:38  -3T1H1H5l -4h1T2H4l :2h1T4h3l :3H3H1H2l -2T4h1H3l :2H5h1H3m -2H2H__3l :1H____3L =3H__1h4l -3H__2H4l
+0:40  -3T__3h4l -3h__2h5l -1H__3h5l -1H__1H4l -2T__2H5l -2H__1H5l =3H__2H3l :3H__1H3l =3T__2h4l -4h__2H4L
+0:41  :1H__4h4L :____1H4l :1T____5l =3H__2H4L :4H__2H4l -3H__2h5l -3H__2h4l -4H__3h4l -4H__2h5l -2H__2h4l
+0:43  -2H__2H4l =3H__2H5l =3H__2H3l -2T__3h4l -3H__3H4L -2T__3H4l -3H__1H5l =2T__2H4l -3T__1H4l -2H__2h5l
+0:44  -3H__2H4l -3h__3h4l -3H__2h5l -3H__2h4l -2H__2H4l =2H__2h5l =3H__3H4l -3H__1H3l -2h__3h5l =3h__2h4L
+0:46  -3T__3h4l -2T__1H5l =3H__2h4L :4h1H1H4l =3h1H1h5l :4h__3h4l :2T__3h4l -2H1H1H5l -2H1H1h4l -2H1H__4l
+0:48  -2h1H1H5l -2T____5l -3H1H1H4l -2h1H__3l -2H1H__5l -3H1H__4l -1H1H__3l -3h1H__4l -3H1H__4l -2h1H__4L
+0:49  -2H2T1H5l -3h____4l -2H1H2h3l -1H3h1H4l -2H1H1H4l -2H1T__3l -2H2H1H5l -2H____4l =2H1T__3l -2M1T__3L
+0:51  =2h1T1H4l -1H1T__4L -1H1T__4l -1H____5l -3H1T1H4l -2T____4L -3h____1m -3T______ -4h______ -3h______
+0:52  -3H______ :2H______ -3H______ -3H______ -3H______ -2h______ -3H______ -3T______ -3h______ -2T______
+0:54  :3H______ :3H______ -3h1H____ -2H3H__3l -2h__1H4l :3h__4h3l :2h3H2h3l :1T5M1H3l :1T3h__4l -2H1T1H4l
+0:55  -3H1T__3l :2H5h1H2l :2H3H__4l -2h1T__4l -3H1T1H3l -1T1T__3l =2H1T2H4l :2T____4l :3T1T1H4l -3T1T2H4l
+0:56  -3H__1H5l -3h1T2h4l -3h1T__3L :2H5h1H2m :2h2H__4l -2H1T1H4l :3h__3h3l :3H3H1H3l -2H4h1H3l -3h1T1H4l
+0:57  -2h1T__3l :2T5h1H2m :2T3H__4l -2H____4l -3H__2H3l -2T1T__3l =2H1T1H5l :2T1H1H4l :1T1H__4l -1H2H__3l
+0:59  :3h4H__2l :1H4M__3l =2h4H__3l -2h1T__4l -3h1T1H4l :2H____4l
+
+
