@@ -85,5 +85,7 @@ Takes any song, separates it into 4 stems (vocals, drums, melody, bass) using De
 - yt-dlp 2026.3.17, demucs htdemucs model
 - matplotlib installed for visualizations
 - deno installed for yt-dlp JS runtime
+- torchcodec installed (2026-08-02) — newer torchaudio requires it for demucs to SAVE stems; without it separation silently produces empty output dirs
+- openai-whisper installed (2026-08-02) for transcribing separated vocal stems
 - The `separated/` and `clips/` directories are LARGE (many GB of WAV files). The `.gitignore` should exclude them.
 - All DNA/analysis output files are small (text/JSON) and should be committed.
